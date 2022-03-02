@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "0WrittingInbox",
+  "defaultViewMode": "source",
+  "showFrontmatter": false,
+  "showLineNumber": false,
+  "spellcheck": true,
+  "strictLineBreaks": true
+}

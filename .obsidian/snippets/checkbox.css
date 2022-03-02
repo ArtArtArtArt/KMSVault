@@ -1,0 +1,10 @@
+input.task-list-item-checkbox {
+    border: 1px solid var(--background-modifier-border);
+    appearance: none;
+    -webkit-appearance: none;
+}
+
+input.task-list-item-checkbox:checked {
+    background-color: var(--background-modifier-border);
+    box-shadow: inset 0 0 0 2px var(--background-primary);
+}

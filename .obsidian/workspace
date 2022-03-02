@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "b34abd25e8bfac60",
+    "type": "split",
+    "children": [
+      {
+        "id": "9618ab6265f1076c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0WrittingInbox/Untitled 12.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dde485eb6b974463",
+    "type": "split",
+    "children": [
+      {
+        "id": "25b952fafaaba436",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c329ac580d99fe4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "42ad7245648afd8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:0WrittingInbox",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ac5c23b8c0cdd54",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301
+  },
+  "right": {
+    "id": "a922d188f5a51fec",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3bdb6896f826b52",
+        "type": "tabs",
+        "dimension": 23.956262425447317,
+        "children": [
+          {
+            "id": "fa5e79ff6afa72f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0WrittingInbox/Untitled 12.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "97d1b64fc10dfe39",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "37a0649a040b5b15",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d69cfdb2aaac2734",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "eb19ce275fb09d34",
+        "type": "tabs",
+        "dimension": 19.880715705765407,
+        "children": [
+          {
+            "id": "5aff4a033f9372e7",
+            "type": "leaf",
+            "state": {
+              "type": "tlfItemView",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "dec8c6931c9c19af",
+        "type": "tabs",
+        "dimension": 19.880715705765407,
+        "children": [
+          {
+            "id": "03700d5aa59c3800",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0WrittingInbox/Untitled 12.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9ea9dd41e9e7ad0d",
+        "type": "tabs",
+        "dimension": 36.28230616302187,
+        "children": [
+          {
+            "id": "38c8f0b16974b222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROUTINE.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 435
+  },
+  "active": "9618ab6265f1076c",
+  "lastOpenFiles": [
+    "0WrittingInbox/Untitled 12.md",
+    "1EvergreenNotes/Untitled 5.md",
+    "1EvergreenNotes/Russian war crimes list.md",
+    "1EvergreenNotes/c++ concurrency in action.md",
+    "1EvergreenNotes/Rust project.md",
+    "1EvergreenNotes/Untitled 15.md",
+    "1EvergreenNotes/Untitled 16.md",
+    "ZZZ/Untitled 10.md",
+    "0WrittingInbox/Untitled 14.md",
+    "0WrittingInbox/Untitled 13.md"
+  ]
+}
