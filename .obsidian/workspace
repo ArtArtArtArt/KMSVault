@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1EvergreenNotes/c++ concurrency in action.md",
+            "file": "0WrittingInbox/Clean acrhitecutrre.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conc",
+                "query": "type: book outline",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -73,7 +73,7 @@
       {
         "id": "d3bdb6896f826b52",
         "type": "tabs",
-        "dimension": 23.956262425447317,
+        "dimension": 18.71609403254973,
         "children": [
           {
             "id": "fa5e79ff6afa72f9",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1EvergreenNotes/c++ concurrency in action.md",
+                "file": "0WrittingInbox/Clean acrhitecutrre.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
       {
         "id": "eb19ce275fb09d34",
         "type": "tabs",
-        "dimension": 19.880715705765407,
+        "dimension": 18.083182640144667,
         "children": [
           {
             "id": "5aff4a033f9372e7",
@@ -136,7 +136,7 @@
       {
         "id": "dec8c6931c9c19af",
         "type": "tabs",
-        "dimension": 19.880715705765407,
+        "dimension": 17.99276672694394,
         "children": [
           {
             "id": "03700d5aa59c3800",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1EvergreenNotes/c++ concurrency in action.md"
+                "file": "0WrittingInbox/Clean acrhitecutrre.md"
               }
             }
           }
@@ -153,7 +153,7 @@
       {
         "id": "9ea9dd41e9e7ad0d",
         "type": "tabs",
-        "dimension": 36.28230616302187,
+        "dimension": 45.20795660036166,
         "children": [
           {
             "id": "38c8f0b16974b222",
@@ -174,15 +174,15 @@
   },
   "active": "03c108b97fe9bc62",
   "lastOpenFiles": [
+    "0WrittingInbox/Clean acrhitecutrre.md",
+    "1EvergreenNotes/Monorepo.md",
     "1EvergreenNotes/c++ concurrency in action.md",
+    "Templates/book outlibe.md",
+    "0WrittingInbox/Untitled 3.md",
     "1EvergreenNotes/Untitled 5.md",
     "0WrittingInbox/Untitled 12.md",
     "1EvergreenNotes/hidden messages.md",
     "1EvergreenNotes/Russian war crimes list.md",
-    "1EvergreenNotes/Rust project.md",
-    "1EvergreenNotes/Untitled 15.md",
-    "1EvergreenNotes/Untitled 16.md",
-    "ZZZ/Untitled 10.md",
-    "0WrittingInbox/Untitled 14.md"
+    "1EvergreenNotes/Rust project.md"
   ]
 }
