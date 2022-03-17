@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "03c108b97fe9bc62",
+        "id": "e014db157c1f4a9e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0WrittingInbox/Clean acrhitecutrre.md",
+            "file": "1EvergreenNotes/c++ concurrency in action.md",
             "mode": "source"
           }
         }
@@ -39,10 +39,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "type: book outline",
-                "matchingCase": false,
+                "query": "type : book outline",
+                "matchingCase": true,
                 "explainSearch": true,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -64,7 +64,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301
+    "width": 301,
+    "collapsed": true
   },
   "right": {
     "id": "a922d188f5a51fec",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0WrittingInbox/Clean acrhitecutrre.md",
+                "file": "1EvergreenNotes/c++ concurrency in action.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0WrittingInbox/Clean acrhitecutrre.md"
+                "file": "1EvergreenNotes/c++ concurrency in action.md"
               }
             }
           }
@@ -153,7 +154,7 @@
       {
         "id": "9ea9dd41e9e7ad0d",
         "type": "tabs",
-        "dimension": 45.20795660036166,
+        "dimension": 45.207956600361655,
         "children": [
           {
             "id": "38c8f0b16974b222",
@@ -170,19 +171,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435
+    "width": 435,
+    "collapsed": true
   },
-  "active": "03c108b97fe9bc62",
+  "active": "e014db157c1f4a9e",
   "lastOpenFiles": [
-    "0WrittingInbox/Clean acrhitecutrre.md",
-    "1EvergreenNotes/Monorepo.md",
     "1EvergreenNotes/c++ concurrency in action.md",
+    "0WrittingInbox/create docker for windows - try it for your job.md",
     "Templates/book outlibe.md",
     "0WrittingInbox/Untitled 3.md",
-    "1EvergreenNotes/Untitled 5.md",
-    "0WrittingInbox/Untitled 12.md",
-    "1EvergreenNotes/hidden messages.md",
-    "1EvergreenNotes/Russian war crimes list.md",
-    "1EvergreenNotes/Rust project.md"
+    "0WrittingInbox/Untitled 2.md",
+    "0WrittingInbox/Untitled 1.md",
+    "0WrittingInbox/Untitled.md",
+    "1EvergreenNotes/Untitled 15.md",
+    "1EvergreenNotes/docker.md",
+    "1EvergreenNotes/linux vs Windows.md"
   ]
 }
