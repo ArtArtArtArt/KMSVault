@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e014db157c1f4a9e",
+        "id": "18a23fa4a4fc3c20",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1EvergreenNotes/c++ concurrency in action.md",
+            "file": "2MOCs/Rendering MOC.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "type : book outline",
+                "query": "path:1EvergreenNotes",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -64,8 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301,
-    "collapsed": true
+    "width": 301
   },
   "right": {
     "id": "a922d188f5a51fec",
@@ -74,7 +73,7 @@
       {
         "id": "d3bdb6896f826b52",
         "type": "tabs",
-        "dimension": 18.71609403254973,
+        "dimension": 45.840867992766725,
         "children": [
           {
             "id": "fa5e79ff6afa72f9",
@@ -82,14 +81,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1EvergreenNotes/c++ concurrency in action.md",
+                "file": "2MOCs/Rendering MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -117,12 +116,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "eb19ce275fb09d34",
         "type": "tabs",
-        "dimension": 18.083182640144667,
+        "dimension": 17.99276672694394,
         "children": [
           {
             "id": "5aff4a033f9372e7",
@@ -137,7 +137,7 @@
       {
         "id": "dec8c6931c9c19af",
         "type": "tabs",
-        "dimension": 17.99276672694394,
+        "dimension": 18.083182640144667,
         "children": [
           {
             "id": "03700d5aa59c3800",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1EvergreenNotes/c++ concurrency in action.md"
+                "file": "2MOCs/Rendering MOC.md"
               }
             }
           }
@@ -154,7 +154,7 @@
       {
         "id": "9ea9dd41e9e7ad0d",
         "type": "tabs",
-        "dimension": 45.207956600361655,
+        "dimension": 18.083182640144667,
         "children": [
           {
             "id": "38c8f0b16974b222",
@@ -171,20 +171,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435,
-    "collapsed": true
+    "width": 765.266845703125
   },
-  "active": "e014db157c1f4a9e",
+  "active": "18a23fa4a4fc3c20",
   "lastOpenFiles": [
-    "1EvergreenNotes/c++ concurrency in action.md",
-    "0WrittingInbox/create docker for windows - try it for your job.md",
-    "Templates/book outlibe.md",
-    "0WrittingInbox/Untitled 3.md",
-    "0WrittingInbox/Untitled 2.md",
-    "0WrittingInbox/Untitled 1.md",
-    "0WrittingInbox/Untitled.md",
-    "1EvergreenNotes/Untitled 15.md",
-    "1EvergreenNotes/docker.md",
-    "1EvergreenNotes/linux vs Windows.md"
+    "2MOCs/Rendering MOC.md",
+    "1EvergreenNotes/texture filtering.md",
+    "1EvergreenNotes/Interstellar music.md",
+    "1EvergreenNotes/music does not help you to connect to your emotions.md",
+    "1EvergreenNotes/perception of a character inside and outside the storyline is different.md",
+    "1EvergreenNotes/multithread for game development.md",
+    "1EvergreenNotes/Unknown render abbreviations.md",
+    "0WrittingInbox/subnetwork.md",
+    "TODO.md",
+    "3Research/Gimble Lock Video.md"
   ]
 }

@@ -161,4 +161,64 @@ Conditional variables may wait_until with timeout.
 
 One of the gals of the Standarts Commitee is that there is no need for a lower-level language than C++.
 
-p. 129
+Modification order - ???
+
+### Atomic
+
+```cpp
+<atomic>
+```
+
+header contains standart atomic types.
+is_lock_free() - tells if this types is using an atomic operation or "hidden" mutex.
+atomic_flag does not have is_lock_free() function
+
+atomic_flag::set_and_test().
+```cpp
+// spinLock.cpp
+
+#include <atomic>
+#include <thread>
+
+class Spinlock{
+  std::atomic_flag flag;
+public:
+  Spinlock(): flag(ATOMIC_FLAG_INIT) {}
+
+  void lock(){
+    while( flag.test_and_set() );
+  }
+
+  void unlock(){
+    flag.clear();
+  }
+};
+
+Spinlock spin;
+
+void workOnResource(){
+  spin.lock();
+  // shared resource
+  spin.unlock();
+}
+
+int main(){
+
+  std::thread t(workOnResource);
+  std::thread t2(workOnResource);
+
+  t.join();
+  t2.join();
+
+}
+```
+
+	1.the first thread will set value to true (it will be possible because it is false by default)
+	2.next thread will not be able to set this value because the value is true. It does not have an opportunity to set the value to false so it will wait untill the first thread uses clear
+
+
+p.131
+
+
+
+	

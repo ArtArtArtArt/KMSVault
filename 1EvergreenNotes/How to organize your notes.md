@@ -1,6 +1,7 @@
 ---
-status: 🌱
+status: 🌾
 ---
+#note_organization
 
 Catagorize notes based not on where they come from but on where they go to. 
 Answer the question : in what context will I use them?
@@ -10,8 +11,9 @@ Folders should be used when a specific project emerges or as stages for the flow
 # Inbox names
 - 0WrittingInbox - should have idea in
 - 1EvergreenNotes - notes that I want to expand. Most of random note picking comes from this folder. Try adding as many links as possible. ( What should I do with problems that are similar? How to detect it? - Using extensive tag system and always add tags you will be able to detect just by looking at the graph that some topics might be merged)
-- 2Outlines - outlines which connect some evergreen notes. Should be reviewed too. If I notice that two evergreen notes come together or may be part of one outline - then create it.
- - *SPECIFIC PROJECT FOLDER* - when some group of evernotes is gathered in a project with one idea I can manifest it. I create a folder and add README file where I explain what is happening. There I link evergreen notes but mostly write big comprehensive texts out of outlines
+- 2MOCs - Map of Content. They should gather evergreen notes and other MOCs. They should at the end of the day be connected to the HOME page.
+- 3Research - folder for some researches (MAY NOT BE USED ANYMORE)
+ - *SPECIFIC PROJECT FOLDER* - when some group of evergreennotes is gathered in a project with one idea I can manifest it. I create a folder and add README file where I explain what is happening. There I link evergreen notes but mostly write big comprehensive texts out of outlines
  - ZZZ - trash bin which will be freed once per week or month? Or which is freed of a week long ideas
  - 3Research - is a folder with videos and timestamps, they usually should be referenced by some transient note. 
 
