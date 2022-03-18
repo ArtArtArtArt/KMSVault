@@ -1,8 +1,10 @@
 ---
+status:⚙️
 type: 
  - definition
 tags:
- - programming/low_level 
+ - 
 ---
+#programming/low_level 
 
 # false sharing

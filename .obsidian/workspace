@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "18a23fa4a4fc3c20",
+        "id": "094dec3330805acc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2MOCs/Rendering MOC.md",
+            "file": "1EvergreenNotes/Protoganist turns to an antagonist.md",
             "mode": "source"
           }
         }
@@ -73,7 +73,7 @@
       {
         "id": "d3bdb6896f826b52",
         "type": "tabs",
-        "dimension": 45.840867992766725,
+        "dimension": 67.1604938271605,
         "children": [
           {
             "id": "fa5e79ff6afa72f9",
@@ -81,14 +81,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2MOCs/Rendering MOC.md",
+                "file": "1EvergreenNotes/Protoganist turns to an antagonist.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -122,7 +122,7 @@
       {
         "id": "eb19ce275fb09d34",
         "type": "tabs",
-        "dimension": 17.99276672694394,
+        "dimension": 16.46090534979424,
         "children": [
           {
             "id": "5aff4a033f9372e7",
@@ -135,26 +135,9 @@
         ]
       },
       {
-        "id": "dec8c6931c9c19af",
-        "type": "tabs",
-        "dimension": 18.083182640144667,
-        "children": [
-          {
-            "id": "03700d5aa59c3800",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2MOCs/Rendering MOC.md"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "9ea9dd41e9e7ad0d",
         "type": "tabs",
-        "dimension": 18.083182640144667,
+        "dimension": 16.378600823045268,
         "children": [
           {
             "id": "38c8f0b16974b222",
@@ -171,19 +154,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 765.266845703125
+    "width": 888.0001220703125
   },
-  "active": "18a23fa4a4fc3c20",
+  "active": "094dec3330805acc",
   "lastOpenFiles": [
-    "2MOCs/Rendering MOC.md",
-    "1EvergreenNotes/texture filtering.md",
-    "1EvergreenNotes/Interstellar music.md",
-    "1EvergreenNotes/music does not help you to connect to your emotions.md",
-    "1EvergreenNotes/perception of a character inside and outside the storyline is different.md",
-    "1EvergreenNotes/multithread for game development.md",
-    "1EvergreenNotes/Unknown render abbreviations.md",
-    "0WrittingInbox/subnetwork.md",
-    "TODO.md",
-    "3Research/Gimble Lock Video.md"
+    "1EvergreenNotes/Protoganist turns to an antagonist.md",
+    "0WrittingInbox/Plot Ideas.md",
+    "2MOCs/Random Idea.md",
+    "Resources/Pasted image 20220315132947.png",
+    "1EvergreenNotes/context switch.md",
+    "1EvergreenNotes/110 OS concepts.md",
+    "0WrittingInbox/100 Programming.md",
+    "000 Home.md",
+    "ROUTINE.md",
+    "TODO.md"
   ]
 }

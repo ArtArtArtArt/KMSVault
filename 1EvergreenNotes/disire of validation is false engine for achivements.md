@@ -1,8 +1,6 @@
----
-status: ⚙️
----
-
+#⚙️
 #journal 
+
 
 I would really like to do projects without the DESIRE of validation. 
 This desire distracts from the actual purpose, message and fun.

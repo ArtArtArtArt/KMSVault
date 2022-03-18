@@ -217,8 +217,39 @@ int main(){
 	2.next thread will not be able to set this value because the value is true. It does not have an opportunity to set the value to false so it will wait untill the first thread uses clear
 
 
-p.131
+```cpp 
+std::atomic<bool> 
+```
+can be copy constructable from a simple bool so it may have true as an initial value.
 
+
+compare_exchange_weak - 
+compare_exchange_strong - 
+atomically compares and exchanges.
+
+if the value == the first parameter then assign second parameter (and return true)
+otherwisthe assign value to first parameter and assign false
+
+good usage is (https://en.cppreference.com/w/cpp/atomic/atomic/compare_exchange)
+```cpp
+new_node->next = head.load(std::memory_order_relaxed);
+
+//here other thread might have done something 
+//to new_node->next
+													   
+while(!head.compare_exchange_weak(new_node->next, 
+								  new_node, 
+								  std::memory_order_release,
+								  std::memory_order_relaxed))
+```
+Try it insert the new_node and if some other thread has done it then insert your value and try to insert head again.
+
+ 
+all use memcopy functions.
+
+**These compare exchange finctions are a cornerstone of programming with atomic types**.
+
+p.136
 
 
 	
