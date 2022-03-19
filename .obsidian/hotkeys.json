@@ -31,5 +31,29 @@
       ],
       "key": "E"
     }
+  ],
+  "templater-obsidian:Templates/name is header.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
+  ],
+  "templater-obsidian:Templates/generic.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
+  ],
+  "templater-obsidian:Templates/moc.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
   ]
 }

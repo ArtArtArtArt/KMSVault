@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "-path:Templates -path:QUERES -path:Resources -path:ZZZ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -20,11 +20,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 5,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "collapse-forces": false,
+  "centerStrength": 0.26001018848701,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.14606973618976696,
-  "close": false
+  "scale": 0.07431471440997092,
+  "close": true
 }

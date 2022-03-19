@@ -1,10 +1,8 @@
----
-status: 🌱
-type:
- - MOC
- - book outline
----
 
+
+status: #⚙️ 
+tags: 
+related:  [[300 Books]]
 
 # c++ concurrency in action
 

@@ -7,4 +7,4 @@ Proto is gathering a support group based in hate to antagonist who is already de
 The fact that the group is against antagonist is a mark of them noticing their own shadow in the antagonist group.
 
 
-MOC: [[Plot Ideas]]
+MOC: [[210 Plot Ideas]]

@@ -6,5 +6,9 @@
   "showFrontmatter": false,
   "showLineNumber": false,
   "spellcheck": true,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "attachmentFolderPath": "Resources",
+  "legacyEditor": true
 }

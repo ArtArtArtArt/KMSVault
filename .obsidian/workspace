@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "094dec3330805acc",
+        "id": "205476f056a21293",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1EvergreenNotes/Protoganist turns to an antagonist.md",
+            "file": "4Book/c++ concurrency in action.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:1EvergreenNotes",
+                "query": "type : book outline",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -59,12 +59,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 301
+    "width": 301,
+    "collapsed": true
   },
   "right": {
     "id": "a922d188f5a51fec",
@@ -73,7 +73,7 @@
       {
         "id": "d3bdb6896f826b52",
         "type": "tabs",
-        "dimension": 67.1604938271605,
+        "dimension": 61.51315789473685,
         "children": [
           {
             "id": "fa5e79ff6afa72f9",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1EvergreenNotes/Protoganist turns to an antagonist.md",
+                "file": "4Book/c++ concurrency in action.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,16 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "2bb8e8f3a0d346b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4Book/c++ concurrency in action.md"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -122,7 +132,7 @@
       {
         "id": "eb19ce275fb09d34",
         "type": "tabs",
-        "dimension": 16.46090534979424,
+        "dimension": 22.121710526315788,
         "children": [
           {
             "id": "5aff4a033f9372e7",
@@ -137,7 +147,7 @@
       {
         "id": "9ea9dd41e9e7ad0d",
         "type": "tabs",
-        "dimension": 16.378600823045268,
+        "dimension": 16.365131578947366,
         "children": [
           {
             "id": "38c8f0b16974b222",
@@ -154,19 +164,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 888.0001220703125
+    "width": 888.0001220703125,
+    "collapsed": true
   },
-  "active": "094dec3330805acc",
+  "active": "205476f056a21293",
   "lastOpenFiles": [
-    "1EvergreenNotes/Protoganist turns to an antagonist.md",
-    "0WrittingInbox/Plot Ideas.md",
-    "2MOCs/Random Idea.md",
-    "Resources/Pasted image 20220315132947.png",
-    "1EvergreenNotes/context switch.md",
-    "1EvergreenNotes/110 OS concepts.md",
-    "0WrittingInbox/100 Programming.md",
+    "4Book/c++ concurrency in action.md",
+    "2MOCs/300 Books.md",
     "000 Home.md",
-    "ROUTINE.md",
-    "TODO.md"
+    "2MOCs/100 Programming.md",
+    "2MOCs/200 Story creation.md",
+    "1EvergreenNotes/nation is always born in war.md",
+    "1EvergreenNotes/How to organize your notes.md",
+    "QUERES/query 3.md",
+    "QUERES/query2.md",
+    "Templates/generic.md"
   ]
 }

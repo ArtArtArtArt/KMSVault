@@ -1,0 +1,9 @@
+{
+  "userIllegalSymbols": [],
+  "ignoredFiles": {
+    "Templates/generic.md": null,
+    "Templates/moc.md": null
+  },
+  "ignoreRegex": "",
+  "useFileOpenHook": true
+}

@@ -3,12 +3,12 @@ status: 🌾
 ---
 #note_organization
 
-Catagorize notes based not on where they come from but on where they go to. 
+Categorize notes based not on where they come from but on where they go to. 
 Answer the question : in what context will I use them?
 Try using tags for it, not folders.
 Folders should be used when a specific project emerges or as stages for the flow of ideas.
 
-# Inbox names
+# How to organize your notes
 - 0WrittingInbox - should have idea in
 - 1EvergreenNotes - notes that I want to expand. Most of random note picking comes from this folder. Try adding as many links as possible. ( What should I do with problems that are similar? How to detect it? - Using extensive tag system and always add tags you will be able to detect just by looking at the graph that some topics might be merged)
 - 2MOCs - Map of Content. They should gather evergreen notes and other MOCs. They should at the end of the day be connected to the HOME page.
@@ -37,32 +37,7 @@ Use queries in files that are meant to be containers for some idea.
 Should be used to determine topics.
 
 
-```dataview
-TABLE file.cday as CREATION_DATE, file.folder as STATE
-where file.cday = date(yesterday)
-```
-
-
 - [ ] sample task
-
-# Queries
-
-```dataview
-table rows.file.link as FILE
-from ""
-group by status
-```
-
-*****
-
-```dataview
-table rows.file.link as FILE
-from ""
-group by status
-```
-Stages of the note:
- 
-
 
  
 #knowledge_organisation

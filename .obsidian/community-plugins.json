@@ -16,5 +16,6 @@
   "templater-obsidian",
   "emoji-shortcodes",
   "obsidian-latex",
-  "obsidian-dialogue-plugin"
+  "obsidian-dialogue-plugin",
+  "obsidian-filename-heading-sync"
 ]

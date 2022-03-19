@@ -1,6 +1,0 @@
----
-type: 
- - definition
-tags:
----
-
