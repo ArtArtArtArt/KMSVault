@@ -1,6 +1,6 @@
-# 200 Story creation
+# 200 Story creation MOC
 
-- [[210 Plot Ideas]]
+- [[210 Plot Ideas MOC]]
 
 
 status: #⚙️ 

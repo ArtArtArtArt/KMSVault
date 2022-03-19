@@ -5,6 +5,7 @@ type:
 tags:
  - philosophy 
 ---
+# forgivness is important
 
 [video](https://youtube.com/shorts/BAYvZoyC93g?feature=share)
 

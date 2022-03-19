@@ -10,5 +10,5 @@
   "foldHeading": true,
   "foldIndent": true,
   "attachmentFolderPath": "Resources",
-  "legacyEditor": true
+  "legacyEditor": false
 }

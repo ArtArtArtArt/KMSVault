@@ -1,6 +1,13 @@
+# AI implementation approaches
  - Behavior Tree
- - Agent Stat
+ - Agent State Machine
  - ... ??? [[TODO]]
 
 
-#interview  #gamedev/AI
+https://www.gamedev.net/tutorials/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/
+
+status: #🌱
+tags: #interview  #gamedev/AI 
+related: [[GameDev concepts MOC]]
+
+

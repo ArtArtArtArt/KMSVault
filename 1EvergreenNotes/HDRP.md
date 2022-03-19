@@ -1,8 +1,8 @@
----
-state: ⚙️
-type: interviewquestion
-tags:
- - interview 
- - programming/gamedev/rendering 
----
+# HDRP
 
+
+
+
+status: #⚙️ 
+tags: #interview #programming/gamedev/rendering 
+related: [[120 Interview questions MOC]] 

@@ -1,4 +1,4 @@
-# 210 Plot Ideas
+# 210 Plot Ideas MOC
 
 - [[Protoganist turns to an antagonist]]
 - [[Hardcore gaslighting plotline]] 
@@ -12,5 +12,5 @@
 
 status: #⚙️ 
 tags: 
-related: [[200 Story creation]] 
+related: [[200 Story creation MOC]] 
 

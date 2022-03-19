@@ -1,17 +1,9 @@
----
-status: ⚙️
-type: 
- - definition
-tags:
-  - #programming/network 
----
-
-Socket - endpoint of a connection. There is a server and a client socket. Once a connection is established a communication between two may start.
+# socket
+of a connection. There is a server and a client socket. Once a connection is established a communication between two may start.
 
 There are two kinds of sockets:
  - TCP
  - DATAGRAM (UDP)
-
 
 TCP provides reliability, IP provides routing
 
@@ -25,9 +17,9 @@ SOCKET sock_X = socket(AF_INET, SOCK_STREAM, NULL);
 Send data with TCP socket:
 ```cpp
 answer = send(sock_X, "You have connected to SERVER", 46, NULL);
-````
+```
 
-Recieve data with TCP socket:
+Receive data with TCP socket:
 ```cpp
 answer = recv(sock_X, MESSAGE, sizeof(MESSAGE), NULL);
 ```
@@ -49,3 +41,7 @@ Recieve data with UDP socket:
 answer = recvfrom(sock_X, MESSAGE, sizeof(MESSAGE), 0, (struct sockaddr *)&ADDRESS, sizeof(ADDRESS));
 ```
 [[Strategies of implementation a socket oriented server]]
+
+status: #⚙️ 
+tags: #programming/network 
+related: [[130 Network concepts MOC]]

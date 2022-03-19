@@ -1,9 +1,4 @@
 
-
-status: #⚙️ 
-tags: 
-related:  [[300 Books]]
-
 # c++ concurrency in action
 
 
@@ -15,13 +10,13 @@ Main reasons to use [[concurrency]]
 
 
 ## 2. Managing threads
-p 41
 
 ### Joining threads
 joinable - is a function that checks if we have already called join on a thread.
 You should be careful with join if exceptions are are thrown.
 Thread Guard might be used for this:
- ```cpp
+
+```cpp
 class thread_guard
 {
  std::thread& t;
@@ -220,7 +215,7 @@ std::atomic<bool>
 ```
 can be copy constructable from a simple bool so it may have true as an initial value.
 
-
+### compare_and_swap (CAS)
 compare_exchange_weak - 
 compare_exchange_strong - 
 atomically compares and exchanges.
@@ -229,6 +224,7 @@ if the value == the first parameter then assign second parameter (and return tru
 otherwisthe assign value to first parameter and assign false
 
 good usage is (https://en.cppreference.com/w/cpp/atomic/atomic/compare_exchange)
+
 ```cpp
 new_node->next = head.load(std::memory_order_relaxed);
 
@@ -247,7 +243,89 @@ all use memcopy functions.
 
 **These compare exchange finctions are a cornerstone of programming with atomic types**.
 
-p.136
+weak may fail (because of spurious failure), strong retries if it fails. That is why weak is often used inside a loop and strong is not.
+
+Spurious failure is fail not because values are not equal, but because of context switch, reloading of the same address in a cacheline etc, modification might fail failed. This might happen on some platforms where the "atomicness" of this operation is not guaranteed.
+
+#### Usecases of CAS:
+1. Adding an item to a linked list. Each thread
+
+	1.  loads a **head ptr**
+	2. creates a **new node**, 
+		- `head might be changed here by another thread`
+	3. tries to add **new node** to **head ptr**.
+		- `will retry if head ptr is different, will assign a new head before the retry` 
+	4. tries to swap the **head ptr** with the **new node**.
+
+2. Implementing a spinlock based on `atomic_bool`
+```cpp
+bool criticalSection_tryEnter(lock)
+{
+  bool flag = false;
+  return lock.compare_exchange_strong(flag, true);
+}
+```
+compare_exchange_weak is not suitable here because it may fail due to [[spurious failure]] and a situation when no thread is occupying the critical section is likely.
+
+3. You want and atomic to be updated by any thread, but if it is not updated then you try again (trigger for a state machine). 
+```cpp
+expected = false;
+// !expected: if expected is set to true by another thread, done!
+// Otherwise, it fails spuriously and we should try again.
+while (!current.compare_exchange_weak(expected, true)
+       && !expected);
+```
 
 
+## 6. Designing lock-based concurrent data structures
+
+Using locks to create a concurrent data structures. (seems understandable)
+
+WHY ARE CONDITIONAL VARIABLES USEFUL?
+*Condition variable lock the unizue_lock(mutex) with the wait command. This lock will be freed only when notify_one/all is called elsewhere. Now we can separate the block and the condition to unlock to separate parts of the code. BUT WE CAN DO THE SAME WITH MUTEX??
+The difference seem to be that cond_var is designed to be signaled from another thread.
+And sometimes conditions are not met and some thread might be locking/unlocking the mutex unnesceserily. So the conditional varibale might be used here.
+*
+
+## 7. Designing lock-free concurrent data structures
+
+^1b650b
+
+p.204
+
+using atomic to create a spinlock
+```cpp
+class spinlock_mutex 
+{
+	std::atomic_flag flag; 
+public: 
+	spinlock_mutex(): flag(ATOMIC_FLAG_INIT) {}
+	void lock() 
+	{
+		while(flag.test_and_set(std::memory_order_acquire));
+	} 
 	
+	void unlock() 
+	{ 
+		flag.clear(std::memory_order_release); 
+	} 
+};
+```
+it is a `non-blocking` implementation (no thread is blocked (suspended)) but it is non `lock-free` (atomic flag is effectively a lock)
+
+`lock-free` means that more then one thread is able to access the data structure concurrently. It might be achieved by sometimes redoing what was already done due to the fact that another thread might have broken something in the meantime. So **if any other thread is suspended by the system the remaining threads will be able to finish the job - this is not possible with the spinlock for example.**
+This algorithms are prone to [[thread starvation]]. Due to redoing some threads might not be able to progress at all, or very slowly, if they are not lucky.
+
+`wait-free` means that any thread can achieve it's goal in some bounded number of threads disregarding what other threads do.
+
+
+[[hazard pointer]] - tmp ptr that is used to point to a resources that is used by some other thread and only when we know that resource is not used then we remove it.
+[[reclaim function]] - ???
+
+[[memory ordering]] - 
+
+[[Guideline for writing lock-free data structures]] (p.244)
+
+## 8. Designing concurrent code
+
+p.257

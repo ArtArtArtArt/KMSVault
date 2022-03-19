@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "205476f056a21293",
+        "id": "597303b7e44fa735",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4Book/c++ concurrency in action.md",
-            "mode": "source"
+            "file": "2MOCs/GameDev concepts MOC.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -39,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "type : book outline",
+                "query": "path:1EvergreenNotes",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -63,8 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301,
-    "collapsed": true
+    "width": 301
   },
   "right": {
     "id": "a922d188f5a51fec",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4Book/c++ concurrency in action.md",
+                "file": "2MOCs/GameDev concepts MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4Book/c++ concurrency in action.md"
+                "file": "2MOCs/GameDev concepts MOC.md"
               }
             }
           }
@@ -156,7 +156,8 @@
               "type": "markdown",
               "state": {
                 "file": "ROUTINE.md",
-                "mode": "preview"
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -164,20 +165,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 888.0001220703125,
-    "collapsed": true
+    "width": 888.0001220703125
   },
-  "active": "205476f056a21293",
+  "active": "597303b7e44fa735",
   "lastOpenFiles": [
+    "2MOCs/GameDev concepts MOC.md",
+    "2MOCs/130 Network concepts MOC.md",
+    "0WrittingInbox/c++ concurrency in action2.md",
     "4Book/c++ concurrency in action.md",
-    "2MOCs/300 Books.md",
+    "1EvergreenNotes/amplified shader.md",
+    "2MOCs/100 Programming MOC.md",
+    "1EvergreenNotes/Lock free programming.md",
     "000 Home.md",
-    "2MOCs/100 Programming.md",
-    "2MOCs/200 Story creation.md",
-    "1EvergreenNotes/nation is always born in war.md",
-    "1EvergreenNotes/How to organize your notes.md",
-    "QUERES/query 3.md",
-    "QUERES/query2.md",
-    "Templates/generic.md"
+    "1EvergreenNotes/HDRP.md",
+    "1EvergreenNotes/deferred rendering.md"
   ]
 }

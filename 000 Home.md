@@ -1,8 +1,8 @@
 # 000 Home
 Root MOC
 
-- [[100 Programming]]
-- [[200 Story creation]]
+- [[100 Programming MOC]]
+- [[200 Story creation MOC]]
 - [[300 Books]]
 
 

@@ -9,4 +9,4 @@ Line from wikipedia
 Context switching itself has a cost in performance, due to running the [[task scheduler]], [[TLB flushes]], and indirectly due to sharing the [[Cahe line | CPU cache]] between multiple tasks.
 
 
-Is a part of the MOC [[110 OS concepts]]
+Is a part of the MOC [[110 OS concepts MOC]]
