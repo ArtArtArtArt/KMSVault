@@ -3,12 +3,13 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "0WrittingInbox",
   "defaultViewMode": "source",
-  "showFrontmatter": false,
+  "showFrontmatter": true,
   "showLineNumber": false,
   "spellcheck": true,
   "strictLineBreaks": true,
   "foldHeading": true,
   "foldIndent": true,
   "attachmentFolderPath": "Resources",
-  "legacyEditor": false
+  "legacyEditor": false,
+  "readableLineLength": true
 }
