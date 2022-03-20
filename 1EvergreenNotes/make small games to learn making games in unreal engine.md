@@ -1,6 +1,4 @@
----
-status: ⚙️
----
+# make small games to learn making games in unreal engine
 #gamedev 
 
 [https://youtu.be/vFjXKOXdgGo](https://youtu.be/vFjXKOXdgGo)  
@@ -25,3 +23,9 @@ Ask small game ideas
 - flappy bird  
 - Simple platformer  
 - Top down shooter
+
+ 
+
+status: #🌱 
+tags: #project
+related: [[List of projects MOC]]

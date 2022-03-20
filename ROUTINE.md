@@ -1,4 +1,4 @@
-# Routine:
+# ROUTINE
 0. **Read books** list if it is not empty.
 1. **Move from *Google keep*, *YiNote*, *Pocket*** your last notes to the Writting box
 2. Randomly **go through the WrittingBox**, try to zero out everrything that is a week old. If you move to evergreen try to come up with tags and a title

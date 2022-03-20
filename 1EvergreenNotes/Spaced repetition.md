@@ -4,6 +4,7 @@ tags:
  - knowledge_organisation 
 type: 
 ---
+# Spaced repetition
 
 
 Repeating information in growing intervals is the best for remembering the info

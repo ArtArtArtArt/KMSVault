@@ -4,6 +4,7 @@ status: ⚙️
 tags:
  - knowledge_organisation 
 ---
+# emergence levels
 
 based on https://www.youtube.com/watch?v=pf830yZf0x0&ab_channel=Anthony%27sDesk
 

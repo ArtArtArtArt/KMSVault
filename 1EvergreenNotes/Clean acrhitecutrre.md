@@ -6,7 +6,7 @@ type:
 https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html?utm_source=pocket_mylist
 
 #programming/architecutre
-# Clean Architecture
+# Clean acrhitecutrre
 ![[Pasted image 20220311111459.png]]
 
 Main rule is that dependencies may only point inwards.

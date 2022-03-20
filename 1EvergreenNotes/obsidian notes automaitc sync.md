@@ -3,6 +3,7 @@ status: ⚙️
 tags:
  - knowledge_organisation/tricks
 ---
+# obsidian notes automaitc sync
 
 [https://youtu.be/H6ipjzaN2WY](https://youtu.be/H6ipjzaN2WY)  
   

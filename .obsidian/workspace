@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "91a518746e3bcd9e",
+        "id": "7bc1e58dd365c3a2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZZZ/subsystem.md",
+            "file": "2MOCs/Rendering MOC.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:1EvergreenNotes",
+                "query": "render",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -73,7 +73,7 @@
       {
         "id": "d3bdb6896f826b52",
         "type": "tabs",
-        "dimension": 61.51315789473685,
+        "dimension": 49.13986537023186,
         "children": [
           {
             "id": "fa5e79ff6afa72f9",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZZZ/subsystem.md",
+                "file": "2MOCs/Rendering MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +122,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZZZ/subsystem.md"
+                "file": "2MOCs/Rendering MOC.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "eb19ce275fb09d34",
         "type": "tabs",
-        "dimension": 22.121710526315788,
+        "dimension": 14.958863126402393,
         "children": [
           {
             "id": "5aff4a033f9372e7",
@@ -147,7 +146,7 @@
       {
         "id": "9ea9dd41e9e7ad0d",
         "type": "tabs",
-        "dimension": 16.365131578947366,
+        "dimension": 35.90127150336574,
         "children": [
           {
             "id": "38c8f0b16974b222",
@@ -167,17 +166,17 @@
     "direction": "horizontal",
     "width": 888.0001220703125
   },
-  "active": "91a518746e3bcd9e",
+  "active": "7bc1e58dd365c3a2",
   "lastOpenFiles": [
-    "ZZZ/subsystem.md",
-    "0WrittingInbox/nato never promised to expand eastwards.md",
-    "1EvergreenNotes/linearly independent.md",
-    "ZZZ/Data contention.md",
-    "2MOCs/140 Programming books MOC.md",
-    "4Book/c++ concurrency in action BOOK.md",
-    "4Book/Hello, world of concurrency in C++.md",
-    "2MOCs/300 Books.md",
-    "2MOCs/100 Programming MOC.md",
-    "1EvergreenNotes/Designing concurrent code.md"
+    "2MOCs/Rendering MOC.md",
+    "1EvergreenNotes/reflection vector problem.md",
+    "1EvergreenNotes/PBR.md",
+    "4Book/Managing data between threads.md",
+    "1EvergreenNotes/HDRP.md",
+    "1EvergreenNotes/game engine components.md",
+    "1EvergreenNotes/forward rendering.md",
+    "1EvergreenNotes/deferred rendering.md",
+    "1EvergreenNotes/BRDF.md",
+    "1EvergreenNotes/amplified shader.md"
   ]
 }

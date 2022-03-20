@@ -1,6 +1,7 @@
 ---
 status: ⚙️
 ---
+# Inverted matrix
 #programming/gamedev #interview #math
 
 How to get an inverted matrix

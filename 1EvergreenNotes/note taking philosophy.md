@@ -4,5 +4,6 @@ tags:
  - discussion
  - knowledge_organisation 
 ---
+# note taking philosophy
 
-It feels that I already have many implicit projects that are being developer under the hood. It feels that spontanous note taking makes them explicit
+It feels that I already have many implicit projects that are being developer under the hood. It feels that spontaneous note taking makes them explicit

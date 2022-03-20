@@ -1,4 +1,4 @@
-# Physically based rendering
+# PBR
 Rendering approach that seeks the simluation of physical light. It uses bidirectional reflectance sitribution fuction [[BRDF]] and [[Render equation]].
 
 This approach came to life after usage of certain models of iilumination (diffuse, specular lighting, etc.)

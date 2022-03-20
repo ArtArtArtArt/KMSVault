@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "-path:Templates -path:QUERES -path:Resources -path:ZZZ",
   "showTags": false,
   "showAttachments": false,
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1945002269061602,
-  "close": true
+  "scale": 0.5359795996226001,
+  "close": false
 }

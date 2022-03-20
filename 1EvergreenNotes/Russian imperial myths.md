@@ -8,7 +8,7 @@ tags:
 
 # Russian imperial myths
 It has to be connected to 
-[[[non maritime colonialism]]
+[[non maritime colonialism 1]]
 
 https://twitter.com/frialum/status/1493812869221294080?s=12&utm_source=pocket_mylist
 

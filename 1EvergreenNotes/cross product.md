@@ -5,6 +5,7 @@ tags:
  - interview 
  - math 
 ---
+# cross product
 
 
 
