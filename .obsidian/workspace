@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "597303b7e44fa735",
+        "id": "bd27992d4c952a13",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2MOCs/GameDev concepts MOC.md",
+            "file": "0WrittingInbox/test refactor2.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2MOCs/GameDev concepts MOC.md",
+                "file": "0WrittingInbox/test refactor2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2MOCs/GameDev concepts MOC.md"
+                "file": "0WrittingInbox/test refactor2.md"
               }
             }
           }
@@ -165,19 +165,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 888.0001220703125
+    "width": 888.0001220703125,
+    "collapsed": true
   },
-  "active": "597303b7e44fa735",
+  "active": "bd27992d4c952a13",
   "lastOpenFiles": [
-    "2MOCs/GameDev concepts MOC.md",
-    "2MOCs/130 Network concepts MOC.md",
-    "0WrittingInbox/c++ concurrency in action2.md",
-    "4Book/c++ concurrency in action.md",
-    "1EvergreenNotes/amplified shader.md",
-    "2MOCs/100 Programming MOC.md",
-    "1EvergreenNotes/Lock free programming.md",
-    "000 Home.md",
-    "1EvergreenNotes/HDRP.md",
-    "1EvergreenNotes/deferred rendering.md"
+    "0WrittingInbox/test refactor2.md",
+    "0WrittingInbox/h1.md",
+    "0WrittingInbox/h4.md",
+    "0WrittingInbox/h3.md",
+    "0WrittingInbox/h2.md",
+    "0WrittingInbox/linearly independent.md",
+    "0WrittingInbox/subsystem.md",
+    "0WrittingInbox/nato never promised to expand eastwards.md",
+    "test refactor.md",
+    "4Book/c++ concurrency in action.md"
   ]
 }

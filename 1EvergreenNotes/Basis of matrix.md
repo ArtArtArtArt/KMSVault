@@ -1,7 +1,7 @@
 # Basis of matrix
 What is a basis of a matrix
 
-Maximum [[lineary independant]] [[subsystem]] of vectors.
+Maximum [[linearly independent]] [[subsystem]] of vectors.
 
 How to find it?
 

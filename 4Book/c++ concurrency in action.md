@@ -329,3 +329,34 @@ This algorithms are prone to [[thread starvation]]. Due to redoing some threads 
 ## 8. Designing concurrent code
 
 p.257
+
+### Data contention
+[[Data contention]] - when a processor is waiting for another process to update it's cache and sun with it. If processor stalls while waitiing for a cache transfer if can't do *any* work in the meantime. If two processors often update the same cacheline variable it is called *cache ping-pong*.
+This easily happens while using mutexes.
+
+### false sharing
+[[false sharing]]  -
+cache lines are usually 32 or 64 bytes in size. Data detention might happen if not the same value is accessed but values on the same cache line. 
+The solution is to group data for dofferent threads in different places.
+
+### task switching
+If one core is running several threads then it is important for data for these threads to be situated in the same cachelines in order to prevent cache switching. Also OS might move threads from one processor to another which will lead to reload of the cache.
+
+### exception safety is important for the concurrent applications
+
+### Amdahl's law
+
+
+## Advanced thread management
+ - thread pools
+ - interruptible thread
+
+## 10. Debugging concurrent apps
+Types of bugs:
+ - Unwanted blocking
+ - Race condition'
+
+
+
+
+

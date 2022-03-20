@@ -4,7 +4,7 @@
 - [[how to signal thread about something]]
 
 ## Math
-- [[lineary independant]]
+- [[linearly independent]]
 
 ## GameDev
 - [[world chunks]]
