@@ -7,5 +7,5 @@
   "fileNamePrefix": "",
   "transcludeByDefault": false,
   "noteLinkTemplate": "!{{new_note_link}}",
-  "refactoredNoteTemplate": ""
+  "refactoredNoteTemplate": "# {{new_note_title}}\n{{new_note_content}}\n\n--- \nstatus: #⚙️ \ntags:\nrelated: {{link}}"
 }
