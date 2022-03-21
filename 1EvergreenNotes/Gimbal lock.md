@@ -17,4 +17,4 @@ This also lead to a situation when an object cannot be moved to a certain rotati
 [[Gimble Lock Video]]. timecode 2:07
 
 
-- [ ] what is wrong with this query?
+- what is wrong with this query?

@@ -37,7 +37,7 @@ Use queries in files that are meant to be containers for some idea.
 Should be used to determine topics.
 
 
-- [ ] sample task
+- sample task
 
  
 #knowledge_organisation

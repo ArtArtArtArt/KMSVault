@@ -1,4 +1,4 @@
-# make small games to learn making games in unreal engine
+# make small games to learn making games in unreal engine PROJECT
 #gamedev 
 
 [https://youtu.be/vFjXKOXdgGo](https://youtu.be/vFjXKOXdgGo)  
@@ -20,7 +20,7 @@ Game mode
   
   
 Ask small game ideas  
-- flappy bird  
+- [[flappy bird]]  
 - Simple platformer  
 - Top down shooter
 

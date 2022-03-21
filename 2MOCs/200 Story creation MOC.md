@@ -2,6 +2,8 @@
 
 - [[210 Plot Ideas MOC]]
 
+individual notes:
+- [[book is a set of ideas]]
 
 status: #⚙️ 
 tags: #MOC 

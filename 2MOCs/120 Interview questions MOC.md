@@ -1,19 +1,19 @@
 # 120 Interview questions MOC
 
-## Network
-- [[how to signal thread about something]]
+- [[121 Network]]
 
-## Math
-- [[linearly independent]]
+- [[122 Math]]
 
-## GameDev
-- [[world chunks]]
+- [[123 GameDev]]
 
-## Rendering
- - [[HDRP]]
+- [[124 Rendering]] 
 
 
+
+
+---
 status: #⚙️ 
 tags: #MOC
-related: [[100 Programming MOC]] 
+related:  [[100 Programming MOC]]
+
 

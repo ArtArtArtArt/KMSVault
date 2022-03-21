@@ -1,8 +1,6 @@
 {
   "baseFontSize": 20,
-  "enabledCssSnippets": [
-    "checkbox"
-  ],
+  "enabledCssSnippets": [],
   "cssTheme": "Obsidianite",
   "theme": "obsidian",
   "translucency": true
