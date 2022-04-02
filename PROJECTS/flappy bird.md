@@ -29,13 +29,15 @@ This is a list that might be reused for other projects:
 		- [ ] create gamemode
 		- [ ] add controller to gamemode
 		- [ ] add pawn to controller
+		- [ ] setup input https://unrealcpp.com/receive-player-input/
+		- [ ] where is the player pawn spawned?
+	- [ ] loss ui
+	- [ ] pipes added
+	- [ ] 
+	- [ ] add killbox for pipes
+	- [ ] stop jumping after death (dead state)
+	- [ ] add proper animation
 
-
-
-
-Long term tasks:
- - [ ] add a flappy bird <progress></progress>
- - [ ] 
 
 ---
 status: #⚙️ 

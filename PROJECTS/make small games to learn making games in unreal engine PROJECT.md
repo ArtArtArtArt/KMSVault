@@ -23,6 +23,8 @@ Ask small game ideas
 - [[flappy bird]]  
 - Simple platformer  
 - Top down shooter
+- Hearthstone
+- 
 
  
 

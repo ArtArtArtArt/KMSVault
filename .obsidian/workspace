@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7b20b38d8efefa18",
+        "id": "c3e061f522e160cd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/flappy bird.md",
+            "file": "0WrittingInbox/Untitled 16.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#project",
+                "query": "10 games",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/flappy bird.md",
+                "file": "0WrittingInbox/Untitled 16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,8 +116,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/flappy bird.md"
+                "file": "0WrittingInbox/Untitled 16.md"
               }
+            }
+          },
+          {
+            "id": "d57bcb46e6f0f1ea",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
             }
           }
         ],
@@ -162,17 +170,17 @@
     "width": 562.9176635742188,
     "collapsed": true
   },
-  "active": "7b20b38d8efefa18",
+  "active": "c3e061f522e160cd",
   "lastOpenFiles": [
-    "PROJECTS/flappy bird.md",
-    "0WrittingInbox/russian justification of attack on Ukraine is alike of Finnish attack.md",
-    "0WrittingInbox/ideology switch is very natural.md",
-    "0WrittingInbox/Injection attack MOC.md",
-    "0WrittingInbox/imposter syndrome.md",
-    "0WrittingInbox/Untitled 3.md",
-    "0WrittingInbox/Untitled 2.md",
-    "0WrittingInbox/Untitled 4.md",
-    "0WrittingInbox/Untitled 1.md",
-    "0WrittingInbox/how to start hacking.md"
+    "0WrittingInbox/Untitled 16.md",
+    "PROJECTS/make small games to learn making games in unreal engine PROJECT.md",
+    "0WrittingInbox/Lost wakeup problem.md",
+    "0WrittingInbox/Spurious wakeup.md",
+    "0WrittingInbox/Untitled 17.md",
+    "0WrittingInbox/Untitled 15.md",
+    "0WrittingInbox/Untitled 12.md",
+    "0WrittingInbox/Untitled 14.md",
+    "0WrittingInbox/Untitled 13.md",
+    "1EvergreenNotes/docker.md"
   ]
 }
