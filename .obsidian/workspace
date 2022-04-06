@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0WrittingInbox/Untitled 16.md",
+            "file": "0WrittingInbox/Untitled 22.md",
             "mode": "source",
             "source": false
           }
@@ -61,12 +61,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 491.01219177246094,
-    "collapsed": true
+    "width": 491.01219177246094
   },
   "right": {
     "id": "a922d188f5a51fec",
@@ -83,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0WrittingInbox/Untitled 16.md",
+                "file": "0WrittingInbox/Untitled 22.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0WrittingInbox/Untitled 16.md"
+                "file": "0WrittingInbox/Untitled 22.md"
               }
             }
           },
@@ -172,15 +171,15 @@
   },
   "active": "c3e061f522e160cd",
   "lastOpenFiles": [
+    "0WrittingInbox/Untitled 22.md",
+    "0WrittingInbox/Untitled 21.md",
+    "0WrittingInbox/Untitled 20.md",
+    "0WrittingInbox/Untitled 19.md",
+    "0WrittingInbox/Untitled 18.md",
+    "0WrittingInbox/AI examples.md",
     "0WrittingInbox/Untitled 16.md",
     "PROJECTS/make small games to learn making games in unreal engine PROJECT.md",
     "0WrittingInbox/Lost wakeup problem.md",
-    "0WrittingInbox/Spurious wakeup.md",
-    "0WrittingInbox/Untitled 17.md",
-    "0WrittingInbox/Untitled 15.md",
-    "0WrittingInbox/Untitled 12.md",
-    "0WrittingInbox/Untitled 14.md",
-    "0WrittingInbox/Untitled 13.md",
-    "1EvergreenNotes/docker.md"
+    "0WrittingInbox/Spurious wakeup.md"
   ]
 }
