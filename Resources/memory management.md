@@ -2,6 +2,7 @@
 tags: 
  - resource
 ---
+# memory management
 
 
 https://getpocket.com/read/575080653

@@ -1,4 +1,4 @@
-# What is a quaternion? Why is it better then an [[euler angles]]?
+# quaternion
 
 Quaternion is 4 component vector which is an axis and an angle of rotation around this axis.
 Euler rotation is basically applies by gimbal machine.

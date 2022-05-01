@@ -1,7 +1,7 @@
 ---
 status: 🌾
 ---
-# What is a cache line? 
+# Cahe line
 A modern CPU may have several cache lines. L1, L2, L3
 They differ by size and access time.
 

@@ -8,5 +8,3 @@ How to find it?
 status: #🌱 
 tags: #programming/gamedev #interview #math 
 related: 
-
-

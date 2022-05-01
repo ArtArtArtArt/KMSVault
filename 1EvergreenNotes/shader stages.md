@@ -6,6 +6,7 @@ type:
 tags:
  - programming/gamedev/rendering
 ---
+# shader stages
 
 OpenGL
 ![[Pasted image 20220213101716.png]]

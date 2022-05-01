@@ -1,3 +1,4 @@
+# Render equation
 #programming/gamedev #interview #render
 
 What is a render equasion?
