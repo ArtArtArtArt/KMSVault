@@ -77,4 +77,4 @@ Conditional variables may wait_until with timeout.
 --- 
 status: #⚙️ 
 tags:
-related: [[c++ concurrency in action BOOK]]
+related: [[BOOK c++ concurrency in action]]

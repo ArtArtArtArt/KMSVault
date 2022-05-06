@@ -1,5 +1,5 @@
 
-# c++ concurrency in action BOOK
+# BOOK c++ concurrency in action
 
 ![[Hello, world of concurrency in C++]]
 

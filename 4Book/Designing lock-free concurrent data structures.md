@@ -67,4 +67,4 @@ This algorithms are prone to [[thread starvation]]. Due to redoing some threads 
 --- 
 status: #⚙️ 
 tags:
-related: [[c++ concurrency in action BOOK]]
+related: [[BOOK c++ concurrency in action]]

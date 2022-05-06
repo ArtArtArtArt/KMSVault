@@ -11,4 +11,4 @@ And sometimes conditions are not met and some thread might be locking/unlocking 
 --- 
 status: #⚙️ 
 tags:
-related: [[c++ concurrency in action BOOK]]
+related: [[BOOK c++ concurrency in action]]

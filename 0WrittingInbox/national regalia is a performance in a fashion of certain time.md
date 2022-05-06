@@ -7,7 +7,7 @@ Statehood is a performance which is used to be viewed as a serious political ent
 They have to adopt the mannerisms of the major power brokers at that time.
 
 Ancient Greece had similar ripple effect on it's surrounding polities, ancient china.
-Nowerdays even non countries (NATO, EU) are adopting flags, anthems etc.
+Nowadays even non countries (NATO, EU) are adopting flags, anthems etc.
 
 This all is an example of image management - 
 
