@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ac2eb5ae6f9c0368",
+        "id": "cb1bc634384c23c2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0WrittingInbox/Book Imagined communities.md",
+            "file": "0WrittingInbox/BOOK Imagined communities.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "communit",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -64,7 +64,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 469
+    "width": 469,
+    "collapsed": true
   },
   "right": {
     "id": "a922d188f5a51fec",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0WrittingInbox/Book Imagined communities.md",
+                "file": "0WrittingInbox/BOOK Imagined communities.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0WrittingInbox/Book Imagined communities.md"
+                "file": "0WrittingInbox/BOOK Imagined communities.md"
               }
             }
           },
@@ -165,19 +166,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414
+    "width": 414,
+    "collapsed": true
   },
-  "active": "ac2eb5ae6f9c0368",
+  "active": "cb1bc634384c23c2",
   "lastOpenFiles": [
-    "0WrittingInbox/Book Imagined communities.md",
-    "0WrittingInbox/Untitled 42.md",
-    "0WrittingInbox/aviation and artillery do not work on effect - they do it for report.md",
-    "0WrittingInbox/BOOK культура і імперіалізм.md",
-    "4Book/BOOK c++ concurrency in action.md",
-    "4Book/Hello, world of concurrency in C++.md",
-    "4Book/Designing lock-free concurrent data structures.md",
-    "4Book/Designing lock-based concurrent data structures.md",
-    "4Book/The C++ memory model and operations on atomic types.md",
-    "4Book/Managing threads.md"
+    "0WrittingInbox/BOOK Imagined communities.md",
+    "0WrittingInbox/Untitled 39.md",
+    "0WrittingInbox/Untitled 17.md",
+    "0WrittingInbox/PROJECT culture simulator.md",
+    "0WrittingInbox/meta obstacle.md",
+    "0WrittingInbox/Untitled 10.md",
+    "0WrittingInbox/videogame economy.md",
+    "1EvergreenNotes/Тарас Бульба першодрук.md",
+    "1EvergreenNotes/Deportation of kalmyk nation.md",
+    "1EvergreenNotes/Untitled 10.md"
   ]
 }

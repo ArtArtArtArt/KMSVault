@@ -6,5 +6,5 @@ Every definition is already defined in terms of the left or right.
 
 ---
 status: #⚙️ 
-tags: 
+tags: #politics 
 related: 

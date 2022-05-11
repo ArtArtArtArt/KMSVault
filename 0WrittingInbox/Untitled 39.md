@@ -1,8 +1,5 @@
 # Untitled 39
-https://www.tiktok.com/@postup.ua/video/7092785705155316998?_t=8S3wepxRPTZ&_r=1
-
-As mongols cannot be called a part of our culture - russian cannot be either
-Someone says that we do not have out own culture - even if so we will start creating it. Russian is still foreign and there is no reason to look at them differently.
+Fun fact: When Winter War ended, official Soviet statement was only bit over 100 soldiers had died during the "border misunderstanding". So we (finland) ended up burying the other 200 000 to our eastern border.
 
 ---
 status: #⚙️ 

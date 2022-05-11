@@ -6,5 +6,5 @@ operation "Ulusy"
 
 ---
 status: #⚙️ 
-tags: 
+tags: #history #russian_aggression  
 related: 

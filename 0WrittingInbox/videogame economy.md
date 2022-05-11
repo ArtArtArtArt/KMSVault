@@ -8,7 +8,7 @@ tap -> inventory -> converter
 Then it all may be related and might be enhanced with optimization
 It is a positive feedback loop
 
-Also another way to make going back not so teedious you may introduce negative feedback loop
+Also another way to make going back not so tedious you may introduce negative feedback loop
 
 Or you may add Drain - slowly remove resources.
 
