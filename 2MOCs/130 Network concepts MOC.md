@@ -5,6 +5,6 @@
 
 
 
-status: #⚙️ 
+status: 
 tags: #MOC
 related: [[100 Programming MOC]]

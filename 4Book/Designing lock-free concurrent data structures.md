@@ -60,7 +60,7 @@ This algorithms are prone to [[thread starvation]]. Due to redoing some threads 
 [[hazard pointer]] - tmp ptr that is used to point to a resources that is used by some other thread and only when we know that resource is not used then we remove it.
 [[reclaim function]] - ???
 
-[[memory ordering]] - 
+[[Memory ordering]] - 
 
 [[Guideline for writing lock-free data structures]] (p.244)
 

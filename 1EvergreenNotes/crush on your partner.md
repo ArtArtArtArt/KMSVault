@@ -7,6 +7,6 @@ I want to have a crush on my girlfriend
 And it is different then to love
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #relationship 
-related: 
+related: [[my view on relationship]]

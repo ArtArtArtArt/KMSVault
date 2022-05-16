@@ -1,11 +1,16 @@
 # Untitled
-if you are tired - look up for 10-15 seconds
+https://www.youtube.com/watch?v=DF8ocw84N_g&ab_channel=%D0%9F%D0%B0%D1%83%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8
 
-https://www.youtube.com/watch?v=gjV-Yrh7mxk&ab_channel=BeInspired
+Conspirology - is a lense 
+Конспирология это линза
+Герменевтика подозрения - Поль Рекер
 
+Марксизм, психоанализ, ницшеанство?, функционализм, философия крови??
+
+Но конспирология это семейство философских идей герменевтика подозрения, это школа мысли.
+Фальсифицируемость идей не важна.
 
 ---
 status: #⚙️ 
-tags: #MOC
+tags: 
 related: 
-

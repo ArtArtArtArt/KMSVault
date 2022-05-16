@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0WrittingInbox/tech tree decisions.md",
+            "file": "0WrittingInbox/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:0WrittingInbox",
+                "query": "tag:#⚙️",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 469,
+    "width": 497,
     "collapsed": true
   },
   "right": {
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0WrittingInbox/tech tree decisions.md",
+                "file": "0WrittingInbox/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0WrittingInbox/tech tree decisions.md"
+                "file": "0WrittingInbox/Untitled.md"
               }
             }
           },
@@ -128,8 +128,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "eb19ce275fb09d34",
@@ -172,15 +171,15 @@
   },
   "active": "a141faff6163bf59",
   "lastOpenFiles": [
-    "0WrittingInbox/tech tree decisions.md",
-    "1EvergreenNotes/russian language is weponised, muscovy rename had a reputational and claim value.md",
-    "1EvergreenNotes/mass killings were planned for the ukrainians after the invasion.md",
-    "1EvergreenNotes/world lite.md",
-    "1EvergreenNotes/man history argument.md",
-    "1EvergreenNotes/lenin called union a state capitalism, problem with ideology which cease control over state as means.md",
-    "1EvergreenNotes/Brodskji, Andersonian communities, books to understand russian culture.md",
-    "0WrittingInbox/Memory ordering.md",
-    "1EvergreenNotes/symbolic deadlines for russian operations.md",
-    "1EvergreenNotes/Untitled 68.md"
+    "0WrittingInbox/Untitled.md",
+    "1EvergreenNotes/Мага Гессен - історія це майбутнє.md",
+    "1EvergreenNotes/gambling is one of the reasons of burning out.md",
+    "0WrittingInbox/job mindset mental environment improval.md",
+    "2MOCs/130 Network concepts MOC.md",
+    "1EvergreenNotes/Тарас Бульба першодрук.md",
+    "1EvergreenNotes/crush on your partner.md",
+    "1EvergreenNotes/Authoritarian regimes.md",
+    "0WrittingInbox/my view on relationship.md",
+    "1EvergreenNotes/Subclass sandbox pattern.md"
   ]
 }
