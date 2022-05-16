@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cb1bc634384c23c2",
+        "id": "a141faff6163bf59",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0WrittingInbox/BOOK Imagined communities.md",
+            "file": "0WrittingInbox/tech tree decisions.md",
             "mode": "source",
             "source": false
           }
@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "communit",
-                "matchingCase": false,
+                "query": "path:0WrittingInbox",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -60,7 +60,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -82,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0WrittingInbox/BOOK Imagined communities.md",
+                "file": "0WrittingInbox/tech tree decisions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0WrittingInbox/BOOK Imagined communities.md"
+                "file": "0WrittingInbox/tech tree decisions.md"
               }
             }
           },
@@ -169,17 +170,17 @@
     "width": 414,
     "collapsed": true
   },
-  "active": "cb1bc634384c23c2",
+  "active": "a141faff6163bf59",
   "lastOpenFiles": [
-    "0WrittingInbox/BOOK Imagined communities.md",
-    "0WrittingInbox/Untitled 39.md",
-    "0WrittingInbox/Untitled 17.md",
-    "0WrittingInbox/PROJECT culture simulator.md",
-    "0WrittingInbox/meta obstacle.md",
-    "0WrittingInbox/Untitled 10.md",
-    "0WrittingInbox/videogame economy.md",
-    "1EvergreenNotes/Тарас Бульба першодрук.md",
-    "1EvergreenNotes/Deportation of kalmyk nation.md",
-    "1EvergreenNotes/Untitled 10.md"
+    "0WrittingInbox/tech tree decisions.md",
+    "1EvergreenNotes/russian language is weponised, muscovy rename had a reputational and claim value.md",
+    "1EvergreenNotes/mass killings were planned for the ukrainians after the invasion.md",
+    "1EvergreenNotes/world lite.md",
+    "1EvergreenNotes/man history argument.md",
+    "1EvergreenNotes/lenin called union a state capitalism, problem with ideology which cease control over state as means.md",
+    "1EvergreenNotes/Brodskji, Andersonian communities, books to understand russian culture.md",
+    "0WrittingInbox/Memory ordering.md",
+    "1EvergreenNotes/symbolic deadlines for russian operations.md",
+    "1EvergreenNotes/Untitled 68.md"
   ]
 }
