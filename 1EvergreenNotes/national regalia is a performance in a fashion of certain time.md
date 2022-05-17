@@ -12,6 +12,6 @@ Nowadays even non countries (NATO, EU) are adopting flags, anthems etc.
 This all is an example of image management - 
 
 ---
-status: #⚙️ 
-tags: #history/nationalism 
+status: #⚙️
+tags: #history/nationalism #MOCsuggestion/ukrainian_and_russian_nationalisms 
 related: 

@@ -158,5 +158,5 @@ while (!current.compare_exchange_weak(expected, true)
 
 --- 
 status: #⚙️ 
-tags:
+tags: #book_part
 related: [[BOOK c++ concurrency in action]]

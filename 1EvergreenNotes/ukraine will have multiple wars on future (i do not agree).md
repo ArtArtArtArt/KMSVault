@@ -1,4 +1,4 @@
-# ukraine will have multiple wars on future (i do not agree)
+# Ukraine will have multiple wars on future (I do not agree)
 [https://vm.tiktok.com/ZMLv1XYVd/?k=1](https://vm.tiktok.com/ZMLv1XYVd/?k=1)  
   
 I do not agree  

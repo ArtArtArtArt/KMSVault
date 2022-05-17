@@ -6,7 +6,9 @@ https://twitter.com/eywind/status/1523947333926502400?s=12&t=x-M6PUwPNDJ6GJzLPM9
 
 ![[Pasted image 20220513132127.png]]
 
+**find other examples for that**
+
 ---
 status: #⚙️ 
-tags: #history/nationalism #history/culture 
+tags: #history/nationalism #history/culture #MOCsuggestion/ukrainian_and_russian_nationalisms 
 related: 

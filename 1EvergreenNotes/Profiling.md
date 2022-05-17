@@ -29,5 +29,5 @@ High wait time reasons
 
 ---
 status: #⚙️ 
-tags: #programming/
+tags: #programming/tricks #MOCsuggestion/general_programming_knowledge 
 related: 

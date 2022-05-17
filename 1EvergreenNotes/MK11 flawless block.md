@@ -20,6 +20,6 @@ Character Matchup - try fighting with characters that you are struggling
 
 
 ---
-status: #⚙️ 
-tags: 
+status: #✅
+tags: #mk11 
 related: 

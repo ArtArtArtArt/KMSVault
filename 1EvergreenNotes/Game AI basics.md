@@ -59,6 +59,6 @@ All these models are based on proper observation of the world. How to turn data 
 
 
 ---
-status: #⚙️ 
-tags: #gamedev/AI 
+status: #🌲
+tags: #gamedev/AI #MOCsuggestion/general_programming_knowledge 
 related: 

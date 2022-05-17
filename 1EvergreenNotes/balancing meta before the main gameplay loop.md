@@ -7,5 +7,5 @@ https://www.youtube.com/watch?v=UXQ6uBw2ycU&ab_channel=GameMaker%27sToolkit
 
 ---
 status: #⚙️ 
-tags: #gamedesign
+tags: #gamedesign #MOCsuggestion/gamedesign_tips
 related: 

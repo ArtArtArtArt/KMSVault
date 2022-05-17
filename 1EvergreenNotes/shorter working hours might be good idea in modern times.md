@@ -6,8 +6,9 @@ what about switching to shorter working day?
 
 I can do deep work for 3-5 hours a day max
 
+**how can I benefit from this info?**
 
 
-status: #⚙️ 
-tags: #socioeconomy 
+status: #🌱
+tags: #socioeconomy #MOCsuggestion/timemanagement_tips 
 related: 

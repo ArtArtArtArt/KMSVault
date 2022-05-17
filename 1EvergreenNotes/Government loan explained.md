@@ -17,7 +17,7 @@ But treasury may sell obligations and central bank ay buy them - so people are n
 
 ## [20:03](https://www.youtube.com/?yinotetimestamp=1203)
 
-Inflation is a bad consiquence of money printing
+Inflation is a bad consequence of money printing
 
 ## [24:09](https://www.youtube.com/?yinotetimestamp=1449)
 
@@ -35,7 +35,7 @@ Central bank in russia is sending money to government instead of other ministrie
 
 - control of inflation
 - control of exchange rate
-- free capital movement (ebing able to buy currencies)
+- free capital movement (being able to buy currencies)
 pick two
 
 ## [32:59](https://www.youtube.com/?yinotetimestamp=1979)
@@ -44,8 +44,8 @@ The bigger the economy - the better the risk diffusion
 
 ## [33:50](https://www.youtube.com/?yinotetimestamp=2030)
 
-That is why everyone is holding dollars and euros - these economies are very divercified.
-They are syable yes, but divercification is more important. The swiss is stable but very small. 
+That is why everyone is holding dollars and euros - these economies are very diversified.
+They are stable yes, but diversification is more important. The swiss is stable but very small. 
 
 ## [38:07](https://www.youtube.com/?yinotetimestamp=2287)
 
@@ -57,7 +57,7 @@ you need
 
 ## [39:30](https://www.youtube.com/?yinotetimestamp=2370)
 
-Calital isn't - good podcast
+Capital isn't - good podcast
 
 ## [43:40](https://www.youtube.com/?yinotetimestamp=2620)
 
@@ -76,5 +76,5 @@ Book - I, pencil
 
 ---
 status: #⚙️ 
-tags: #economy 
+tags: #economy #MOCsuggestion/economy
 related: 

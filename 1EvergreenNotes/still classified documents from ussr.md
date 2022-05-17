@@ -7,6 +7,6 @@ https://meduza.io/episodes/2020/05/08/lichnyy-arhiv-stalina-i-ego-perepiska-s-ge
 https://news.rambler.ru/other/37760141-kakie-dokumenty-sssr-do-sih-por-zasekrecheny/
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #history 
 related: 

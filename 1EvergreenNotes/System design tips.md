@@ -183,8 +183,10 @@ Summary (main popints during system design interviews)
 Main steps with details
 
 
+**expand each part if you want**
+
 ---
-status: #⚙️ 
-tags: 
+status: #🌱
+tags: #programming/system_design #MOCsuggestion/general_programming_knowledge
 related: 
 

@@ -20,5 +20,5 @@ So the best way is to show weak spots in your position and tell your opponent ho
 
 ---
 status: #⚙️ 
-tags: #debate 
+tags: #debate #MOCsuggestion/debate_tips
 related: 

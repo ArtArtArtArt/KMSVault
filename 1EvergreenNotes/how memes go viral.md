@@ -8,7 +8,9 @@ also you may emulate it using a lot of money but it may not be so effective.
 I also know that memes are set to be viral the same way.
 So be authentic for a small group - and you win.
 
+**any idea how can you use this for music? any experiment**
+
 ---
-status: #⚙️ 
+status: #🌱
 tags: #socioeconomy 
 related: 

@@ -9,7 +9,7 @@ Another sign could be haltura - when the system is so oppressive to everyone tha
 
 ---
 status: #⚙️ 
-tags: #russian_aggression #socioeconomy 
+tags: #russian_aggression #socioeconomy #MOCsuggestion/critique_of_authoritarianism
 related: 
 
 

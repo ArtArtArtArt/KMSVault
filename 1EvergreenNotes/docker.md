@@ -1,8 +1,4 @@
----
-status: 🌱
----
 # docker
-#programming/devops 
 
 https://www.youtube.com/watch?v=rOTqprHv1YE
 
@@ -31,7 +27,6 @@ Examples of namespaces:
  - User ID. You can be a host to your process but not to your machine
 
 
-
 Docker is written in GO language.
 
 Do when you create a new process inside a docker you are setting new namespaces for this process. They are restricted so the process feels like running in a very special place.
@@ -44,3 +39,10 @@ All the instructions needed for the docker to run your app is called an image. I
 Docker file has some commands and run command. Every time you call a run command a new layer of the image is created.
 
 So docker may create a subsystem inside a subsystem easily.
+
+
+
+---
+status: #🌲
+tags: #MOCsuggestion/general_programming_knowledge #programming/devops 
+related: 

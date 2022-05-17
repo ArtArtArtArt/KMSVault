@@ -39,5 +39,5 @@ Name generation - geography, profession, behavior, fashion.
 
 ---
 status: #⚙️ 
-tags: 
+tags: #project/cultural_simulation #MOCsuggestion/projects_heap 
 related: 

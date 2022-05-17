@@ -51,5 +51,5 @@ https://www.youtube.com/watch?v=F3yVbzMJ7yI&ab_channel=hrendyabliki
 
 ---
 status: #⚙️ 
-tags: 
+tags: #history/imperialism #MOCsuggestion/ukrainian_and_russian_nationalisms
 related: 

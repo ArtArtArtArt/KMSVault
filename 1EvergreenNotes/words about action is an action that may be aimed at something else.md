@@ -4,5 +4,5 @@
 
 ---
 status: #⚙️ 
-tags: #values
+tags: #values #MOCsuggestion/personal_values_heap
 related: 

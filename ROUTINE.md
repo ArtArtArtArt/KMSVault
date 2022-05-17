@@ -13,5 +13,15 @@ There are several input sources that I have
  - Goolge keep notes with something that I watched on the phone
  - Yinote outlines of videos
  - Pocket sources that I have to work through
+ - Youtube watch later
 
-The question is - when should I clean them up? Maybe once per week?
+The question is - when should I clean them up? Maybe once per week?  -it happens naturally so it's ok - you do not start working on evergreen if you have not cleaned lists
+
+⚙️ - note only created
+🌱- note has to be expanded or broken down into several other notes, it has suggestions written in the note
+🌾- note is halfway in the process of forresting, some additional suggestions might be added
+🌲- note is finished and has to be reviewed
+✅- note is done
+
+
+

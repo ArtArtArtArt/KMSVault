@@ -1,7 +1,7 @@
-# Untitled
+# conspiracy is lenses
 https://www.youtube.com/watch?v=DF8ocw84N_g&ab_channel=%D0%9F%D0%B0%D1%83%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8
 
-Conspirology - is a lense 
+conspiracy - is lenses 
 Конспирология это линза
 Герменевтика подозрения - Поль Рекер
 
@@ -12,5 +12,5 @@ Conspirology - is a lense
 
 ---
 status: #⚙️ 
-tags: 
+tags: #philosophy 
 related: 

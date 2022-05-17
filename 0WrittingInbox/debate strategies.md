@@ -1,7 +1,9 @@
-# my view on relationship
+# debate strategies
+
 
 ---
 status: #⚙️ 
 tags: #MOC
 related: 
+
 

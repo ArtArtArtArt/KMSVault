@@ -8,5 +8,5 @@ I suppose because the amount of cells inside a province might change due to diff
 
 ---
 status: #⚙️ 
-tags: #viclikegame #gameplay/idea 
+tags: #project/viclikegame #gameplay/idea #MOCsuggestion/projects_heap
 related: 
