@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1EvergreenNotes/national regalia is a performance in a fashion of certain time.md",
+            "file": "0WrittingInbox/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 497
+    "width": 497,
+    "collapsed": true
   },
   "right": {
     "id": "a922d188f5a51fec",
@@ -82,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1EvergreenNotes/national regalia is a performance in a fashion of certain time.md",
+                "file": "0WrittingInbox/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1EvergreenNotes/national regalia is a performance in a fashion of certain time.md"
+                "file": "0WrittingInbox/Untitled.md"
               }
             }
           },
@@ -170,6 +171,7 @@
   },
   "active": "405ca2674e15ba51",
   "lastOpenFiles": [
+    "0WrittingInbox/Untitled.md",
     "1EvergreenNotes/national regalia is a performance in a fashion of certain time.md",
     "1EvergreenNotes/cpu usage of a singel application.md",
     "1EvergreenNotes/Democracy vs Autocracy - modern battle.md",
@@ -178,7 +180,6 @@
     "1EvergreenNotes/you need not to work on boring staff when you feel no impact.md",
     "PROJECTS/PROJECT culture simulator.md",
     "1EvergreenNotes/Game AI basics.md",
-    "1EvergreenNotes/AI implementation approaches.md",
-    "1EvergreenNotes/Enhanced tech tree.md"
+    "1EvergreenNotes/AI implementation approaches.md"
   ]
 }
