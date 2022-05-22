@@ -59,7 +59,7 @@ They may tell you what they did. But the problem is that not only we do not know
 
 
 
-# Outline
+# hyper successful people
 
 Statement: *It does not matter what a successful persons' day looks like, what he values and what are his routines. His advises are even less valuable if he came from the "bottom". If you want to listen to what is essential to success - listen to people already born to success.*
 

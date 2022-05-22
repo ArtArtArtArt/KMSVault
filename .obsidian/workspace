@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "405ca2674e15ba51",
+        "id": "3f54e8837ff54747",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0WrittingInbox/Untitled.md",
+            "file": "0WrittingInbox/Untitled 43.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:1EvergreenNotes",
+                "query": "path:0WrittingInbox",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,8 +60,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -75,7 +74,7 @@
       {
         "id": "d3bdb6896f826b52",
         "type": "tabs",
-        "dimension": 34.890656063618295,
+        "dimension": 49.70178926441352,
         "children": [
           {
             "id": "fa5e79ff6afa72f9",
@@ -83,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0WrittingInbox/Untitled.md",
+                "file": "0WrittingInbox/Untitled 43.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0WrittingInbox/Untitled.md"
+                "file": "0WrittingInbox/Untitled 43.md"
               }
             }
           },
@@ -128,7 +127,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "eb19ce275fb09d34",
@@ -148,7 +148,7 @@
       {
         "id": "9ea9dd41e9e7ad0d",
         "type": "tabs",
-        "dimension": 45.2286282306163,
+        "dimension": 30.417495029821072,
         "children": [
           {
             "id": "38c8f0b16974b222",
@@ -166,20 +166,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414,
+    "width": 456,
     "collapsed": true
   },
-  "active": "405ca2674e15ba51",
+  "active": "3f54e8837ff54747",
   "lastOpenFiles": [
-    "0WrittingInbox/Untitled.md",
-    "1EvergreenNotes/national regalia is a performance in a fashion of certain time.md",
-    "1EvergreenNotes/cpu usage of a singel application.md",
-    "1EvergreenNotes/Democracy vs Autocracy - modern battle.md",
-    "1EvergreenNotes/how to start hacking.md",
-    "1EvergreenNotes/Insert and delete time for map.md",
-    "1EvergreenNotes/you need not to work on boring staff when you feel no impact.md",
-    "PROJECTS/PROJECT culture simulator.md",
-    "1EvergreenNotes/Game AI basics.md",
-    "1EvergreenNotes/AI implementation approaches.md"
+    "0WrittingInbox/Untitled 43.md",
+    "0WrittingInbox/Untitled 42.md",
+    "0WrittingInbox/Untitled 41.md",
+    "0WrittingInbox/Untitled 40.md",
+    "0WrittingInbox/Untitled 39.md",
+    "0WrittingInbox/Untitled 38.md",
+    "0WrittingInbox/Untitled 37.md",
+    "0WrittingInbox/Untitled 36.md",
+    "0WrittingInbox/Untitled 35.md",
+    "0WrittingInbox/Untitled 34.md"
   ]
 }

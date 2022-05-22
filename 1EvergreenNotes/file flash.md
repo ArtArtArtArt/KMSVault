@@ -1,7 +1,9 @@
 # file flash
 file flash - release the buffers
 
+**how to make it? what buffers?**
+
 ---
-status: #⚙️ 
+status: #🌱
 tags: #programming/os 
 related: 

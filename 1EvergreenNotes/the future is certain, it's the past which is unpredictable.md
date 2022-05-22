@@ -4,6 +4,6 @@
 
 
 ---
-status: #⚙️ 
-tags: #history 
+status: #🌱
+tags: #history #values 
 related: 

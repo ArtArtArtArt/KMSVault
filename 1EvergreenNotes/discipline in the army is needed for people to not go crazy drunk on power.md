@@ -5,7 +5,9 @@
   
 Дисциплина нужна что бы демон не вырвался из человека
 
+**more talks on this topic?**
+
 ---
-status: #⚙️ 
+status: #🌱
 tags: #russian_aggression #army
 related: 

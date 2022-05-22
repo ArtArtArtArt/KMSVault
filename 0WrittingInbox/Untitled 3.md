@@ -1,0 +1,11 @@
+# Untitled 3
+https://twitter.com/nastyabakulina_/status/1525570828577951746?s=12&t=3HMCOOcTNDBUj9XEqEBnwQ&utm_source=pocket_mylist
+
+
+Коли надія перевищує страх, то вона породжує відвагу. Григорій Кониський
+
+
+---
+status: #⚙️ 
+tags: 
+related: 

@@ -27,3 +27,9 @@ DirectX
 
 ---
 read more here: https://docs.microsoft.com/en-us/windows/win32/direct3d11/direct3d-11-advanced-stages-tessellation
+
+---
+status: #🌱
+tags:  #programming/gamedev/rendering
+related: 
+

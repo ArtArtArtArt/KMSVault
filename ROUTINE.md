@@ -19,7 +19,7 @@ The question is - when should I clean them up? Maybe once per week?  -it happens
 
 ⚙️ - note only created
 🌱- note has to be expanded or broken down into several other notes, it has suggestions written in the note
-🌾- note is halfway in the process of forresting, some additional suggestions might be added
+🌾- note is halfway in the process of forresting, some additional suggestions might be added, also links to other notes ight be provided
 🌲- note is finished and has to be reviewed
 ✅- note is done
 

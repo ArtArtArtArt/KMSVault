@@ -8,6 +8,7 @@ these are proofs that they wanted to make big cleanse of ukrainians
 also MI6 supports this
 https://www.reddit.com/r/ukraina/comments/tvsvjc/mi6_head_richard_moore_we_knew_putins_invasion/?utm_name=iossmf&utm_source=pocket_mylist
 
+[[mass executions planned after invasion if Ukraine]]
 
 ---
 status: #⚙️ 
