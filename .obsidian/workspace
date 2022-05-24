@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3f54e8837ff54747",
+        "id": "d15349b49e7be87d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0WrittingInbox/Untitled 43.md",
+            "file": "1EvergreenNotes/subnetwork.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:0WrittingInbox",
+                "query": "path:1EvergreenNotes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,12 +60,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 497,
-    "collapsed": true
+    "width": 406.5036334991455
   },
   "right": {
     "id": "a922d188f5a51fec",
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0WrittingInbox/Untitled 43.md",
+                "file": "1EvergreenNotes/subnetwork.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0WrittingInbox/Untitled 43.md"
+                "file": "1EvergreenNotes/subnetwork.md"
               }
             }
           },
@@ -148,7 +148,7 @@
       {
         "id": "9ea9dd41e9e7ad0d",
         "type": "tabs",
-        "dimension": 30.417495029821072,
+        "dimension": 30.41749502982107,
         "children": [
           {
             "id": "38c8f0b16974b222",
@@ -169,17 +169,17 @@
     "width": 456,
     "collapsed": true
   },
-  "active": "3f54e8837ff54747",
+  "active": "d15349b49e7be87d",
   "lastOpenFiles": [
-    "0WrittingInbox/Untitled 43.md",
-    "0WrittingInbox/Untitled 42.md",
-    "0WrittingInbox/Untitled 41.md",
-    "0WrittingInbox/Untitled 40.md",
-    "0WrittingInbox/Untitled 39.md",
-    "0WrittingInbox/Untitled 38.md",
-    "0WrittingInbox/Untitled 37.md",
-    "0WrittingInbox/Untitled 36.md",
-    "0WrittingInbox/Untitled 35.md",
-    "0WrittingInbox/Untitled 34.md"
+    "1EvergreenNotes/subnetwork.md",
+    "1EvergreenNotes/usefulness calculation.md",
+    "1EvergreenNotes/dynamicity of the world is undermined.md",
+    "1EvergreenNotes/russian liberals are the enemies of tomorrow.md",
+    "1EvergreenNotes/amplified shader.md",
+    "1EvergreenNotes/forward rendering.md",
+    "1EvergreenNotes/russian justification of attack on Ukraine is alike of Finnish attack.md",
+    "1EvergreenNotes/визнання колективної політичної провини це обов'язковий крок на шляху до психічного здоров'я.md",
+    "1EvergreenNotes/main puprose of russia.md",
+    "1EvergreenNotes/finding a memory leak using a profiler.md"
   ]
 }

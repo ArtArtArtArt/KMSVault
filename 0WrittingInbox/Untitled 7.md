@@ -1,9 +1,0 @@
-# Untitled 7
-https://www.tiktok.com/@memezzo003/video/7094654848246893829?_t=8SKEyyntPNu&_r=1
-українська бюрократія вб'є російську мову.
-Посвідчення.
-
----
-status: #⚙️ 
-tags: 
-related: 

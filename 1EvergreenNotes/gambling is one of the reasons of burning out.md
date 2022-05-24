@@ -12,4 +12,4 @@ https://www.youtube.com/watch?v=i4MjGlOQZmQ&t=42s&ab_channel=AntonNazarov
 ---
 status: #🌱
 tags: #values #job
-related: [[job mindset mental environment improval]]
+related: [[job mindset mental environment improvements]]
