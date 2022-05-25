@@ -1,8 +1,4 @@
----
-type: 
- - definition
-tags:
----
+# Monorepo
 
 ## Monorepo is 
 
@@ -65,3 +61,7 @@ github.com/myorg/lib1
 ```
 
 
+---
+status: #🌱
+tags: #programing/repositories
+related: 

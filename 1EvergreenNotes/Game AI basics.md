@@ -25,6 +25,8 @@ In game dev the "sense" part is obsolete, becaouse sensing is entrinsic to the g
 	In unreal engine 4 the traversing of the tree is much more complex, you may reevaluate the tree on condition, services might be attached to the nodes, some updates might happen without full reevaluation.
 - Utility-based systems (RTS it is usually a priority queue of the objectives). Each action (or objective) is assigned some score based on "senses". And then the action is picked. In WatchDogs fist fight was done using utility based system.
 
+[[BT vs FSM]]
+
 ## Movement and navigation
 - Steering - just moving towards the desired location.
 - Pathfinding. Might be implemented as a A* algorithm (breadth first algorithm with Dijkstra with distance to target heuristics) on a grid location. Then steering is used to move through the "path", from one cell to another. If the game does not have nodes then "NavMeshing" can generate them.

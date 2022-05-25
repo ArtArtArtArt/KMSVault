@@ -8,7 +8,7 @@ In 1995 [[Immanuel Wallerstein]] said that russia will go back to cold war with 
 
 All three Yeltisn's PMs where state security agents - Primakov, Stepanishyn and Putin.
 
-Primakov wanted to start war with america sooner, putin later. Putin is super retional - firts get power, then attack the west.
+Primakov wanted to start war with america sooner, putin later. Putin is super rational - first get power, then attack the west.
 Semi-periphery status was determining the behavior of russia regardless of rulers or ideologies.
 
 Alexander II said : "**Russia is neither a merchant, nor agricultural state and its destiny is to be the menace of the world"** - which is basically what semi-periphery have to do according to Wallerstein. 
@@ -18,13 +18,14 @@ Alexander II said : "**Russia is neither a merchant, nor agricultural state and 
 Before 1917 German, American, Belgian and other companies competed in industrialization of russia.
 
 Bolsheviks took totally unprepared country for the socialism stage. They tried to take over western countries but failed on Poland already.
-They indented to take over the core but took periphery. 
+They intended to take over the core but took periphery. 
 
 In 1921 Lenin argued: "We completed a bourgeois-democratic revolution better than anyone else. We will consciously, firmly and implacably move forward to the socialist revolution"
 
-So lenin did not view the revolution as a socialist. He seem to believe in a theoury behind communism and understood that you could not jump over the period. 
+So lenin did not view the revolution as a socialist. He seem to believe in a theory behind communism and understood that you could not jump over the period. 
 
 Lenin "О государтсвенном капитализме" states that russia is a state capitalism. That is why he allowed commence in 1921 - decision was hated by communists.
+[[Bolsheviks destroyed socialism in first several months after they came to power]]
 USSR needed a proxy to trade with the west. It was All Russian Cooperative Society Limited (Arcos) founded in London in 1920 and led by [[Leonid Krasin]].
 Then they created Arcos America company and some others eventually merged in to amtorg. This company approched Detroit industrial architect Albert Khan and commisioned to organise soviet industrialiation.
 

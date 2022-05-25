@@ -1,8 +1,3 @@
----
-status: 🌱
-tags:
- - #programming/network 
----
 # Strategies of implementation a socket oriented server
 
 ### Strategies of implementation a socket oriented server
@@ -13,3 +8,10 @@ tags:
 [[socket]]
 
 more info here - [video](https://www.youtube.com/watch?v=NIqYwXcUdn0&ab_channel=OneByteAtATime)
+
+
+---
+status: #⚙️ 
+tags: #programming/network 
+related: 
+

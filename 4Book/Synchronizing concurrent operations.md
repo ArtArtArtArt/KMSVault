@@ -30,6 +30,9 @@
 ## Synchronizing concurrent operations
 
 ### [[Conditional variable]] 
+
+^28c4bb
+
 wait function needs a lock as a parameter
 
 ```cpp

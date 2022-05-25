@@ -34,10 +34,11 @@
 Причини передачі були вказані в економічних і культурних 
 
 
+![[Pasted image 20220525213040.png]]
 
-ЗАГУГЛИ ДОКУМЕНТ ПЕРЕДАЧІ
+![[Pasted image 20220525213247.png]]
 
 ---
 status: #⚙️ 
-tags: 
+tags: #history/nationalism 
 related: 

@@ -1,11 +1,4 @@
----
-status: ⚙️
-type: 
- - discussion
-tags:
- - programming 
- - interview 
----
+# how to use conditional variables
 
 Conditional variable example of usage:
 
@@ -65,3 +58,9 @@ int main()
     worker.join();
 }
 ```
+
+
+---
+status: #⚙️ 
+tags: #programming #interview 
+related: 

@@ -9,7 +9,9 @@ West left at the democracy part but it somehow praised the socialism part - whic
 Lenin also said that they are building state capitalism.
 No elements of workers control, super exploitation.
 
+**examples of first year decisions**
+
 ---
-status: #⚙️ 
+status: #🌱 
 tags: #history 
 related: 

@@ -9,10 +9,11 @@ https://twitter.com/kamilkazani/status/1516162671594287105?s=12&t=32ocNsewrw7Jet
 1) Spoken vernaculars (sounds-based) 
 2) Sacred languages (signs-based)
 
+[[BOOK Imagined communities]]
+
 Andersonian paradigm - Those who use the same sacred language comprise a separate sacred community (=civilisation)
 
 Within each sacred community people spoke on multiple vernaculars
-
 
 Equating premodern sacred communities to modern national communities is a major fallacy. That's wrong, even if they bear the same or a similar name. In modern Russia the word Russian refers to a nation. In medieval Russia - to the sacred community operating across ethnic lines
 

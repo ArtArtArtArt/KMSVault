@@ -1,8 +1,3 @@
----
-status: 🌾
----
-#note_organization
-
 Categorize notes based not on where they come from but on where they go to. 
 Answer the question : in what context will I use them?
 Try using tags for it, not folders.
@@ -44,3 +39,8 @@ Should be used to determine topics.
 
 
 
+
+---
+status: #🌾
+tags: #note_organization
+related: 

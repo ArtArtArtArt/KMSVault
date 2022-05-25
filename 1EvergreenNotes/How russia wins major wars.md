@@ -7,5 +7,5 @@ THREAD
 
 ---
 status: #⚙️ 
-tags: #russian_aggression 
+tags: #russian_aggression #history/nationalism 
 related: 
