@@ -9,6 +9,8 @@ Eastern religion for creating an anquesstioning mindfullness practices.
 
 Blame you for lack of emotional control instead of letting you be fueled by anger.
 
+**maybe add review**
+
 ---
 status: #⚙️ 
 tags: #psychology 

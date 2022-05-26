@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "91f570e697cf7936",
+        "id": "d4252dabf28442cc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1EvergreenNotes/Entity component system.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "038ac1f8af494658",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1EvergreenNotes/Bolsheviks destroyed socialism in first several months after they came to power.md",
+            "file": "1EvergreenNotes/video based on mixed media anination.md",
             "mode": "source",
             "source": false
           }
@@ -94,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1EvergreenNotes/Entity component system.md",
+                "file": "1EvergreenNotes/video based on mixed media anination.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1EvergreenNotes/Entity component system.md"
+                "file": "1EvergreenNotes/video based on mixed media anination.md"
               }
             }
           },
@@ -139,8 +127,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "eb19ce275fb09d34",
@@ -181,17 +168,17 @@
     "width": 456,
     "collapsed": true
   },
-  "active": "91f570e697cf7936",
+  "active": "d4252dabf28442cc",
   "lastOpenFiles": [
-    "1EvergreenNotes/Entity component system.md",
-    "1EvergreenNotes/How to organize your notes.md",
-    "1EvergreenNotes/EU5 level.md",
-    "1EvergreenNotes/Strategies of implementation a socket oriented server.md",
-    "1EvergreenNotes/Monorepo.md",
-    "1EvergreenNotes/learning theory about achieving the goal does not help.md",
-    "1EvergreenNotes/memory barrier.md",
-    "1EvergreenNotes/lenin called union a state capitalism, problem with ideology which cease control over state as means.md",
-    "1EvergreenNotes/russia is semi-periphery country specialized on creating conflicts.md",
-    "1EvergreenNotes/Bolsheviks destroyed socialism in first several months after they came to power.md"
+    "1EvergreenNotes/video based on mixed media anination.md",
+    "1EvergreenNotes/mindfulness may be used to blame you for lack of emotional control where anger is proper emotion.md",
+    "1EvergreenNotes/Zizek inability to understand the mental state of the defender.md",
+    "1EvergreenNotes/Spinlock.md",
+    "4Book/The C++ memory model and operations on atomic types.md",
+    "4Book/Designing lock-free concurrent data structures.md",
+    "1EvergreenNotes/you can speak only when you repeat the ideas of the previous speaker accurately.md",
+    "1EvergreenNotes/file flash.md",
+    "1EvergreenNotes/memory allocation.md",
+    "ZZZ/AI implementation approaches.md"
   ]
 }

@@ -8,6 +8,12 @@ https://www.tiktok.com/@kkkdnews/video/7073918181655596293?_d=secCgYIASAHKAESPgo
 А потом после некоторого времени боевых действий они стали менять цели войны.
 Уже не хотят свое правительство в хельсинки привести, уже они занимаются обороной ленинграда (правда зачем то анексировали часть финляндии за 1000 км).
 
+also 
+![[changing the subject examples]]
+![[russian justification of attack on Ukraine is alike of Finnish attack]]
+
+
+
 ---
 status: #⚙️ 
 tags: #russian_aggression #history/imperialism 

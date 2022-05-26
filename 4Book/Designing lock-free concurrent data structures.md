@@ -32,6 +32,8 @@
 p.204
 
 using atomic to create a spinlock
+[[Spinlock]]
+
 ```cpp
 class spinlock_mutex 
 {
