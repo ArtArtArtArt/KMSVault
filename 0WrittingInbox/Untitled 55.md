@@ -1,0 +1,14 @@
+# Untitled 55
+https://www.tiktok.com/@alien__mind/video/7102456023419555077?_t=8SqzauxuafO&_r=1
+
+Коррупция 
+среди янычар в османской
+среди стрелков в допетровской россии
+
+
+армия 
+
+---
+status: #⚙️ 
+tags: 
+related: 

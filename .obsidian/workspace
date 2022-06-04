@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1EvergreenNotes/video based on mixed media anination.md",
+            "file": "0WrittingInbox/Untitled 58.md",
             "mode": "source",
             "source": false
           }
@@ -60,12 +60,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 406.5036334991455
+    "width": 406.5036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "a922d188f5a51fec",
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1EvergreenNotes/video based on mixed media anination.md",
+                "file": "0WrittingInbox/Untitled 58.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1EvergreenNotes/video based on mixed media anination.md"
+                "file": "0WrittingInbox/Untitled 58.md"
               }
             }
           },
@@ -170,15 +170,15 @@
   },
   "active": "d4252dabf28442cc",
   "lastOpenFiles": [
-    "1EvergreenNotes/video based on mixed media anination.md",
-    "1EvergreenNotes/mindfulness may be used to blame you for lack of emotional control where anger is proper emotion.md",
-    "1EvergreenNotes/Zizek inability to understand the mental state of the defender.md",
-    "1EvergreenNotes/Spinlock.md",
-    "4Book/The C++ memory model and operations on atomic types.md",
-    "4Book/Designing lock-free concurrent data structures.md",
-    "1EvergreenNotes/you can speak only when you repeat the ideas of the previous speaker accurately.md",
-    "1EvergreenNotes/file flash.md",
-    "1EvergreenNotes/memory allocation.md",
-    "ZZZ/AI implementation approaches.md"
+    "0WrittingInbox/Untitled 58.md",
+    "0WrittingInbox/Untitled 57.md",
+    "0WrittingInbox/Untitled 56.md",
+    "0WrittingInbox/Untitled 55.md",
+    "0WrittingInbox/Untitled 54.md",
+    "0WrittingInbox/Untitled 53.md",
+    "0WrittingInbox/Untitled 52.md",
+    "0WrittingInbox/Untitled 51.md",
+    "0WrittingInbox/Untitled 49.md",
+    "0WrittingInbox/Untitled 50.md"
   ]
 }
