@@ -29,7 +29,7 @@
 # Synchronizing concurrent operations
 ## Synchronizing concurrent operations
 
-### [[Conditional variable]] 
+### [[conditional variable]] 
 
 ^28c4bb
 

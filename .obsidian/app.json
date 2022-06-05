@@ -11,5 +11,6 @@
   "foldIndent": true,
   "attachmentFolderPath": "Resources",
   "legacyEditor": false,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "tabSize": 4
 }

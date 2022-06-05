@@ -1,7 +1,0 @@
-# Lightmap
-
-
----
-status: #⚙️ 
-tags: 
-related: 

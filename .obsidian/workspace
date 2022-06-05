@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0WrittingInbox/Untitled 58.md",
+            "file": "0WrittingInbox/Untitled 9.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:1EvergreenNotes",
+                "query": "path:0WrittingInbox",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,8 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5036334991455,
-    "collapsed": true
+    "width": 406.5036334991455
   },
   "right": {
     "id": "a922d188f5a51fec",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0WrittingInbox/Untitled 58.md",
+                "file": "0WrittingInbox/Untitled 9.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0WrittingInbox/Untitled 58.md"
+                "file": "0WrittingInbox/Untitled 9.md"
               }
             }
           },
@@ -170,15 +169,15 @@
   },
   "active": "d4252dabf28442cc",
   "lastOpenFiles": [
-    "0WrittingInbox/Untitled 58.md",
-    "0WrittingInbox/Untitled 57.md",
-    "0WrittingInbox/Untitled 56.md",
-    "0WrittingInbox/Untitled 55.md",
-    "0WrittingInbox/Untitled 54.md",
-    "0WrittingInbox/Untitled 53.md",
-    "0WrittingInbox/Untitled 52.md",
-    "0WrittingInbox/Untitled 51.md",
-    "0WrittingInbox/Untitled 49.md",
-    "0WrittingInbox/Untitled 50.md"
+    "0WrittingInbox/Untitled 9.md",
+    "0WrittingInbox/Сім популярних міфів про війну Росії проти України.md",
+    "1EvergreenNotes/low self worth manifestations of Ukrainian people.md",
+    "1EvergreenNotes/Франк писав що російська ідеологія морально-утилітарна.md",
+    "1EvergreenNotes/Untitled 2.md",
+    "1EvergreenNotes/tatar language in the muscow region.md",
+    "1EvergreenNotes/atheism breakdown.md",
+    "1EvergreenNotes/Bible says life starts with the first breath.md",
+    "1EvergreenNotes/Untitled 17Every break up happens twice.md",
+    "1EvergreenNotes/Окупація Сахаліну.md"
   ]
 }
