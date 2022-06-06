@@ -9,4 +9,4 @@ This way you may find cool ways to find interconnections between the characters 
 ---
 status: #⚙️ 
 tags: #plotline/theory 
-related: 
+related: [[Tarantino way of making a plot]]

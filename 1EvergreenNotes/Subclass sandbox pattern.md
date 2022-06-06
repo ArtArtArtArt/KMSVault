@@ -5,6 +5,7 @@ add protected methods in a base class for each atomic "query" to different subsy
 
 Here is another good reason to use inheritance - to restrict usage of some methods.
 
+**add example**
 
 ---
 status: #🌱

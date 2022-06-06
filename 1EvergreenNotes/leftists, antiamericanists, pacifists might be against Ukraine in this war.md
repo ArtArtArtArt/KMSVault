@@ -10,5 +10,5 @@ https://twitter.com/vsempohuy/status/1527645455026372608?s=12&t=6oZvozGpJIXv4Tiv
 
 ---
 status: #⚙️ 
-tags: 
+tags: #ideology 
 related: 

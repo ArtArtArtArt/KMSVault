@@ -1,7 +1,9 @@
 # fence
 do not reorder lines
 
+**example**
+
 ---
 status: #⚙️ 
-tags: #programing 
+tags: #programming/multithreading 
 related: 

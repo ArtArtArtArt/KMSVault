@@ -22,18 +22,16 @@ Resolve is persuing indirectly
 
 Break happiness down to components and persuing them is good way out
 SPIRE
-- Spiritual - sense of meaning in work and life
-- Physical - stress (vacations and free time) - lack of recovery and recreation
-- Intellectual - curious, deeply ingaging with material
-- Relational - quality time with people we care about and we care about us
-- Emotional - pleasure, gratitude
-
-
+- Spiritual - sense of meaning in work and life (?)
+- Physical - stress (vacations and free time) - lack of recovery and recreation (so so)
+- Intellectual - curious, deeply engaging with material (+)
+- Relational - quality time with people we care about and we care about us (friends - great, personal is absent)
+- Emotional - pleasure, gratitude (games+, sex-, music+, other creativities+, art+)
 
 
 
 
 ---
-status: #⚙️ 
-tags: 
+status: #🌱
+tags: #values 
 related: 

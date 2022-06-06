@@ -6,9 +6,9 @@ Keep It Simple Stupid
 
 Coco Shanel: Before you leave the house, look in the mirror and take one thing off
 
-
 Accessories should enhance your aesthetic
 
+**add more**
 
 ---
 status: #⚙️ 

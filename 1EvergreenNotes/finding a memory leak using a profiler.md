@@ -7,7 +7,7 @@ Finding a memory leak
 
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #programming/tricks
 related: 
 

@@ -1,7 +1,7 @@
 # russian strategy
 https://www.youtube.com/watch?v=rzja-LOqUd8&list=WL&index=3&t=171s&ab_channel=VladVexler
 
-Russia strikes preamptively
+Russia strikes preemptively
 ![[Pasted image 20220523102028.png]]
 
 Russia cares more about the shape of the message then about the content (presumably a feature of the informational autocracy)

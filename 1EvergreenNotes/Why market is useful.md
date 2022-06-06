@@ -20,7 +20,7 @@ Main prerequisites if a free market:
 ## [11:22](https://www.youtube.com/watch?v=qWzJ6qOa5yY&t=682)
 
 Free market maximizes the surplus, and this is not the only thing you might want to optimize for.
-For some areas maximising the number of participants might be the goal - then free market need regulation.
+For some areas maximizing the number of participants might be the goal - then free market need regulation.
 Such areas might be 
  - Food
  - Labor
@@ -28,8 +28,7 @@ Such areas might be
 
 
 
-
 ---
-status: #⚙️ 
+status: #🌱
 tags: #economy
 related: 

@@ -1,10 +1,10 @@
 # Authoritarian country is always corrupted
 
-This should be assessed.
+**This should be assessed.**
 
 
 ---
 status: #⚙️ 
-tags: 
+tags: #geopolitics #ideology 
 related: 
 

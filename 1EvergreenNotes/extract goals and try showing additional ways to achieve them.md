@@ -6,6 +6,15 @@
 There are also some tricks (form the Miro) to expand your vision of achieving goals.
 Checking all the options of achieving the goals is a good way of checking weather the stated goal is a cover up - and maybe we will be able to understand if it is intentional or not.
 
+**write about this tricks**
+
+Realist/critique/dreamer 
+![[Pasted image 20220606081012.png]]
+
+Smart goals
+![[Pasted image 20220606080955.png]]
+
+
 
 ---
 status: #🌱

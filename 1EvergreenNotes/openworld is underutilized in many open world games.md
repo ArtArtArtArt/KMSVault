@@ -1,4 +1,4 @@
-# openworld is underutilized in many opem world games
+# openworld is underutilized in many open world games
 https://www.youtube.com/watch?v=3UBhy2nDlxw&list=WL&index=3&ab_channel=Razbuten
 
 Often main quest of the open world game could just be a single player game.
@@ -69,6 +69,6 @@ If camp was a true incentive for a story progression than you would have to do b
 Main missions give you way much money - no incentive to explore the world.
 
 ---
-status: #⚙️ 
-tags: 
+status: #🌱
+tags: #gamedesign 
 related: 

@@ -18,6 +18,6 @@ general Lebid - russian military leader of an army which participated in moldova
 	
 
 ---
-status: #⚙️ 
+status: #✅
 tags: #mk11
 related: 

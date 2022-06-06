@@ -1,4 +1,4 @@
-# Plough has influenced women oppressed position and anemism, tractor influenced their liberation
+# Plough has influenced women oppressed position and animism, tractor influenced their liberation
 https://www.tiktok.com/@intelligence01/video/7085355804160773382?_t=8SqNAFfOv4w&_r=1
 
 Emergence of plow changed.
@@ -19,7 +19,9 @@ As long as hard labor started to be atomized - there was no need in such role di
 
 Plough is a start of the anthroposphere. The new idea that people can change the world and are somehow main in the world started to emerge.
 
+**how this can be used in a game?**
+
 ---
-status: #⚙️ 
-tags: 
+status: #🌱
+tags: #history/culture 
 related: 

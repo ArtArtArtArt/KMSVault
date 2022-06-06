@@ -16,6 +16,6 @@ https://twitter.com/mariamposts/status/1509819932648914944?s=12&t=C-hVgLWrZ6X734
 That is a sign of creating a cult of the dead.
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #history #russian_aggression 
 related: 

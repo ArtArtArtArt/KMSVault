@@ -4,7 +4,10 @@ https://www.tiktok.com/@antropolohia/video/7100083795700829445?_t=8SUbaTjzwHt&_r
 Москва дозволяла певну стару народність, але нічого нового
 Одна з причин - місце в ООН + переманити діаспору на свій бік
 
-*that is why Ukrainian culture is associated with something archaic *
+*that is why Ukrainian culture is associated with something archaic*
+
+also [[USSR was not antiracist - it was extremely discriminative#^a09832]]
+
 
 ---
 status: #⚙️ 

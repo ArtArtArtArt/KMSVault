@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0WrittingInbox/Untitled 9.md",
+            "file": "0WrittingInbox/Transformational line and deeper voice.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:0WrittingInbox",
+                "query": "path:1EvergreenNotes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,11 +60,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 406.5036334991455
+    "width": 406.5036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "a922d188f5a51fec",
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0WrittingInbox/Untitled 9.md",
+                "file": "0WrittingInbox/Transformational line and deeper voice.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0WrittingInbox/Untitled 9.md"
+                "file": "0WrittingInbox/Transformational line and deeper voice.md"
               }
             }
           },
@@ -126,7 +128,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "eb19ce275fb09d34",
@@ -164,20 +167,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456,
+    "width": 1030.2669677734375,
     "collapsed": true
   },
   "active": "d4252dabf28442cc",
   "lastOpenFiles": [
-    "0WrittingInbox/Untitled 9.md",
-    "0WrittingInbox/Сім популярних міфів про війну Росії проти України.md",
-    "1EvergreenNotes/low self worth manifestations of Ukrainian people.md",
-    "1EvergreenNotes/Франк писав що російська ідеологія морально-утилітарна.md",
-    "1EvergreenNotes/Untitled 2.md",
-    "1EvergreenNotes/tatar language in the muscow region.md",
-    "1EvergreenNotes/atheism breakdown.md",
-    "1EvergreenNotes/Bible says life starts with the first breath.md",
-    "1EvergreenNotes/Untitled 17Every break up happens twice.md",
-    "1EvergreenNotes/Окупація Сахаліну.md"
+    "0WrittingInbox/Transformational line and deeper voice.md",
+    "1EvergreenNotes/threads for game engine subsystems.md",
+    "1EvergreenNotes/why heap corruption happens.md",
+    "1EvergreenNotes/Untitled 55.md",
+    "1EvergreenNotes/Subclass sandbox pattern.md",
+    "1EvergreenNotes/use time board for events and characters.md",
+    "1EvergreenNotes/fence.md",
+    "1EvergreenNotes/leftists, antiamericanists, pacifists might be against Ukraine in this war.md",
+    "1EvergreenNotes/Authoritarian country is always corrupted.md",
+    "1EvergreenNotes/finding a memory leak using a profiler.md"
   ]
 }

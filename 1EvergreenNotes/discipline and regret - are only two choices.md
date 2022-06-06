@@ -5,7 +5,12 @@ https://www.tiktok.com/@listopadova_m/video/7096896228834675973?_t=8SqzN9PG4qk&_
 
 *Боль дисциплины приводит к выгоранию, отрицание собственных индикаторов бьет в ответ очень сильно*
 
+**how would I modify this?**
+*I like the idea of choice and consequence of action as well as inaction*
+
+
+
 ---
 status: #⚙️ 
-tags: 
+tags: #timemanagement/tips 
 related: 

@@ -5,8 +5,12 @@ Modern ads is propaganda
   
 Paid experts to support the claim of being “true”
 
+Every art is ideology [[culture is always ideologized]]
+
+**any other thoughts on this topic?**
+
 
 ---
-status: #⚙️ 
+status: #⚙🌱
 tags: #ideology  
 related: 

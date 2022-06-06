@@ -7,8 +7,9 @@ FSM Problems
  - State feedback is optimal
 	 - Nest Action should only depend on current world state not on current FSM state
 
+**why BT cannot be turned into FSM???**
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #gamedev/AI 
 related: 

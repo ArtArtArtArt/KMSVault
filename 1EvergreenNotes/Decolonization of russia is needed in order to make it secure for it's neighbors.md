@@ -29,5 +29,5 @@ To recap: (1) Russia is an empire; (2) Russia can't be an empire and a democracy
 
 ---
 status: #⚙️ 
-tags: 
+tags: #russian_aggression 
 related: 

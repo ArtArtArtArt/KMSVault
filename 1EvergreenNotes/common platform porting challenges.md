@@ -1,11 +1,10 @@
----
-status: ⚙️
-type:
- - discussion
-tags:
- - programming/gamedev 
- - interview 
----
-
 # common platform porting challenges
+**brainstorm it**
+
+
+---
+status: #⚙️ 
+tags:  #programming/gamedev #interview 
+
+related: 
 

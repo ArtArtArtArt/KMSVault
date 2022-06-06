@@ -20,16 +20,18 @@ All this actions were surface level and were aimed to create an image of anti ra
 
 *Portnikov says that USSR was anti-Semitic - he could not enter a university because of his heritage*
 
+
 USSR had unwritten racial hierarchy https://t.co/brekZQApGq
+
 
 The first, most important, are the Ethnic Russians, the Older Brother. Next, two more younger brothers: Belarusians and Ukrainians (“white russians” and “little russians”). Three, the Baltic peoples: Lithuanians, Latvians, and Estonians.
 Four, the Moldovans, nations of the Caucasus, the Georgians, Armenians, and Turkic Azeris. Five, less white and more ‘Orient-looking’ Central Asians — Kazakhs, Kyrgyz, Tajiks, Turkmens, and Uzbeks.
 Finally, The Tatars, Buryats, Dagestani, and others are at the bottom of the hierarchy. This is especially telling now that Buryats and Caucasians constitute the majority of known Russian war casualties.
 They are still using Buriats as the lower class
-![[Pasted image 20220604162846.png]]
+![[Pasted image 20220604162846.png]] ^a09832
 
 
 ---
-status: #⚙️ 
-tags: 
+status: #🌱
+tags: #russian_aggression #history/nationalism 
 related: 

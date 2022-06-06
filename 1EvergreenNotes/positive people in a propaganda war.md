@@ -4,7 +4,7 @@
 
 ## [12:21](https://www.youtube.com/watch?v=VEpJe8iXqF4&t=741)
 
-russian churche stance on the situation
+russian churches stance on the situation
 
 ## [53:01](https://www.youtube.com/watch?v=VEpJe8iXqF4&t=3181)
 

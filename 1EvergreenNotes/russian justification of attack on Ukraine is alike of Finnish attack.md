@@ -8,6 +8,7 @@ After getting crushed they started changing the wargoals, now they do not want t
 
 This historical episode might be furthered with the information on how they tried to create Peoples Republics on the border.
 
+**when exactly did they change the wargoal and did england influenced it**
 
 ---
 status: #⚙️ 
