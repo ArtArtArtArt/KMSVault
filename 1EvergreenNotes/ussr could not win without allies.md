@@ -14,8 +14,17 @@ https://www.tiktok.com/@tiktokyrodyydalili/video/7092715238482627846?_t=8SSe0dIw
 Медицинский ленд лиз - 40 млн грамм стрептоцида (40 млн перевязок)
 Бинты стирали до ленд лиза.
 
+**myth about unbeatable russian army is strange - they won two big wears with economical help of the allies**
+
+![[How russia wins major wars#^f56079]]
+
+and this reputation happened mostly because [[russian pr army]]
+
+which lead to [[why estimates were so bad before russian war]]
+
+in order to fix this estimates problem : [[metrics to assess army readiness for war]]
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #history/ww2 
 related: 

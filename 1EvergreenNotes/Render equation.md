@@ -9,8 +9,10 @@ The rendering equation describes the total amount of light emitted from a point 
 [link](https://en.wikipedia.org/wiki/Rendering_equation)
 
 
+**do I need to go further? what useful info can be taken on this level?**
+
 ---
-status: #⚙️ 
+status: #🌱 
 tags: #programming/rendering
 related: 
 

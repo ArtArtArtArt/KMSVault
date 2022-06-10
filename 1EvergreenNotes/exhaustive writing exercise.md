@@ -12,6 +12,6 @@ And then write something else again.
 
 
 ---
-status: #⚙️ 
-tags: 
+status: #🌱 
+tags: #creativity/tips #creativity/exercise
 related: 

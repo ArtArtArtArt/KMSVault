@@ -14,9 +14,9 @@ wait needs a mutex which is locked, because it will release it and reacquire the
 
 Additional check of the condition should be made.
 
-
+**code example**
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #programming/multithreading 
 related: 

@@ -13,7 +13,9 @@ My heart was split in
 TWO
 Thousand thirteen..
 
+**try using it in a song someday**
+
 ---
-status: #⚙️ 
-tags: 
+status: #🌱 
+tags: #creativity/tips  
 related: 

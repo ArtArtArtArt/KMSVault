@@ -42,6 +42,9 @@ answer = recvfrom(sock_X, MESSAGE, sizeof(MESSAGE), 0, (struct sockaddr *)&ADDRE
 ```
 [[Strategies of implementation a socket oriented server]]
 
-status: #🌱
+**do I need any more info on sockets?**
+
+---
+status: #🌾
 tags: #programming/network 
 related: [[130 Network concepts MOC]]

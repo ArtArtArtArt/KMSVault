@@ -3,6 +3,6 @@
 - [[how to signal thread about something]]
 
 --- 
-status: #⚙️ 
+status: #🌲
 tags: 
 related: [[120 Interview questions MOC]]

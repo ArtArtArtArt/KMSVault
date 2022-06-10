@@ -3,9 +3,12 @@ https://twitter.com/sumlenny/status/1510168073831165956?s=12&t=mSV4wpX8qhoWbmljD
 
  Russia planned to easy-take Kyiv within 3 days, following by capitulation of Ukraine; - Russian army units were followed by thousands of riot police; - Russian army purchased 45,000 body bags and brought mobile crematories; - I am sure they planned mass executions for Ukraine.
 
-[[mass killings were planned for the ukrainians after the invasion]]
+[[mass killings were planned for the Ukrainians after the invasion]]
+
+also 
+![[russian army was poorly prepared for the invasion#^874d48]]
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #russian_aggression 
 related: 

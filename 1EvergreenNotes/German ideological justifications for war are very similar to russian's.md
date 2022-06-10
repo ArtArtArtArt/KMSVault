@@ -8,8 +8,10 @@ https://www.tiktok.com/@hideeeer/video/7099472099177270534?_t=8SUNZArRBtG&_r=1
 
 Немецкий бой - это оборонительный бой.
 
+some other similarities would be nice to find:
+[[WW2 Germans were also attacking only military objects]]
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #history/ww2 #russian_aggression 
-related: 
+related: [[russian justification of attack on Ukraine is alike of Finnish attack]]

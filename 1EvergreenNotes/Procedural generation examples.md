@@ -10,7 +10,9 @@ https://www.gamedeveloper.com/design/7-uses-of-procedural-generation-that-all-de
  - http://eilab.gatech.edu/
 
 
+**why do I need these?**
+
 ---
-status: #⚙️ 
+status: #🌱 
 tags: #gamedev/patterns 
 related: 

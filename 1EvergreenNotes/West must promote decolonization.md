@@ -30,7 +30,7 @@ To recap:
 (2) Russia can't be an empire and a democracy;
 (3) To democratize, Russia must decolonize; 
 (4) Decolonization doesn't necessarily mean dissolution; 
-(5) To promote democracy, West must promote decolonization.
+(5) To promote democracy, West must promote decolonization. ^c6b48b
 
 ---
 status: #🌱

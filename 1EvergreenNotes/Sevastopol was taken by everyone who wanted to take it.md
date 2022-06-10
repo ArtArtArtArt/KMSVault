@@ -69,8 +69,11 @@
 2 маштабні оборони криму (кримська та друга світова) закінчились поразками
 
 
+**what important do you see here?**
+
+[[russian pr army]]
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #history #russian_aggression 
 related: 

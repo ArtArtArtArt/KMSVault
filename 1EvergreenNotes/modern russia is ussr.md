@@ -7,6 +7,7 @@ Is not recognizing Holodomor
 
 it means that ideologically russia is the same
 
+**some more proofs?**
 
 ---
 status: #🌱

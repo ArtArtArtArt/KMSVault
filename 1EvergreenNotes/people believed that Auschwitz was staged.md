@@ -23,9 +23,9 @@ Also he says that the cars that transported people where labeled with the red cr
 
 ## [[Harry Elmer Barnes]]
  - the "horrors and evils of the Second World War", the Allies made the Nazis the "scapegoat" for their own misdeeds
- - 
 
-
+**that is how far people may go in order to not believe**
+[[proof of mass killings in bucha]]
 
 ---
 status: #⚙️ 

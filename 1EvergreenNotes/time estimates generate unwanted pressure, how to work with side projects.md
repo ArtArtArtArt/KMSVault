@@ -14,7 +14,7 @@ This is the way you might start tictok/youtube
 Also deadlines and goals are needed in cooperation with people.
 
 Mission impossible rule and pr rule may help here too
-([[cool rules(tips) for timemanagement#^e6dcf1]] and [[cool rules(tips) for timemanagement#^342f8b]])
+([[cool rules(tips) for time management#^e6dcf1]] and [[cool rules(tips) for time management#^342f8b]])
 for your side project quality might not be the end goal - so create a ridiculous several hour deadline for something - like a sziget mission.
 
 

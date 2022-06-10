@@ -19,7 +19,9 @@ Character
 Setting
  - world enhances emotions - make them tangible
 
+
+
 ---
-status: #⚙️ 
-tags: #lyrics 
+status: #🌱
+tags: #lyrics #creativity/tips 
 related: 

@@ -22,7 +22,7 @@ Resolve is pursuing indirectly
 
 Break happiness down to components and presuming them is good way out
 SPIRE
-- Spiritual - sense of meaning in work and life (?)
+- Spiritual - sense of meaning in work and life (?) ^d49516
 - Physical - stress (vacations and free time) - lack of recovery and recreation (so so)
 - Intellectual - curious, deeply engaging with material (+)
 - Relational - quality time with people we care about and we care about us (friends - great, personal is absent)

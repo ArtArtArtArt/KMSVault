@@ -15,8 +15,13 @@ Self-justification is important part of the guilt.
 The concept of metaphysical guilt can too easily be used as a political tool by people to extort benefits from others or avoid accepting personal responsibility.
 
 
+**why is this book important to you?**
+
+russian liberals are not accepting the responsibility - 
+[[russian liberals are the enemies of tomorrow]]
+
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #history/ww2 #psychology 
 related: 

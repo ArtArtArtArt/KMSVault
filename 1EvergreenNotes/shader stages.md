@@ -1,11 +1,3 @@
----
-status: 🌱
-type: 
- - definition
- - MOC
-tags:
- - programming/gamedev/rendering
----
 # shader stages
 
 OpenGL
@@ -23,10 +15,10 @@ DirectX
 -   [Tessellator Stage](https://docs.microsoft.com/en-us/windows/win32/direct3d11/direct3d-11-advanced-stages-tessellation#tessellator-stage) - A fixed function pipeline stage that creates a sampling pattern of the domain that represents the geometry patch and generates a set of smaller objects (triangles, points, or lines) that connect these samples.
 -   [Domain-Shader Stage](https://docs.microsoft.com/en-us/windows/win32/direct3d11/direct3d-11-advanced-stages-tessellation#domain-shader-stage) - A programmable shader stage that calculates the vertex position that corresponds to each domain sample.
 
-
-
----
 read more here: https://docs.microsoft.com/en-us/windows/win32/direct3d11/direct3d-11-advanced-stages-tessellation
+
+**do I need to go into details here? seem unnecessary for my current tasks**
+
 
 ---
 status: #🌱

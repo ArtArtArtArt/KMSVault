@@ -1,4 +1,4 @@
-# cool rules(tips) for timemanagement
+# cool rules(tips) for time management
 https://www.youtube.com/watch?v=JfZvWrUXhWY&ab_channel=ElizabethFilips
 
 ## 3 way split

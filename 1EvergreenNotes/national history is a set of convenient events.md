@@ -4,6 +4,7 @@
 National history is a set of convenient events
 Because history is instrumented by nationalism
 
+![[BOOK Imagined communities#^f94641]]
 
 
 ---

@@ -47,9 +47,13 @@ https://www.youtube.com/watch?v=F3yVbzMJ7yI&ab_channel=hrendyabliki
 Другие художники (19 век)
 ![[Pasted image 20220514115141.png]]
 
+is actually a part of
+[[critique of russian national idea]]
 
+this fact is not highlighted due to manufacturing image of close Christian ties to kyivan rus
+is because official russian nationalism [[BOOK Imagined communities#^fec362]]
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #history/imperialism #MOCsuggestion/ukrainian_and_russian_nationalisms
 related: 

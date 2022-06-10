@@ -17,8 +17,9 @@ It is good to learn the movies not from the oldest, but from the best today, and
 ![[Pasted image 20220524082308.png]]
 *don't start with a theme - start with what inspires you. This also implies that you love stories not because of the themes, but stating the themes makes everything make sense.*
 
+**Pick the ones that you like and expand on them**
 
 ---
-status: #⚙️ 
+status: #🌱 
 tags: #plotline/theory 
 related: 

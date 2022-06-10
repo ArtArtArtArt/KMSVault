@@ -4,7 +4,12 @@ Russian culture is filled with tolerance to imperialism, and it is clear that th
 Pushkin - great poet but justified breaking the polish rebellion and war on Caucasus. And so on.
 Intolerance to imperialism in russian culture is the main protection measure that can be done in the long run inside the russia itself.
 
+Also decolonization is important stance - weather he sees that russia need decolonization.
+
+also 
+![[West must promote decolonization#^c6b48b]]
+
 ---
-status: #⚙️ 
+status: #🌱 
 tags: #russian_aggression 
 related: 

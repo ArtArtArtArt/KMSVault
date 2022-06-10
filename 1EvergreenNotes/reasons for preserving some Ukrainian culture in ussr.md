@@ -8,8 +8,10 @@ https://www.tiktok.com/@antropolohia/video/7100083795700829445?_t=8SUbaTjzwHt&_r
 
 also [[USSR was not antiracist - it was extremely discriminative#^a09832]]
 
+This diminishing view of non main nations is a part of the official nationalism ([[BOOK Imagined communities#^fec362]])  
+
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #history/culture 
 related: 

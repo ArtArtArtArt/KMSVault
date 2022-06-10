@@ -9,8 +9,14 @@ Execution of the Alash Horde
 russian peacekeapers in kazakhstan
 December '86 ??
 
+**these are warcrimes that should be remembered by nations inside russia**
+
+[[Deportation of kalmyk nation]]
+
+**find more**
+
 
 ---
-status: #⚙️ 
-tags: 
+status: #🌱
+tags: #russian_aggression 
 related: 

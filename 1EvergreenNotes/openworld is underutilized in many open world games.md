@@ -68,6 +68,9 @@ If camp was a true incentive for a story progression than you would have to do b
 
 Main missions give you way much money - no incentive to explore the world.
 
+
+**what are your personal feelings about open world and crafting? what a game should look like to not fall pray of the "fashionable" gameplay choices?**
+
 ---
 status: #🌱
 tags: #gamedesign 

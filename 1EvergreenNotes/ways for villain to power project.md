@@ -9,6 +9,6 @@ How to make villain project power in the beginning but not kill a protagonist.
 
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #plotline/theory  
 related: 

@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "-path:Templates -path:QUERES -path:Resources -path:ZZZ",
+  "search": "-path:Templates -path:QUERES -path:Resources -path:ZZZ -path:2MOCs",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,14 +17,14 @@
   ],
   "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.2413021214338,
+  "textFadeMultiplier": -1.6,
+  "nodeSizeMultiplier": 2.4034188034188,
   "lineSizeMultiplier": 3.5755230431602,
   "collapse-forces": false,
-  "centerStrength": 0.0538405267008047,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.5734516478563191,
-  "close": false
+  "centerStrength": 0.333333333333333,
+  "repelStrength": 20,
+  "linkStrength": 0.495726495726496,
+  "linkDistance": 30,
+  "scale": 0.0831742783592772,
+  "close": true
 }

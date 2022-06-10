@@ -38,7 +38,9 @@
 
 ![[Pasted image 20220525213247.png]]
 
+**pick what is the most important from this note**
+
 ---
-status: #⚙️ 
+status: #🌱
 tags: #history/nationalism 
 related: 

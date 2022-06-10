@@ -10,6 +10,6 @@ Martin's definitions and terminology:[[2]](https://en.wikipedia.org/wiki/Entity_
 -   System: "Each System runs continuously (as though each System had its own private thread) and performs global actions on every Entity that possesses a Component or Components that match that Systems query."
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #programming/gamedev #interview 
 related: 
