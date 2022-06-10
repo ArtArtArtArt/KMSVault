@@ -1,4 +1,4 @@
-# cool rules for timemanagement
+# cool rules(tips) for timemanagement
 https://www.youtube.com/watch?v=JfZvWrUXhWY&ab_channel=ElizabethFilips
 
 ## 3 way split
@@ -11,6 +11,9 @@ Every day this will happen:
 3) Low energy, low temptation
 
 ## Mission impossible rule
+
+^e6dcf1
+
 Our brain tends to be occupied by the task until we finish it
 
 So having a project name in a timeline even without actually doing it helps you pay attention to it in a sort of background fashion.
@@ -21,6 +24,9 @@ Put things into calendar knowing that this is mission impossible.
 And do not force yourself into doing and finishing everything (*it is very pretentious to think that you know what you want. Just do what feels like, listen to your own reactions and emotions and let them guide you.*)
 
 ## PR Law
+
+^342f8b
+
 Work expands to fill the time we allocate to it.
 Strict and ridiculous deadlines might help things fast.
 

@@ -5,6 +5,6 @@ Nice joke:
 Let me give you an example. During the Korean War my grandpa who was a young Komsomol member came to the local office and told that he wants to volunteer: - How do you dare to offer yourself as a volunteer. If the Party wants, it will send you as a volunteer, - was the answer
 
 ---
-status: #⚙️ 
-tags: 
+status: #🌱
+tags: #political_joke
 related: 

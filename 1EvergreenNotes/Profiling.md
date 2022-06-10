@@ -25,9 +25,9 @@ High CPU time reasons
 
 High wait time reasons
 
-
+**what exactly is needed for profiling? what need did I encounter on my job?**
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #programming/tricks #MOCsuggestion/general_programming_knowledge 
 related: 

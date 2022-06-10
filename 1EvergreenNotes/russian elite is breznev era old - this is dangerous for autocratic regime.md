@@ -19,8 +19,9 @@ Avoiding small risks by not swapping the elite russia generates even stronger ri
 https://meduza.io/en/feature/2022/01/31/the-old-guard
 **The average age among the leadership of Russia’s highest bodies of legislative and executive power is currently 55 years old.** This is slightly lower than the average under Soviet leader Leonid Brezhnev (55.9 years old),
 
+**does it mean that russia will not survive for long? how does it influence us?**
 
 ---
-status: #⚙️ 
-tags: 
+status: #🌱
+tags: #russian_aggression 
 related: 

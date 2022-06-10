@@ -12,6 +12,6 @@ problematic when
 sharing good news first, etc.
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #relationship 
 related: 

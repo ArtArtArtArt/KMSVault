@@ -5,6 +5,7 @@
 25:50  
 Finding a memory leak
 
+**explain briefly here how it is done**
 
 ---
 status: #🌱

@@ -1,4 +1,12 @@
+# GameDevTopics
 - Matrix ||
 - Game Engine components
 
-#programming
+**add everything you have for gamedev here**
+
+
+
+---
+status: #⚙️ 
+tags: #programming #MOC 
+related:  

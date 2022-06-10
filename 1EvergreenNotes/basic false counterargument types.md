@@ -6,9 +6,10 @@ Marxist arguments:
  - appeal to authority - you don't understand because you did not read (gatekeeping)
  - obfuscation - hide behind ambiguity - "I cannot explain you have to understand it as a whole"
 
+**find examples of these categories in the russian war discource**
 
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #debate 
 related: 

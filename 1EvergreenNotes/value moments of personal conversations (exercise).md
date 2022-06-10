@@ -7,6 +7,6 @@ https://www.tiktok.com/@serg_brainhacker/video/7103863678671277317?_t=8Ssx6cFZ9i
 *это очень про внимание и признание - лечит нацриссические потребности*
 
 ---
-status: #⚙️ 
-tags: 
+status: #🌱
+tags: #values #psychology  
 related: 

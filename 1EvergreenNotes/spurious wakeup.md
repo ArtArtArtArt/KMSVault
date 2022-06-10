@@ -1,8 +1,9 @@
----
-type: 
- - definition
-tags:
- - programming/network 
----
-
 # spurious wakeup
+**what is**
+
+
+---
+status: #⚙️ 
+tags: #programming/network
+related: 
+

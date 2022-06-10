@@ -2,7 +2,6 @@
 https://twitter.com/minna_alander/status/1525397277577203713?s=12&t=V8ovQCFLNvmn-c1ntUWX3g&utm_source=pocket_mylist
 (written on May 14 2022)
 
-
 Russia has threatened Finland multiple times 
 
 1. Cutting electricity exports as of today No problem, thanks to a new nuclear power plant + wind power Finland will soon be self-sufficient and even a net exporter. Finland used to import ~10% from Russia. Sweden & the Baltics can compensate for any short-term shortages.
@@ -14,6 +13,6 @@ Russia has threatened Finland multiple times
 "When I say Finland is prepared, I mean it. Russia has never NOT been THE security issue No. 1 for Finland. Although the world only recently found out about our 1340km border with Russia, we never once forgot about it. So rest assured, WE HAVE THOUGHT THIS THROUGH"
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #russian_aggression 
 related: 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0WrittingInbox/Transformational line and deeper voice.md",
+            "file": "1EvergreenNotes/classical realism.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:1EvergreenNotes",
+                "query": "remn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5036334991455,
-    "collapsed": true
+    "width": 406.5036334991455
   },
   "right": {
     "id": "a922d188f5a51fec",
@@ -83,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0WrittingInbox/Transformational line and deeper voice.md",
+                "file": "1EvergreenNotes/classical realism.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0WrittingInbox/Transformational line and deeper voice.md"
+                "file": "1EvergreenNotes/classical realism.md"
               }
             }
           },
@@ -172,15 +171,15 @@
   },
   "active": "d4252dabf28442cc",
   "lastOpenFiles": [
-    "0WrittingInbox/Transformational line and deeper voice.md",
-    "1EvergreenNotes/threads for game engine subsystems.md",
-    "1EvergreenNotes/why heap corruption happens.md",
-    "1EvergreenNotes/Untitled 55.md",
-    "1EvergreenNotes/Subclass sandbox pattern.md",
-    "1EvergreenNotes/use time board for events and characters.md",
-    "1EvergreenNotes/fence.md",
-    "1EvergreenNotes/leftists, antiamericanists, pacifists might be against Ukraine in this war.md",
-    "1EvergreenNotes/Authoritarian country is always corrupted.md",
-    "1EvergreenNotes/finding a memory leak using a profiler.md"
+    "1EvergreenNotes/classical realism.md",
+    "1EvergreenNotes/why estimates were so bad before russian war.md",
+    "1EvergreenNotes/USSR was not antiracist - it was extremely discriminative.md",
+    "1EvergreenNotes/acceptance of average releases energy.md",
+    "1EvergreenNotes/russian elite is breznev era old - this is dangerous for autocratic regime.md",
+    "1EvergreenNotes/shorter working hours might be good idea in modern times.md",
+    "1EvergreenNotes/russian crimes against Chechnya.md",
+    "1EvergreenNotes/rainbow table.md",
+    "1EvergreenNotes/WW2 Germans were also attacking only military objects.md",
+    "1EvergreenNotes/compulsory volunteers in ussr.md"
   ]
 }

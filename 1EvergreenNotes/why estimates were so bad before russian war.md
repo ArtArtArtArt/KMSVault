@@ -15,7 +15,7 @@ Artifact can be view as a
 The same artifact might have both this parts in it.
 
 This is a classification of the history primary sources by Lappo-Danilevsky.
-Let's say a chronicle narrative about a military expedition is a myth. But the account journals from the same expedition would be remnants
+Let's say a chronicle narrative about a military expedition is a myth. But the account journals from the same expedition would be remnants ^5791dd
 
 
 High quality info might not be available if powerful actors do not want it to be available. 

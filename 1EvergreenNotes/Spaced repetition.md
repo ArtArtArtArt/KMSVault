@@ -1,11 +1,4 @@
----
-status: ⚙️
-tags:
- - knowledge_organisation 
-type: 
----
 # Spaced repetition
-
 
 Repeating information in growing intervals is the best for remembering the info
 
@@ -18,3 +11,10 @@ Also here is this method in one pic
 more info here
 https://getpocket.com/read/3077821518
 https://getpocket.com/read/302997488
+
+**expand the links**
+
+---
+status: #🌱
+tags: #knowledge_organisation 
+type: 

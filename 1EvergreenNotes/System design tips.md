@@ -184,9 +184,10 @@ Main steps with details
 
 
 **expand each part if you want**
+**why do I need this knowledge? maybe end this note here**
 
 ---
-status: #🌱
+status: #🌾
 tags: #programming/system_design #MOCsuggestion/general_programming_knowledge
 related: 
 

@@ -1,4 +1,4 @@
-# WW2 germans were also attacking only military objects
+# WW2 Germans were also attacking only military objects
 https://www.tiktok.com/@hideeeer/video/7099880320006114566?_t=8Spe8GEupnx&_r=1
 
 
@@ -7,8 +7,10 @@ https://www.tiktok.com/@hideeeer/video/7099880320006114566?_t=8Spe8GEupnx&_r=1
 
 Вина за жертвы ложилась на обороняющихся
 
+**what other similarities are there?**
+**what of these similarities were in other conflicts?**
 
 ---
-status: #⚙️ 
-tags: 
+status: #🌱
+tags: #russian_aggression 
 related: 

@@ -16,11 +16,11 @@ Study of happiness - is study about what conditions we should put in place to in
 Paradox
 If you focus on happiness they usually feel less happy
 
-Happiness is a good thing - valueing it is problematic (*maybe we have something like this with love?*)
+Happiness is a good thing - valuing it is problematic (*maybe we have something like this with love?*)
 
-Resolve is persuing indirectly 
+Resolve is pursuing indirectly 
 
-Break happiness down to components and persuing them is good way out
+Break happiness down to components and presuming them is good way out
 SPIRE
 - Spiritual - sense of meaning in work and life (?)
 - Physical - stress (vacations and free time) - lack of recovery and recreation (so so)

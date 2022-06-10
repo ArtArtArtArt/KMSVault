@@ -1,12 +1,4 @@
----
-status: ⚙️
-type: 
- - discussion
- - MOC
-tags:
- - programming/gamedev 
----
-
+# small games production
 
 [https://youtu.be/vFjXKOXdgGo](https://youtu.be/vFjXKOXdgGo)  
   
@@ -29,3 +21,17 @@ Ask small game ideas
 - flappy bird  
 - Simple platformer  
 - Top down shooter
+
+
+Intertying ideas to implement:
+ - Camera shake and vfx during spells
+
+
+**add new tag for interesting to implement ideas**
+
+
+---
+status: #🌱 
+tags: #programming/gamedev
+related: 
+

@@ -2,12 +2,14 @@
 
 Why modern Russia is ussr  
   
-Cannot compare Stalin and hitler  
-Is not recognising holodomor
+Cannot compare stalin and hitler  
+Is not recognizing Holodomor
+
+it means that ideologically russia is the same
 
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #russian_aggression  #history 
 related: 
 

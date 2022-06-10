@@ -4,6 +4,6 @@ a form of surface caching in which the brightness of surfaces in a virtual scene
 
 
 ---
-status: #⚙️ 
-tags: 
+status: #🌱
+tags: #programming/rendering 
 related: 
