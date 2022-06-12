@@ -1,4 +1,4 @@
-# Untitled 77
+# german war propaganda is close to russia's modern one
 https://www.tiktok.com/@dymuramax/video/7107187384357244165?_t=8T1IQw4R9kL&_r=1
 
 Геббельс написал как освещать события на восточном фронте
@@ -6,9 +6,8 @@ https://www.tiktok.com/@dymuramax/video/7107187384357244165?_t=8T1IQw4R9kL&_r=1
  - Придумывать факты нарушения международного права красной армией
  - Не освещать планы по окупации и разделению советского союза
 
-[[German ideological justifications for war are very similar to russian's]]
 
 --- 
 status: #🌱 
 tags: #history/ww2 #russian_aggression  
-related: 
+related: [[German ideological justifications for war are very similar to russian's]]

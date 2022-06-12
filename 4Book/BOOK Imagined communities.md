@@ -155,6 +155,6 @@ Author of review says that Anderson lacks clear definition of nationalism we are
 
 
 ---
-status: #⚙️ 
-tags: 
+status: #🌱
+tags: #book
 related: 

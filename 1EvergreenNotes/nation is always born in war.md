@@ -7,7 +7,7 @@ But not all post colonial countries
 
 Lets go through the list of all countries:
 
-
+**seems too much. it is safer to say that nation is often born out of crisis - try to find other sources who support this thought?**
 
 status: #⚙️ 
 tags: #history/philosophy

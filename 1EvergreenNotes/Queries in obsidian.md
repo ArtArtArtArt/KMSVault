@@ -1,9 +1,4 @@
----
-aliases: 
-tags: [⚙️, knowledge_organisation]
-cssclass:
-completed: true
----
+# Queries in obsidian
 
 
 *******
@@ -22,3 +17,10 @@ where !completed
 
 
 https://blacksmithgu.github.io/obsidian-dataview/query/queries/
+
+
+---
+status: #🌲 
+tags: #MOC
+related: 
+

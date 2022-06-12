@@ -10,5 +10,5 @@ https://www.tiktok.com/@fresh_life28/video/7104169350189370629?_t=8SweGz0T0Ef&_r
 
 --- 
 status: #⚙️ 
-tags: 
+tags: #psychology 
 related: 

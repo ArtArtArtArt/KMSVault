@@ -7,8 +7,12 @@
         "id": "b1b161769fd99de7",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "DailyWeekly/2022-W24.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -56,7 +60,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DailyWeekly/2022-W24.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +98,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DailyWeekly/2022-W24.md"
+              }
             }
           },
           {
@@ -120,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "9ea9dd41e9e7ad0d",
@@ -143,20 +151,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 590,
-    "collapsed": true
+    "width": 590
   },
   "active": "b1b161769fd99de7",
   "lastOpenFiles": [
-    "ZZZ/AI implementation approaches.md",
-    "ZZZ/Untitled 1.md",
-    "1EvergreenNotes/russian army was poorly prepared for the invasion.md",
-    "1EvergreenNotes/massaging the phrase to go to a deeper voice.md",
-    "1EvergreenNotes/positive people in a propaganda war.md",
-    "1EvergreenNotes/proof of mass killings in bucha.md",
-    "1EvergreenNotes/why estimates were so bad before russian war.md",
-    "1EvergreenNotes/Card Orson 4 types of the plot.md",
+    "DailyWeekly/2022-W24.md",
+    "DailyWeekly/2022-06-11.md",
     "DailyWeekly/2022-06-12.md",
-    "0WrittingInbox/Untitled 91.md"
+    "1EvergreenNotes/russia is so used to dictators their periods without them have special names.md",
+    "0WrittingInbox/Untitled 52.md",
+    "1EvergreenNotes/use narcissistic energy in a good way.md",
+    "0WrittingInbox/german war propaganda is close to russia's modern one.md",
+    "4Book/BOOK Imagined communities.md",
+    "1EvergreenNotes/covering of the war crimes in russia uses the same word structures.md",
+    "0WrittingInbox/bucket experiment shows that we want to pick easier action even if it leads to harder path.md"
   ]
 }

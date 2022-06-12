@@ -8,7 +8,8 @@ Brain always wants to do the easiest immediate action even if it leads to a hard
 
 So the way to stop procrastinating is to eliminate easy immediate action which lead to harder paths.
 
+
 --- 
-status: #⚙️ 
-tags: 
-related: 
+status: #🌱
+tags: #timemanagement #psychology 
+related: [[procrastination is avoiding uncomfortable]], [[procrastination is an emotional management problem]]
