@@ -9,6 +9,6 @@ And empire is a mixture of all it's citizens, regarding internal hierarchy , as 
 
 
 ---
-status: #🌱
+status: #🌾
 tags: #history/imperialism 
 related: [[russian imperialism]]

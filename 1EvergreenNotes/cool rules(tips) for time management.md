@@ -2,6 +2,9 @@
 https://www.youtube.com/watch?v=JfZvWrUXhWY&ab_channel=ElizabethFilips
 
 ## 3 way split
+
+^9cccb6
+
 Every day this will happen:
 
 ![[Pasted image 20220531100157.png]]

@@ -24,7 +24,7 @@ Ask small game ideas
 - Simple platformer  
 - Top down shooter
 - Hearthstone
-- 
+- small open world game [[big open world might feel messy]]
 
  
 

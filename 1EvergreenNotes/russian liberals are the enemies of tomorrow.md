@@ -12,6 +12,10 @@ And I claim "russian world" is unnatural, deliberately violent, alien and danger
 
 They think they are paying a compliment when they say Ukraine will be a part if a new russian world. And colonized Ukrainian will feel like he is elevated (higher tier nation representative - russian one - thinks that we can be a new center of their empire). But in reality it is reforming the same oppressive entity under the new skin. 
 
+
+also a liberal who does not recognize russian racism now is a bad one too
+they all go hand in hand - russia is inherently racist, racism prevent russia from seeing itself as a colonial power, while it is colonial it will not be democratic, while it is not a democratic it will not stop being an empire
+
 ---
 status: #🌱
 tags: #russian_aggression 

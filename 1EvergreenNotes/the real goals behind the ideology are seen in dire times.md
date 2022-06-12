@@ -4,6 +4,6 @@ Like nazi were killing jews even faster when retreating.
 It is like feeling of defeat makes you do what you actually wanted and planned to do - all masks aside.
 
 ---
-status: #⚙️ 
-tags: #philosophy/psychology 
+status: #🌱
+tags: #philosophy/psychology #russian_aggression 
 related: 

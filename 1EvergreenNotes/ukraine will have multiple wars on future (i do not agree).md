@@ -4,7 +4,9 @@
 I do not agree  
 Israel was artificially placed inside very hostile environment - but it is not the case with us, we have only one specific enemy, which is far more controllable
 
+We also have friends around too - which are our allies because they are afraid for their safety
+
 ---
-status: #⚙️ 
+status: #🌱 
 tags: #russian_aggression 
 related: 

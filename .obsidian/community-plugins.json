@@ -1,7 +1,6 @@
 [
   "note-refactor-obsidian",
   "obsidian-mind-map",
-  "obsidian-plugin-todo",
   "obsidian-checklist-plugin",
   "convert-url-to-iframe",
   "smart-random-note",
@@ -19,5 +18,7 @@
   "obsidian-dialogue-plugin",
   "obsidian-filename-heading-sync",
   "obsidian-underline",
-  "nldates-obsidian"
+  "nldates-obsidian",
+  "calendar",
+  "periodic-notes"
 ]

@@ -10,10 +10,11 @@ Find these needs: (By Tony Robbins):
 5. Contribution 
 6. Growth
 
-
 And make break it's values by pursuing these needs.
 
+**nice exercise for better characters**
+
 ---
-status: #⚙️ 
+status: #🌱
 tags: #plotidea/character
 related: 

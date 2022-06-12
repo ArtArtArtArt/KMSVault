@@ -1,11 +1,5 @@
+# sandbox gamedesign
 
----
-status: 🌱
-type: 
- - discussion
-tags:
- - gameplay/philosophy
----
 
 [https://youtu.be/6RQtaJ8zi_E](https://youtu.be/6RQtaJ8zi_E)  
 Balanced game might not be the goal  
@@ -18,9 +12,15 @@ Sandbox game should create stimulus for creating a story using their mechanics. 
 ### Middle and late game
 Also the issue with the sandbox game is that it is not so interesting in the middle or late game. 
 
-
 #### Predefind crises
 Stelaris is fixing it with crises. CK3 might be doing the same when they properly add the mongols. EU4 is doing it using innovation eras.
 
 #### Random challenges
 Rimworld is generating random events that challenge you all the time. CK3 is doing it too.
+
+
+
+---
+status: #🌱
+tags: #gameplay/philosophy
+related: 

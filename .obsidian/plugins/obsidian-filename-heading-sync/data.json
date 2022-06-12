@@ -3,7 +3,9 @@
   "ignoredFiles": {
     "Templates/generic.md": null,
     "Templates/moc.md": null,
-    "4Book/c++ concurrency in action.md": null
+    "4Book/c++ concurrency in action.md": null,
+    "Templates/daily.md": null,
+    "Templates/Weekly.md": null
   },
   "ignoreRegex": "",
   "useFileOpenHook": true

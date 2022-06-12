@@ -19,7 +19,7 @@ Character
 Setting
  - world enhances emotions - make them tangible
 
-
+**not really clear how to use it?**
 
 ---
 status: #🌱

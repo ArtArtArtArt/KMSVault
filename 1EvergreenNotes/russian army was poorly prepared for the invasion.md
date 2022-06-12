@@ -9,6 +9,8 @@ https://twitter.com/kamilkazani/status/1511528319656755205?s=12&t=-8wkwWacSQLqpc
 **counter arguments?**
 **also why is it important how russian army was prepared??**
 
+also the fact that russia is mostly a [[russian pr army]] helps the military to over boost their own confidence
+
 
 ---
 status: #🌱 

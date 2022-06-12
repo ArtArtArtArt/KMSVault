@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd41177553e03c93",
+        "id": "b1b161769fd99de7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1EvergreenNotes/kinder surprise metaphor.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -60,8 +56,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -74,7 +69,7 @@
       {
         "id": "d3bdb6896f826b52",
         "type": "tabs",
-        "dimension": 60.238568588469185,
+        "dimension": 67.39562624254472,
         "children": [
           {
             "id": "fa5e79ff6afa72f9",
@@ -82,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1EvergreenNotes/kinder surprise metaphor.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,15 +88,23 @@
             }
           },
           {
-            "id": "37a0649a040b5b15",
+            "id": "2bb8e8f3a0d346b2",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "outline",
               "state": {}
             }
           },
           {
-            "id": "d69cfdb2aaac2734",
+            "id": "111fd7fc7bf1e5b4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b28cf5118d5610b4",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -110,45 +112,20 @@
             }
           },
           {
-            "id": "2bb8e8f3a0d346b2",
+            "id": "995e006f3ae3a226",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "1EvergreenNotes/kinder surprise metaphor.md"
-              }
-            }
-          },
-          {
-            "id": "d57bcb46e6f0f1ea",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "eb19ce275fb09d34",
-        "type": "tabs",
-        "dimension": 19.880715705765407,
-        "children": [
-          {
-            "id": "5aff4a033f9372e7",
-            "type": "leaf",
-            "state": {
-              "type": "tlfItemView",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 4
       },
       {
         "id": "9ea9dd41e9e7ad0d",
         "type": "tabs",
-        "dimension": 19.880715705765407,
+        "dimension": 32.60437375745527,
         "children": [
           {
             "id": "38c8f0b16974b222",
@@ -166,19 +143,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 808
+    "width": 590,
+    "collapsed": true
   },
-  "active": "bd41177553e03c93",
+  "active": "b1b161769fd99de7",
   "lastOpenFiles": [
-    "1EvergreenNotes/kinder surprise metaphor.md",
-    "0WrittingInbox/Transformational line and deeper voice.md",
-    "1EvergreenNotes/russian costumes before nineteenth century looked Islamic.md",
-    "1EvergreenNotes/human desire is not spontaneous.md",
-    "4Book/BOOK KARL JASPERS THE QUESTION OF GERMAN GUILT.md",
-    "1EvergreenNotes/Job is something that you do on non dopamine motivation.md",
-    "1EvergreenNotes/threads for game engine subsystems.md",
-    "Templates/viewing dates as something that you like to do would make it easier for you to do them.md",
-    "1EvergreenNotes/shorter working hours might be good idea in modern times.md",
-    "1EvergreenNotes/RTS game loop problem.md"
+    "ZZZ/AI implementation approaches.md",
+    "ZZZ/Untitled 1.md",
+    "1EvergreenNotes/russian army was poorly prepared for the invasion.md",
+    "1EvergreenNotes/massaging the phrase to go to a deeper voice.md",
+    "1EvergreenNotes/positive people in a propaganda war.md",
+    "1EvergreenNotes/proof of mass killings in bucha.md",
+    "1EvergreenNotes/why estimates were so bad before russian war.md",
+    "1EvergreenNotes/Card Orson 4 types of the plot.md",
+    "DailyWeekly/2022-06-12.md",
+    "0WrittingInbox/Untitled 91.md"
   ]
 }

@@ -6,7 +6,10 @@ https://twitter.com/george_lighter/status/1527164237466017794?s=12&t=Sxt_ghFzN28
 
 Засновано на «Кулінарна мандрівка в Гетьманщину» Олексія Сокирка
 
+it goes inspite of 
+[[cultural marginalization if ukraine]]
+
 ---
-status: #⚙️ 
-tags: #history 
+status: #🌱
+tags: #history/nationalism  
 related: 

@@ -7,10 +7,14 @@ Paid experts to support the claim of being “true”
 
 Every art is ideology [[culture is always ideologized]]
 
-**any other thoughts on this topic?**
+here is an article on differences 
+http://www.differencebetween.net/business/difference-between-advertisement-and-propaganda/
+
+**read it**
+
 
 
 ---
-status: #⚙🌱
+status: #🌱
 tags: #ideology  
 related: 

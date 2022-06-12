@@ -21,9 +21,8 @@ Let's say a chronicle narrative about a military expedition is a myth. But the a
 High quality info might not be available if powerful actors do not want it to be available. 
 In this cases the algorithm should be the following:
 1) take lots of pieces absolutely available data 
-2) use them as sources-remnants (look at what they did *not* want to say, but still did) 
+2) use them as sources-remnants (look at what they did *not* want to say, but still did) [[classical realism]] 
 3) aggregate
-
 
 To start research projects like this you have to ask proper question, to ask a proper question you have to know half the answer. This is a Vershinin's approach. 
 And for this method to work you need to leave out your memes. You might try to understand the reasoning of a very different value-wise people.
@@ -38,8 +37,6 @@ Many phenomena of an alien culture sound incredibly dumb when put out of context
 ***Dump always mean decontextualized***
 
 That creates a huge bias towards everything high-brow across areas studies. And the "high-brow" would mean: "something recognisable and relatable to sweet ourselves". Everything unrelatable (=truly specific to the culture) gonna be ignored. I see it often in the Russian studies
-
-
 
 Failure to grasp the hollowness of the Russian military largely resulted from the over concentration on its "hardware". Which is objective, quantifiable, verifiable. Hardware-focused studies sound less objectionable and thus are incentivised under the vetocracy
 Much less focus was made on the "software" of the Russian military. Its institutional culture (which is now *shockingly* anti-intellectual), its internal system of incentives, its role within the broader socio-political system. Its relations with other agencies (FSB, FSO)
@@ -63,6 +60,6 @@ This change of software heavily impacted the "hardware" aspect of the war such a
 
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #russian_aggression #researching
 related: 

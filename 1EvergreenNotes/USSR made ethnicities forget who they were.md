@@ -13,5 +13,5 @@ is a part of [[USSR was not antiracist - it was extremely discriminative]]
 
 ---
 status: #⚙️ 
-tags: 
+tags: #history/imperialism #history/nationalism 
 related: 
