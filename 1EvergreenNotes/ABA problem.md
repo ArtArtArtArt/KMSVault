@@ -9,7 +9,9 @@ If you have
 
 Also you could create a plot based on an ABA problem. Someone thinks that everything fine but things changed between two checks
 
+[[concurrency]]
+
 ---
-status: #⚙️ 
+status: #🌱
 tags: #programming/network 
 related: 

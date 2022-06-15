@@ -4,8 +4,9 @@ https://www.tiktok.com/@outstandingscreenplays/video/7098426732776066309?_t=8SO2
 Tarantino often writes back character profoundly.
 That sometimes makes the actors want to play them and also a reader has a great time.
 
+**try doing it in some of your projects**
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #plotidea/character  
 related: 

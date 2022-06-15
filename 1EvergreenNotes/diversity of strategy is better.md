@@ -5,8 +5,10 @@ https://www.facebook.com/100010495590853/posts/615242608835587/?d=n
 
 В общем, как всегда, здоровье - это разнообразие стратегий и понимание, когда какую применять.
 
+this also can be applied to time organization [[planning life exercise]]
+[[psychology exercises]]
 
 ---
-status: #⚙️ 
-tags: #relationship  
+status: #🌱 
+tags: #relationship #values   
 related: 

@@ -36,6 +36,6 @@ So the guideline is the following:
 *Hierarchy mutex has a layer identifier and system dies not permit lock of the mutex of a higher layer if it already has locked mutex of a lower layer*
 
 --- 
-status: #⚙️ 
+status: #🌲
 tags:
 related: [[BOOK c++ concurrency in action]]

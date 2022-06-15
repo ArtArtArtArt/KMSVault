@@ -78,6 +78,6 @@ use std::shared_future if you need to wait for the future in different threads, 
 Conditional variables may wait_until with timeout.
 
 --- 
-status: #⚙️ 
+status: #🌲
 tags:
 related: [[BOOK c++ concurrency in action]]

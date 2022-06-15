@@ -12,6 +12,7 @@ russian churches stance on the situation
 
 
 **expand idea**
+**do I need this note?**
 
 ---
 status: #⚙️ 

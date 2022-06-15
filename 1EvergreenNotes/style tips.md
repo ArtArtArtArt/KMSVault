@@ -11,6 +11,6 @@ Accessories should enhance your aesthetic
 **add more**
 
 ---
-status: #⚙️ 
+status: #🌱 
 tags: #style 
 related: 

@@ -1,5 +1,3 @@
-## messages from the past
-
 ## notes management
 <%* if (moment(tp.file.title).format("dddd") == "Saturday") { %>
 Saturday plan:
@@ -23,11 +21,11 @@ It is Sunday so do not forget to:
 
 ## journaling 
 
-Anything from ?![[weekly#Retro]]^000001
+Anything from ?[[weekly#Retro]]^000001
 
 
 ...nothing written yet
 ^00000
 
 
-
+## messages from the past

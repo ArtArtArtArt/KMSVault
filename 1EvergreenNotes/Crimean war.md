@@ -7,7 +7,9 @@ https://twitter.com/kamilkazani/status/1517271354013274112?s=12&t=CwFge4HiJK2Pz5
 
 The war in 1974 was under humanitarian cause - they wanted to liberate cristians in crimea. But almost nobody wanted to leave.
 
+[[Russian war crimes list]]
+
 ---
-status: #⚙️ 
+status: #🌱 
 tags: #history 
 related: 

@@ -13,6 +13,8 @@ C
 Dbmaj7
 Cm7
 
+**try it**
+
 ---
 status: #⚙️ 
 tags: 

@@ -5,8 +5,9 @@ As a general rule we underestimate how dynamic this world is. We also tend to fo
 
 A theory. The main reason why we are so bad in predictions is that we seek psychological comfort more than intellectual integrity. We are so attached to the delusions of "consistency" and "immutability" that it destroys our ability to make accurate prognoses in a dynamic world
 
+*So it feels that any old reputation of the player in the geopolitical scene should be discarded entirely when it comes to economy production etc. What is less fluid - is values. Even ideologies are extremely fluid [[ideology switch is very natural]]*
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #philosophy #geopolitics 
 related: 

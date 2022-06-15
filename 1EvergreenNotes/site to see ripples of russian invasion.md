@@ -4,9 +4,9 @@ Ripples of russian invasioin
 
 https://www.opb.org/article/2022/05/10/the-ripple-effects-of-russia-s-war-in-ukraine-are-changing-the-world/
 
-
+**what is important for me here?**
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: 
 related: 

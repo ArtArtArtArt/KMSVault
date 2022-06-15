@@ -7,6 +7,6 @@ It is hard for people in other societies to grasp that Putin is a dictator who c
 **Guriev created this termin**
 
 ---
-status: #⚙️ 
+status: #🌱 
 tags: #russian_aggression 
 related: 

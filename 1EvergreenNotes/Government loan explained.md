@@ -75,6 +75,6 @@ Book - I, pencil
 
 
 ---
-status: #⚙️ 
+status: #🌲 
 tags: #economy #MOCsuggestion/economy
 related: 

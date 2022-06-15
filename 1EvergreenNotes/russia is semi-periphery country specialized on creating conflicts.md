@@ -48,7 +48,9 @@ Imperial and communist regimes relied on west to industrialize.
 
  - Donetsk and Luhansk - were both founded by the British industrialists: Charles Gascoigne and John Hughes
 
+**russia and ussr role in industrializing Ukraine is overestimated**
+
 ---
-status: #⚙️ 
+status: #🌱
 tags: #russian_aggression #history 
 related: 

@@ -1,9 +1,4 @@
----
-status: 🌱
----
-#journal #music/philosophy #philosophy/music
-
-# Music does not help you to connect to your life
+# Interstellar music
 
 It feels that music enhances your emotions about real life movie etc.
 But I claim that music does not enhance your life emotions - it creates something new that is only enhanced by life.
@@ -23,3 +18,9 @@ Music does not prevent you from living your emotions, but at the moment they are
 
 Here is an attempt to write an outline on this text:
 [[music does not help you to connect to your emotions]]
+
+
+---
+status: #🌱
+tags: #journal #music/philosophy #philosophy/music
+related: 

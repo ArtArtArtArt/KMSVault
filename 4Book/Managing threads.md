@@ -60,6 +60,6 @@ std::thread::hardware_concurrency()
 ```
 
 --- 
-status: #⚙️ 
+status: #🌲
 tags:
 related: [[BOOK c++ concurrency in action]]

@@ -36,6 +36,6 @@ Conclusions about the Russian artillery-centric army are not wrong. But they mus
 
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #russian_aggression 
 related: 

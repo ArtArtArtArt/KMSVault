@@ -1,7 +1,7 @@
 # my view on relationship
 
 ---
-status: #⚙️ 
-tags: #MOC
+status: #🌱
+tags: 
 related: 
 

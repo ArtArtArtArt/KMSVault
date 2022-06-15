@@ -3,7 +3,9 @@
   
 Карел Гавличек-Боровский
 
+[[Russian imperial myths]]
+
 ---
-status: #⚙️ 
+status: #🌱
 tags: #russian_aggression 
 related: 

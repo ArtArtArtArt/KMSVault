@@ -21,10 +21,10 @@
   ],
   "syntax_highlighting": true,
   "enabled_templates_hotkeys": [
-    "Templates/generic.md",
+    "Templates/00generic.md",
     "Templates/moc.md"
   ],
   "startup_templates": [
-    "Templates/generic.md"
+    "Templates/00generic.md"
   ]
 }

@@ -10,7 +10,11 @@ To download a package you have to use a package management system.
 
 some alternatives are
  - Snap. Program runs in a container and does not have dependencies per se
- - Compile from source - get a source and compile.
+ - Compile from source - get a source and compile
+
+**it was a question on interview**
+
+
 ---
 status: #⚙️ 
 tags: #programming/os 

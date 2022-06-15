@@ -6,8 +6,9 @@ https://www.tiktok.com/@nationalgallerylondon/video/7101958804874513669?_t=8SfCN
 
 На картині також є кримський татарин
 
+**russia steals national cultural artifacts of its' colonies (like any other empire**
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: 
 related: 

@@ -22,6 +22,6 @@ Dictionary based cracking (md5_generic_passwd)
 
 
 ---
-status: #⚙️ 
+status: #🌲
 tags: #programming/hacking 
 related: 

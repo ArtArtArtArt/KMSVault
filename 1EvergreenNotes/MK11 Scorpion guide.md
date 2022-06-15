@@ -30,6 +30,6 @@ Perform a fatal blow when they are in the air
 
 
 ---
-status: #⚙️ 
+status: #🌲 
 tags: 
 related: 

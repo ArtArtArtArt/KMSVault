@@ -5,6 +5,8 @@ Luck is responsible for 90 percent of top tear people if we try to simulate like
 
 Luck might be not so important for the middle strata - but still is present. **What is it exactly? Try testing with an app** 
 
+*I tested it and I saw that 90 percent of the top people change places, and ~1 stops being in the top 10. So the difference is not so drastical (but I used top 8). If luck is closer to 50% then approx 50 percennt of top ten changes.*
+
 Thinking that luck does not matter - you become more motivated and hardworking
 Thinking luck matters - you become more humble and helpful
 (also study shown in video)
@@ -15,6 +17,6 @@ Egocentric bias helps here too.
 
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #psychology/philosophy 
 related: 

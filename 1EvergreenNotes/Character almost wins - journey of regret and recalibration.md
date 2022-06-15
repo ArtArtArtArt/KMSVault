@@ -6,7 +6,7 @@ That almost winning at the begining and constant retracing of how easy everythin
 
 
 
-status: #⚙️ 
+status: #🌱
 tags: #plotidea/plot 
 related: [[210 Plot Ideas MOC]]
 
