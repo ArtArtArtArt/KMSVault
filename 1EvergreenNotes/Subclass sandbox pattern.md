@@ -5,9 +5,49 @@ add protected methods in a base class for each atomic "query" to different subsy
 
 Here is another good reason to use inheritance - to restrict usage of some methods.
 
-**add example**
+```
+class Superpower
+{
+public:
+  virtual ~Superpower() {}
+
+protected:
+  virtual void activate() = 0;
+
+  void move(double x, double y, double z)
+  {
+    // Code here...
+  }
+
+  void playSound(SoundId sound, double volume)
+  {
+    // Code here...
+  }
+
+  void spawnParticles(ParticleType type, int count)
+  {
+    // Code here...
+  }
+};
+```
+```
+class SkyLaunch : public Superpower
+{
+protected:
+  virtual void activate()
+  {
+    // Spring into the air.
+    playSound(SOUND_SPROING, 1.0f);
+    spawnParticles(PARTICLE_DUST, 10);
+    move(0, 0, 20);
+  }
+};
+```
+
+
+
 
 ---
-status: #🌱
+status: #🌾
 tags: #gamedev/patterns 
 related: 

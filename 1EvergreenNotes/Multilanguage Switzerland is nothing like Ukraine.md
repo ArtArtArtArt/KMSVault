@@ -1,4 +1,4 @@
-# mutlilanguage Switzerland is nothing like Ukraine
+# Multilanguage Switzerland is nothing like Ukraine
 https://www.tiktok.com/@diiikayaaa.talk/video/7103117193654635781?_t=8SlF2KM85Q6&_r=1
 
 Три мови в Швейцарії

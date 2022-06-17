@@ -1,4 +1,4 @@
-# hidden potential plato
+# hidden potential Plato
 https://www.tiktok.com/@belpsy/video/7105327259954810117?_t=8SsxSVHZHXh&_r=1
 
 Плато скрытого потенциала

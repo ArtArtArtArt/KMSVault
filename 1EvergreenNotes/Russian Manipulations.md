@@ -6,6 +6,6 @@
 	- [[nato never promised to expand eastwards]]
 
 
-status: #⚙️ 
+status: #🌱
 tags: #politics #russian_aggression 
 related: 

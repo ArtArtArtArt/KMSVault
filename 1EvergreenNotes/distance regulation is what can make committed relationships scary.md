@@ -7,6 +7,6 @@
 [[my view on relationship]]
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: 
 related: 

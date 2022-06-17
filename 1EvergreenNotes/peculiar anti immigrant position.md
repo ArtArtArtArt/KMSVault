@@ -4,6 +4,7 @@ tags:
 type: 
  - video outline
 ---
+# peculiar anti immigrant position
 
 [https://youtu.be/7E_cev9jokw](https://youtu.be/7E_cev9jokw)  
   

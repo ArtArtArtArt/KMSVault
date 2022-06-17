@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1c5e2515c1394377",
+        "id": "54159ba9d58222ed",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DailyWeekly/2022-06-15.md",
+            "file": "0WrittingInbox/Untitled 6.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:1EvergreenNotes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5036334991455,
-    "collapsed": true
+    "width": 406.5036334991455
   },
   "right": {
     "id": "a922d188f5a51fec",
@@ -83,13 +82,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyWeekly/2022-06-15.md",
+                "file": "0WrittingInbox/Untitled 6.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -100,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyWeekly/2022-06-15.md"
+                "file": "0WrittingInbox/Untitled 6.md"
               }
             }
           },
@@ -154,17 +153,17 @@
     "direction": "horizontal",
     "width": 590
   },
-  "active": "1c5e2515c1394377",
+  "active": "54159ba9d58222ed",
   "lastOpenFiles": [
-    "DailyWeekly/2022-06-15.md",
-    "0WrittingInbox/Untitled.md",
+    "0WrittingInbox/Untitled 6.md",
     "DailyWeekly/2022-06-17.md",
-    "DailyWeekly/2022-06-19.md",
-    "DailyWeekly/2022-06-18.md",
-    "DailyWeekly/2022-06-16.md",
-    "DailyWeekly/2022-W24.md",
-    "DailyWeekly/2022-06-29.md",
-    "DailyWeekly/2022-07-06.md",
-    "DailyWeekly/2022-06-22.md"
+    "0WrittingInbox/00generic.md",
+    "0WrittingInbox/Untitled 5.md",
+    "0WrittingInbox/Untitled 4.md",
+    "ZZZ/Untitled 4.md",
+    "0WrittingInbox/Untitled 3.md",
+    "0WrittingInbox/Untitled 2.md",
+    "1EvergreenNotes/rainbow table.md",
+    "1EvergreenNotes/GCC map file.md"
   ]
 }

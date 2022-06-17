@@ -8,18 +8,18 @@ There are far right movements in Ukraine
 	- France 13%
 	- Italy 17%
 	- Austria 13%
-- far right mostly support ukrainian army and figth against russia
+- far right mostly support Ukrainian army and fight against russia
 
-Russia created fake narrative, spread it through russia today and sputnik, used mass bots to fake public support, sponsors radical parties in europe.
+Russia created fake narrative, spread it through russia today and sputnik, used mass bots to fake public support, sponsors radical parties in Europe.
 Independent media seek balance and help russian narrative to spread. More importantly they spread doubt - which is main tactic of the propaganda.
-There are nazi groups in russia and they are fighting in Ukraine - but it is not covered.
+There are Nazi groups in russia and they are fighting in Ukraine - but it is not covered.
 
-here is additional info on far right parties in european countries
+here is additional info on far right parties in European countries
 
 https://www.statista.com/chart/20094/national-election-success-of-far-right-parties-europe/
 
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #russian_aggression 
 related: 

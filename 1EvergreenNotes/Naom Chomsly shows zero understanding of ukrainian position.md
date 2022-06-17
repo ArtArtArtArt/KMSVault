@@ -4,7 +4,12 @@ Noam Chomsky says that Ukrainians aren’t actually demanding heavy weapons, tha
 
 Crazy how theoretic of propaganda fails to see through modern propaganda.
 
+Or that guy is biased to attack America
+[[leftists, antiamericanists, pacifists might be against Ukraine in this war]]
+
+A lot of people might be more anti American then leftist or anti imperial
+
 ---
-status: #⚙️ 
+status: #🌱
 tags: #russian_aggression 
 related: 

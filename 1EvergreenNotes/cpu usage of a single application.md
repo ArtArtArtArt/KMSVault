@@ -1,4 +1,4 @@
-# cpu usage of a singel application
+# cpu usage of a single application
 
 [https://youtu.be/WKs685H6uOQ](https://youtu.be/WKs685H6uOQ)  
   

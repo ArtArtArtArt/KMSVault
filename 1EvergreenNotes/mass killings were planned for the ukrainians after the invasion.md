@@ -13,6 +13,6 @@ https://www.reddit.com/r/ukraina/comments/tvsvjc/mi6_head_richard_moore_we_knew_
 as invasion was not the goal -  [[russian army was poorly prepared for the invasion]]
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #russian_aggression 
 related: 
