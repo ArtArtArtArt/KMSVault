@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "54159ba9d58222ed",
+        "id": "31e7fad96144d6a9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0WrittingInbox/Untitled 6.md",
+            "file": "DailyWeekly/2022-06-22.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:1EvergreenNotes",
+                "query": "soviet colo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,6 @@
       {
         "id": "d3bdb6896f826b52",
         "type": "tabs",
-        "dimension": 67.39562624254472,
         "children": [
           {
             "id": "fa5e79ff6afa72f9",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0WrittingInbox/Untitled 6.md",
+                "file": "DailyWeekly/2022-06-22.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0WrittingInbox/Untitled 6.md"
+                "file": "DailyWeekly/2022-06-22.md"
               }
             }
           },
@@ -129,41 +128,22 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "9ea9dd41e9e7ad0d",
-        "type": "tabs",
-        "dimension": 32.60437375745527,
-        "children": [
-          {
-            "id": "38c8f0b16974b222",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROUTINE.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
     "width": 590
   },
-  "active": "54159ba9d58222ed",
+  "active": "31e7fad96144d6a9",
   "lastOpenFiles": [
-    "0WrittingInbox/Untitled 6.md",
-    "DailyWeekly/2022-06-17.md",
-    "0WrittingInbox/00generic.md",
-    "0WrittingInbox/Untitled 5.md",
-    "0WrittingInbox/Untitled 4.md",
-    "ZZZ/Untitled 4.md",
-    "0WrittingInbox/Untitled 3.md",
-    "0WrittingInbox/Untitled 2.md",
-    "1EvergreenNotes/rainbow table.md",
-    "1EvergreenNotes/GCC map file.md"
+    "DailyWeekly/2022-06-22.md",
+    "DailyWeekly/2022-06-21.md",
+    "DailyWeekly/2022-06-20.md",
+    "1EvergreenNotes/Radiohead borrowed chords.md",
+    "DailyWeekly/2022-06-18.md",
+    "1EvergreenNotes/soviet time colonialism is ignored.md",
+    "1EvergreenNotes/Ground news.md",
+    "1EvergreenNotes/ideas on what my tutorials might be about.md",
+    "1EvergreenNotes/Use tremolator for this effect.md",
+    "1EvergreenNotes/try benny benassy style.md"
   ]
 }

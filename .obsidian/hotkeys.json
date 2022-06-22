@@ -71,5 +71,14 @@
       ],
       "key": "1"
     }
+  ],
+  "review-obsidian:future-review": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }

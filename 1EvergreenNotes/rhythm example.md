@@ -7,14 +7,15 @@ here is an example
 ![[Pasted image 20220611165124.png]]
 [[planning tips#^37becc]]
 
- - wake up your mind
- - wake up your body
- - prepare for the day
- - mission of the day
- - recover from the mission
- - connect
- - wind down
- - rest
+ - [ ] wake up your mind
+ - [ ] wake up your body
+ - [ ] prepare for the day
+ - [ ] mission of the day
+ - [ ] recover from the mission
+ - [ ] connect
+ - [ ] wind down
+ - [ ] rest
+
 --- 
 status: #⚙️ 
 tags: #timemanagement 

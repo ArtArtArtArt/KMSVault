@@ -19,6 +19,10 @@
 - **Saturday**![[<% tp.date.weekday("YYYY-MM-DD", 5) %>#^00000]]
 
 - **Sunday** ![[<% tp.date.weekday("YYYY-MM-DD", 6) %>#^00000]]
+```dataview
+CALENDAR file.cday FROM ""
+```
+
 ## OKRs
 ```dataview
 list

@@ -7,6 +7,10 @@ https://www.youtube.com/watch?v=rfsMXBxyniI&ab_channel=onceuponasynth
 
 this is what I am going to do in AmaCare4U
 
+chord progression theory
+[[Chord progression theory]]
+
+
 
 
 --- 

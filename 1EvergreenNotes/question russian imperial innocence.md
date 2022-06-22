@@ -2,7 +2,6 @@
 
 https://www.ponarseurasia.org/time-to-question-russias-imperial-innocence/?utm_source=pocket_mylist
 
-
 Russia is both victimized by the West and entitled to regional dominance in the former Soviet territories
 
 putin really tries to control russian informational state but people still have access to facebook instagram twitter - they just mostly choose to ignore other position
@@ -34,12 +33,10 @@ Russia is not sacrigficing itself for non russian republics
 soviet regime is not a gift of modernity - it is a brutal colonizer.
 
 [[russian liberals are the enemies of tomorrow]]
-**it is not enough to condemn tsar, stalin or putin.  Accept responsibility for historical crimes, and accept modern racist colonial nature of russia. **
-
-
+**it is not enough to condemn tsar, stalin or putin.  Accept responsibility for historical crimes, and accept modern racist colonial nature of russia. 
 
 
 --- 
-status: #⚙️ 
+status: #🌱
 tags: #russian_aggression 
 related: 

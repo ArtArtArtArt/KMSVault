@@ -9,6 +9,8 @@ End goal (making them like you) may not be satisfying
 
 remember this
 
+[[psychology exercises]]
+
 --- 
 status: #⚙️ 
 tags: #values #relationship  

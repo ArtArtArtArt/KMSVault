@@ -3,6 +3,7 @@
 Is a determinant of a matrix created by two vectors
 
 **what is a determinant**
+![[Pasted image 20220619103439.png]]
 
 Cross product of 3D vectors is a vector
 

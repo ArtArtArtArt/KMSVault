@@ -12,6 +12,6 @@ This diminishing view of non main nations is a part of the official nationalism 
 
 
 ---
-status: #🌱
+status: #🌾
 tags: #history/culture 
 related: 

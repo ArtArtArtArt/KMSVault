@@ -33,7 +33,7 @@ Linear extrapolation of explaining things is very much inline with feelings of r
 "The official narrative is fake, cuz I had a magic insight" - doesn't work well in Russia "The official narrative is fake, cuz I made a linear extrapolation. Here is a graph" - that can work out perfectly well
 
 Thus obsession with Marx
-Consider that Marx was very surprised by the quick and immediate success of his writings in Russia. The first edition of Das Kapital in German could not be solved for years while in Russia it was all bought in a few weeks. Marx was puzzled
+Consider that Marx was very surprised by the quick and immediate success of his writings in Russia. The first edition of Das Kapital in German could not be solved for years while in Russia it was all bought in a few weeks. Marx was puzzled ^d16782
 
 *altyhough russia was not ready to implement communism economically a all - it was VERY ready for this kind of reasonig *
 Medvedev said that new world will be pragmatic - pragmatism is their main cultural feature. Change of idelologies in the end was only supportiung the empire - ideology is utilitary*

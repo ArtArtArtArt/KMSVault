@@ -16,6 +16,13 @@ They think they are paying a compliment when they say Ukraine will be a part if 
 also a liberal who does not recognize russian racism now is a bad one too
 they all go hand in hand - russia is inherently racist, racism prevent russia from seeing itself as a colonial power, while it is colonial it will not be democratic, while it is not a democratic it will not stop being an empire
 
+
+BUT
+
+France is democratic - but it still is having very extractive neocolonial relations with africa - so in some form it remain being an empire
+russia might be fully democratic - but still continue economical blackmailing and supporting of authoritarian corrupted governments 
+[[France acts as russia when it comes to their former colonies]]
+
 ---
 status: #🌱
 tags: #russian_aggression 

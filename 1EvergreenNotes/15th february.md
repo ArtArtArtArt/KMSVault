@@ -2,6 +2,7 @@
 status: ⚙️
 tags:
 ---
+# 15th february
 #journal  #russian_aggression 
 
 15.02.2022
