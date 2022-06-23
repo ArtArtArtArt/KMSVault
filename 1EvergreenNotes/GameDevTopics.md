@@ -6,8 +6,9 @@
 
 **do we need all this? maybe it is better not to enforce structure until it is needed?**
 
+**I decided to stop expanding this note**
 
 ---
-status: #🌱
+status: #🌾
 tags: #programming #MOC 
 related:  

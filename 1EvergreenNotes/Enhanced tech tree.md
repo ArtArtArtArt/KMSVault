@@ -31,16 +31,11 @@ the behavior of how to use the shield should be invented too.
 
 tech is just a new device, but  engineering says how specifically to equip it and doctrine says how to use it (also in combined arms fashion)
 
-
-
 the problem of combined arms - how to use the weapons synergistically
-
-
 
 So I need a system which creates answer to the problem with available resources and the tries to block other exploit.
 
 So the game is exploit hunting - you have a small window of opportunity when an exploit can be used to it's full potential.
-
 
 The universal way of battle is :
  - find
@@ -53,10 +48,8 @@ so defense is:
  - block the attack
  - counterattack - make enemy defend
 
-
 I may try to create a tech tree on all of this.
 The tech tree also should include the behavior - the ways to use the techs.
-
 
 Defencieve structures are also a thing.
 
@@ -66,7 +59,6 @@ There is a mirriad of ways on how to
  - behave with it
 
 Also resource availability will influence how you use it
-
 
 This system might create a lot of inventions that are useless. How to pick what to use?
 Some political events might influence it as well.
@@ -80,9 +72,10 @@ Invention types:
  - engineering - how it should be shaped
  - usage - doctrines of personal use and group use
 
+**read and suggest a project where you could use it**
 
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: #project/enhanced_tech_tree
 related: 

@@ -3,10 +3,12 @@ https://www.tiktok.com/@jaylinconner/video/7079517300126190890?_t=8SxPYu7xWWj&_r
 
 posting your beats like this??
 
-try writting such beat
+try writing such beat
 notice pauses, groove and unexpected instruments used in quite places?
 
+[[arrangement toolkit]]
+
 --- 
-status: #⚙️ 
+status: #🌱 
 tags: 
 related: 

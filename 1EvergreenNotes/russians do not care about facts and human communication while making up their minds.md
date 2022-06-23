@@ -13,7 +13,10 @@ https://www.tiktok.com/@kyiveastside/video/7091408885424213254?_t=8TEVLIJT3oM&_r
 
 Також Тамбі знайомий в Дурнєвим
 
+
+
 ---
-status: #⚙️ 
+status: #🌱
 tags: 
-related: 
+related: [[BOOK KARL JASPERS THE QUESTION OF GERMAN GUILT]]
+[[after war denazification if germany had very strong opposition]]

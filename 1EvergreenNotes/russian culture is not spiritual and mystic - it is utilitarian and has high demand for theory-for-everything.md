@@ -47,4 +47,4 @@ Galkovsky became so important not because his ideas were especially bright or hi
 ---
 status: #⚙️ 
 tags: 
-related: 
+related: [[critique of russian national idea]]

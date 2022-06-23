@@ -6,6 +6,6 @@ https://www.tiktok.com/@koruzhak_wasyl/video/7083447032177839366?_t=8SzSNNzs7rK&
 
 
 --- 
-status: #⚙️ 
+status: #🌱
 tags: 
-related: 
+related: [[critique of russian national idea]]

@@ -29,8 +29,9 @@ So the story but stay down (it can be even seen with the tone of your voice)
 write like you talk don't try to be a writer
 
 [[poetry exercises]]
+[[lyrics toolkit]]
 
 ---
-status: #⚙️ 
+status: #🌱 
 tags: 
 related: 

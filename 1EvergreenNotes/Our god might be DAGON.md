@@ -8,7 +8,8 @@ https://www.tiktok.com/@mythoughtsoneverything/video/7095279090617371909?_t=8Sct
 
 headdress of the bishop (mitre) of rome wears a fishhead
 
+
 ---
-status: #⚙️ 
+status: #🌱 
 tags: 
-related: 
+related: [[our god might be water]]

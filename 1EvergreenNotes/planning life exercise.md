@@ -8,7 +8,7 @@ Then rate timelines across these categories: ^fe7a84
  - I like it
  - coherence
 
-
+**I do not really understand these categories**
 
 
 --- 

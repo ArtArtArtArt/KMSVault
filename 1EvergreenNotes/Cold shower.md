@@ -11,6 +11,7 @@ also learn relaxing into the cold shower
 learn how to relax into the traumatic experiences
 
 
+**this is exactly what I am trying to do - I like the effect of relaxing into stress. Also I feel like my body is not that stressed under cold water anymore - interesting side effect**
 
 --- 
 status: #⚙️ 

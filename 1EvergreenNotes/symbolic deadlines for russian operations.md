@@ -6,7 +6,9 @@ https://twitter.com/kamilkazani/status/1509976211388305419?s=12&t=C-hVgLWrZ6X734
 
 This list might be continues
 
+**find other symbolic deadlines? but it seems not so easy**
+
 ---
-status: #⚙️ 
+status: #🌱
 tags: #history/nationalism #russian_aggression   
 related: 

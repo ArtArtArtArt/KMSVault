@@ -5,7 +5,9 @@ cool but unreleased song
 
 [[чекаю на реліз]]
 
+вийшла
+
 ---
-status: #⚙️ 
+status: #🌲
 tags: 
 related: 

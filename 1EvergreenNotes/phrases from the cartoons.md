@@ -7,6 +7,6 @@ https://www.tiktok.com/@reddit.fitst/video/7101680108234083589?_t=8SjWN5wBwyj&_r
 "It is possible to commit no mistakes and still lose. That is not a weakness. That is life." Jean-Luc Picard
 
 ---
-status: #⚙️ 
+status: #🌱
 tags: 
 related: 

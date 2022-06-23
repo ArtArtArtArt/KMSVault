@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "31e7fad96144d6a9",
+        "id": "c44fdd5c691514e2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DailyWeekly/2022-06-22.md",
+            "file": "DailyWeekly/2022-06-23.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "soviet colo",
+                "query": "satura",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5036334991455
+    "width": 406.5036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "a922d188f5a51fec",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyWeekly/2022-06-22.md",
+                "file": "DailyWeekly/2022-06-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyWeekly/2022-06-22.md"
+                "file": "DailyWeekly/2022-06-23.md"
               }
             }
           },
@@ -131,19 +132,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 590
+    "width": 437.5
   },
-  "active": "31e7fad96144d6a9",
+  "active": "c44fdd5c691514e2",
   "lastOpenFiles": [
+    "DailyWeekly/2022-06-23.md",
     "DailyWeekly/2022-06-22.md",
+    "DailyWeekly/2022-06-24.md",
+    "1EvergreenNotes/balancing vocal tip.md",
+    "0WrittingInbox/mixing toolkit.md",
+    "1EvergreenNotes/nice sounding progression and mix.md",
+    "1EvergreenNotes/Cold shower.md",
     "DailyWeekly/2022-06-21.md",
-    "DailyWeekly/2022-06-20.md",
-    "1EvergreenNotes/Radiohead borrowed chords.md",
-    "DailyWeekly/2022-06-18.md",
-    "1EvergreenNotes/soviet time colonialism is ignored.md",
-    "1EvergreenNotes/Ground news.md",
-    "1EvergreenNotes/ideas on what my tutorials might be about.md",
-    "1EvergreenNotes/Use tremolator for this effect.md",
-    "1EvergreenNotes/try benny benassy style.md"
+    "DailyWeekly/003.md",
+    "0WrittingInbox/Untitled 1.md"
   ]
 }

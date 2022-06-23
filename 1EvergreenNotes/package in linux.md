@@ -12,6 +12,9 @@ some alternatives are
  - Snap. Program runs in a container and does not have dependencies per se
  - Compile from source - get a source and compile
 
+**how it looks?**
+
+
 **it was a question on interview**
 
 

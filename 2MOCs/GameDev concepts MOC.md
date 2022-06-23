@@ -1,8 +1,9 @@
 # GameDev concepts MOC
 
-
  - [[AI implementation approaches]]
 
-status: #⚙️ 
+**do I need this?**
+
+status: #🌱 
 tags: #MOC
 related: 
