@@ -5,7 +5,12 @@
     "Templates/moc.md": null,
     "4Book/c++ concurrency in action.md": null,
     "Templates/daily.md": null,
-    "Templates/Weekly.md": null
+    "Templates/Weekly.md": null,
+    "Templates/monthly.md": null,
+    "Templates/weekly.md": null,
+    "Templates/quaterly.md": null,
+    "Templates/yearly.md": null,
+    "Templates/quarterly.md": null
   },
   "ignoreRegex": "",
   "useFileOpenHook": true

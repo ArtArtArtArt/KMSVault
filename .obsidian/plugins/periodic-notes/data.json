@@ -16,20 +16,20 @@
   },
   "monthly": {
     "format": "",
-    "template": "",
-    "folder": "",
+    "template": "Templates/monthly.md",
+    "folder": "DailyWeekly",
     "enabled": true
   },
   "quarterly": {
     "format": "",
-    "template": "",
-    "folder": "",
+    "template": "Templates/quarterly.md",
+    "folder": "DailyWeekly",
     "enabled": true
   },
   "yearly": {
     "format": "",
-    "template": "",
-    "folder": "",
+    "template": "Templates/yearly.md",
+    "folder": "DailyWeekly",
     "enabled": true
   }
 }

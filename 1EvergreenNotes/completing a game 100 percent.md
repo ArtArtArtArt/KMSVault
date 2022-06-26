@@ -23,25 +23,19 @@ Achievements should encourage player interact with the world in a different way.
 
 If achievement is based on randomness - it is very frustrating.
 Maybe the goal is to make player feel special
-HOI4 is EVERYTHING wrong with achievements.
+HOI4 is EVERYTHING wrong with achievements (*they are basically not fun to do*)
 
 
 Achievements are relatively new to games - and it is not clear who they should be tailored too (*maybe if you do not want all the achievements to be done - show 100 percent done on the game even if not everything is really done*)
-
 
 Why people do it
  - They want to extend the with the world for some more time in a meaningful way
  - They want a big number grow bigger
 
-
 It is nice to decide that you will complete the game in advance - so the game ends where it end and not on a random note you missed somewhere
 
 
-
-
-
-
 ---
-status: #⚙️ 
+status: #🌱
 tags: 
 related: 

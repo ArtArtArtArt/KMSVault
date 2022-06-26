@@ -1,4 +1,3 @@
-# weekly
 ## Retro
 -   🌹 Rose: What went well this week?
 -   🌵 Thorn: What should I stop doing?

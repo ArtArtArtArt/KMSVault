@@ -39,7 +39,9 @@ Path:
 5. show aggregated info under the headline
 6. start using it daily, expand and fix problems
 
+**is already in progress - folder NEWSAGGREGATOR**
+
 ---
-status: #⚙️ 
+status: #🌱
 tags: 
 related: 

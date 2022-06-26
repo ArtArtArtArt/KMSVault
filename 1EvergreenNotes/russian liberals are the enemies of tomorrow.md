@@ -19,7 +19,7 @@ they all go hand in hand - russia is inherently racist, racism prevent russia fr
 
 BUT
 
-France is democratic - but it still is having very extractive neocolonial relations with africa - so in some form it remain being an empire
+France is democratic - but it still is having very extractive neocolonial relations with Africa - so in some form it remain being an empire
 russia might be fully democratic - but still continue economical blackmailing and supporting of authoritarian corrupted governments 
 [[France acts as russia when it comes to their former colonies]]
 

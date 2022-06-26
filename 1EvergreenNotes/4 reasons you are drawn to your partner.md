@@ -7,6 +7,7 @@ when you are drawn to a partner
  - When he surprise me
  - When I see him through the eye of others
 
+
 --- 
 status: #⚙️ 
 tags: 

@@ -8,6 +8,8 @@ you do not need to be the best - you need to be willing to change
 
 **what about you changing the wring thing? psychology might help here**
 
+
+
 ---
 status: #⚙️ 
 tags: 
