@@ -3,6 +3,7 @@ status: 🌱
 tags:
  - knowledge_organisation 
 ---
+# Inbox
 
 
 I have to ensure I have a list of content that I would like to consume.

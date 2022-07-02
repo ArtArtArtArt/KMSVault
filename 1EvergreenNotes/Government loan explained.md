@@ -13,7 +13,7 @@ Government can loan from people
 
 ## [18:10](https://www.youtube.com/?yinotetimestamp=1090)
 
-But treasury may sell obligations and central bank ay buy them - so people are not really needed. That is basically "money print". That happens because government has monopoly on emission.
+But treasury may sell obligations and central bank can buy them - so people are not really needed. That is basically "money print". That happens because government has monopoly on emission.
 
 ## [20:03](https://www.youtube.com/?yinotetimestamp=1203)
 

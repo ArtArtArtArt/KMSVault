@@ -6,7 +6,7 @@ then small changes in routines and mindsets will lead to breakthroughs
 
 you do not need to be the best - you need to be willing to change
 
-**what about you changing the wring thing? psychology might help here**
+**what about you changing the wrong thing? psychology might help here**
 
 
 

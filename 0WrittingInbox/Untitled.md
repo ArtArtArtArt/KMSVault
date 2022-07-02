@@ -1,8 +1,8 @@
 # Untitled
+Інерція постколоніального мислення 
 
-Main hero has a trauma - for example exclusion from the group
+https://youtu.be/HycE4GHmx_A?t=120
 
-But when he is really strongly excluded - he basically turns into another character - which survives new circumstances greatly
 
 ---
 status: #⚙️ 

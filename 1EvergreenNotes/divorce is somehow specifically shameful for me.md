@@ -6,7 +6,7 @@
 [[planning life exercise#^fe7a84]] 
 **Maybe I should think of paths like this - and one of which is that I have no family**
 
-![[planning life exercise]]
+[[planning life exercise]]
 
 if I am divorced
  - resources - emotionally and financially it will be very hard

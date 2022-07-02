@@ -3,6 +3,7 @@ status: ⚙️
 tags:
  - observation
 ---
+# People in masks before war
 
 In chatroulette there are a lot of people in masks making some provocative 
 statements.

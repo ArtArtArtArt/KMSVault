@@ -1,10 +1,4 @@
----
-status: ⚙️
-type: 
- - discussion
-tags:
- - philosophy/science
----
+# universe probability with Bayes
 
 When a person says something he is telling the truth from a certain perspective.
 Is it possible to create a model of the world where every person is an infinite set of agents which at least one of which is telling the truth at the specific moment in time.
@@ -24,3 +18,10 @@ Different worlds might share some scenes and be different in other scenes.
 The history analogy might be a weak argument.
 
 Try comparing the worlds by simply ranking all the arguments (arguments should be based on verifiable truths). The goal is to compare two worlds and maybe your gut feeling of what is right will be shifted.
+
+
+---
+status: #⚙️ 
+tags: #philosophy/science
+related: 
+

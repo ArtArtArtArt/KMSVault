@@ -30,11 +30,15 @@ Every participant of the organization is contributing to production
 	 - I do not want to simulate every single person - I will simulate entire communities and based on their parameters I will calculate the output. Community is a group of people sharing the same culture (set of memes)
 
  - What to do with birth and death? Where exactly to add or substract?
+	 - Add/Subtract from communities AND organizations
 
  - What if some organizations are composed of several communities?
+	 - maybe I need a new entity - organization - which will be handled differently and will influence all communities according to how many of their representatives are inside the organization
 
  - But people may transition from one community to another. They might adapt part of foreign memes and become something transitional 
+	 - A community might have a parameter of what deviations it has - and how many of them there are - and create a separate community only when a deviation is strong enough
 
+**expand on what are these concepts comprise of **
 
 
 ---

@@ -12,4 +12,4 @@ also vitalizer does it greatly too
 ---
 status: #⚙️ 
 tags: 
-related: 
+related: [[mixing toolkit]]

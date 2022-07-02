@@ -6,4 +6,4 @@ m6 and m9 chords basically
 ---
 status: #⚙️ 
 tags: 
-related: 
+related: [[Chord progression theory]]

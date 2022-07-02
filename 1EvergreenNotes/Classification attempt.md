@@ -1,4 +1,4 @@
-# Classification caviats
+# Classification attempt
 
 I think that hard classification is bad - it limits your vision and sets you to look for confirmation rather then exploration.
 

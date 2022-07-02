@@ -18,7 +18,7 @@ DirectX
 read more here: https://docs.microsoft.com/en-us/windows/win32/direct3d11/direct3d-11-advanced-stages-tessellation
 
 **do I need to go into details here? seem unnecessary for my current tasks**
-
+**but is good for the interview**
 
 ---
 status: #🌱

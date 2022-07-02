@@ -17,7 +17,7 @@ living to the personal truth
 other stuff is escapism
 
 
-**a little more info on Kierkegard? maybe he is interesting to you too?**
+**a little more info on [[Kierkegaard]]? maybe he is interesting to you too?**
 
 ---
 status: #🌱
