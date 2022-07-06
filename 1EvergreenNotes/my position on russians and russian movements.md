@@ -1,4 +1,4 @@
-# Untitled 3
+# my position on russians and russian movements
 https://twitter.com/iverbytskyi/status/1541084681055215618?s=12&t=6d8FclkHExM8HyJRbldZsQ&utm_source=pocket_mylist
 
 What I want from Russians:

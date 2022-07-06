@@ -1,4 +1,4 @@
-# Untitled 2
+# common colonial memes
 https://foreignpolicy.com/2022/06/25/russia-ukraine-war-literature-classics-imperialism-ideology-nationalism-putin-pushkin-tolstoy-dostoevsky-caucasus/
 
 conquered lands have no story worth telling - is one of the themes of russian poets of the 19th century

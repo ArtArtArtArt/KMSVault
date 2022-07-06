@@ -10,7 +10,8 @@
     "Templates/weekly.md": null,
     "Templates/quaterly.md": null,
     "Templates/yearly.md": null,
-    "Templates/quarterly.md": null
+    "Templates/quarterly.md": null,
+    "Templates/routine.md": null
   },
   "ignoreRegex": "",
   "useFileOpenHook": true

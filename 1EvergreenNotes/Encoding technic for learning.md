@@ -1,8 +1,7 @@
-# Untitled 4
+# Encoding technic for learning
 
 
 https://www.youtube.com/watch?v=VcT8puLpNKA&list=WL&index=15&ab_channel=JustinSung
-
 
 (all long term learning techniques are about these)
 1. ![[Pasted image 20220702065555.png]]

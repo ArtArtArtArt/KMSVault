@@ -1,4 +1,5 @@
-# Untitled 1
+# mass executions in western parts of the ussr wuring ww2 
+
 https://twitter.com/ivanihorovych/status/1540073320175095810?s=12&t=2uQSfJLgzg4vqLuggQMu2g&utm_source=pocket_mylist
 
 ussr army did quick mass executions of prisoners in it's western parts when withdrawing at the beginning of the war

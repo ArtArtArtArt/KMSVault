@@ -80,5 +80,21 @@
       ],
       "key": "R"
     }
+  ],
+  "templater-obsidian:Templates/00generic.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "G"
+    }
+  ],
+  "templater-obsidian:Templates/routine.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
   ]
 }

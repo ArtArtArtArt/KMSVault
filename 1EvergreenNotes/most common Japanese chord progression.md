@@ -3,4 +3,4 @@ https://www.youtube.com/watch?v=6aezSL_GvZA&ab_channel=DavidBennettPiano
 ---
 status: #⚙️ 
 tags: 
-related: 
+related: [[Chord progression theory]]

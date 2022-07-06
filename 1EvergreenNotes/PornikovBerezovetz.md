@@ -3,12 +3,13 @@ status: ⚙️
 tags: 
  - video outline
 ---
+# PornikovBerezovetz
 
 https://www.youtube.com/watch?v=PHLT7LHFsfU
 
 [6:27](https://www.youtube.com/watch?v=PHLT7LHFsfU&t=387)
 
-Kozak was conducting his 2007 speach to show off how bad things could be if Russia is not helped.
+Kozak was conducting his 2007 speech to show off how bad things could be if Russia is not helped.
 
 [27:29](https://www.youtube.com/watch?v=PHLT7LHFsfU&t=1649)
 
@@ -16,11 +17,11 @@ The main thing that russia fears!
 
 [38:45](https://www.youtube.com/watch?v=PHLT7LHFsfU&t=2325)
 
-Autoritarian regime trys to respect the laws
+Authoritarian regime tries to respect the laws
 
 [46:43](https://www.youtube.com/watch?v=PHLT7LHFsfU&t=2803)
 
-Finlandization is very different from Ukrainien situation
+Finlandization is very different from Ukrainian situation
 
 [47:56](https://www.youtube.com/watch?v=PHLT7LHFsfU&t=2876)
 

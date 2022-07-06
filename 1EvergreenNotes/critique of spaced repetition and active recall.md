@@ -1,4 +1,4 @@
-# Untitled 5
+# critique of spaced repetition and active recall 
 https://www.youtube.com/watch?v=--Hu2w0s72Y&list=WL&index=12&ab_channel=JustinSung
 
 ![[Pasted image 20220702070812.png]]

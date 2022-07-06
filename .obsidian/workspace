@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b8e20ea12ca9633b",
+        "id": "6549d69ac321cc86",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0WrittingInbox/Body neutrality.md",
+            "file": "0WrittingInbox/my personal dopamine sources.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:1EvergreenNotes",
+                "query": "dopamin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0WrittingInbox/Body neutrality.md",
+                "file": "0WrittingInbox/my personal dopamine sources.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0WrittingInbox/Body neutrality.md"
+                "file": "0WrittingInbox/my personal dopamine sources.md"
               }
             }
           },
@@ -126,24 +126,40 @@
               "state": {}
             }
           }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "5351e6e1e36fc38a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85fd72ab83cef912",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Pasted image 20220702065555.png"
+              }
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 437.5,
-    "collapsed": true
+    "width": 511.5
   },
-  "active": "b8e20ea12ca9633b",
+  "active": "6549d69ac321cc86",
   "lastOpenFiles": [
-    "0WrittingInbox/Body neutrality.md",
-    "0WrittingInbox/Ankifying everything helps find connections.md",
-    "0WrittingInbox/Untitled 5.md",
-    "0WrittingInbox/Untitled 4.md",
-    "0WrittingInbox/science of motivation - dopamine.md",
-    "0WrittingInbox/Colonial policy of Russia on Belorussian lands.md",
-    "0WrittingInbox/Untitled 3.md",
-    "0WrittingInbox/Untitled 2.md",
-    "0WrittingInbox/Untitled 1.md",
-    "DailyWeekly/2022-07-02.md"
+    "0WrittingInbox/my personal dopamine sources.md",
+    "1EvergreenNotes/cope with intellectual starvation using social media.md",
+    "1EvergreenNotes/package in linux.md",
+    "1EvergreenNotes/Protagonist turns to an antagonist.md",
+    "1EvergreenNotes/vic3 like total history game.md",
+    "1EvergreenNotes/Britain was ready to enter war for Finland.md",
+    "1EvergreenNotes/while playing with melodies try to switch them to minor.md",
+    "1EvergreenNotes/The Real First WW.md",
+    "1EvergreenNotes/Deportation of kalmyk nation.md",
+    "1EvergreenNotes/russian cultural expansion on preverb.md"
   ]
 }
