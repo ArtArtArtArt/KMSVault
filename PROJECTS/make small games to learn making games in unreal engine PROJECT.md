@@ -25,7 +25,7 @@ Ask small game ideas
 - Top down shooter
 - Hearthstone
 - small open world game [[big open world might feel messy]]
-
+- https://www.youtube.com/watch?v=zRDhiN50Vo0&list=WL&index=8&t=62s&ab_channel=FatDino - running in math 
  
 
 status: #🌱 
