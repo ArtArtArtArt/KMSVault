@@ -3,10 +3,7 @@
 IV7 - iii7
 
 
-
-
-
 ---
 status: #⚙️ 
-tags: 
+tags: #chordProgression 
 related: 

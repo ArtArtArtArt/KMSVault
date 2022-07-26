@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "991ee2d63de6c567",
+        "id": "a9aced3eecef7ce3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "0WrittingInbox/Sound ID.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -23,29 +27,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c329ac580d99fe4",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "42ad7245648afd8c",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "3ac5c23b8c0cdd54",
             "type": "leaf",
             "state": {
@@ -55,8 +36,32 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "baf7393e1eb5f38e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:0WrittingInbox",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fae0bb15ecf6ec8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0WrittingInbox/Sound ID.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,14 +93,6 @@
             }
           },
           {
-            "id": "2bb8e8f3a0d346b2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
             "id": "111fd7fc7bf1e5b4",
             "type": "leaf",
             "state": {
@@ -103,23 +101,18 @@
             }
           },
           {
-            "id": "b28cf5118d5610b4",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
             "id": "995e006f3ae3a226",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DailyWeekly/2022-07-20.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "5351e6e1e36fc38a",
@@ -139,20 +132,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 511.5,
-    "collapsed": true
+    "width": 586.5
   },
-  "active": "991ee2d63de6c567",
+  "active": "a9aced3eecef7ce3",
   "lastOpenFiles": [
-    "0WrittingInbox/test.md",
-    "0WrittingInbox/people seem to be more upset with small oppression then with high.md",
-    "0WrittingInbox/CRISP for vocals.md",
-    "0WrittingInbox/00generic.md",
-    "0WrittingInbox/p2b.md",
-    "0WrittingInbox/nice technique for mind maps - GRINDE.md",
-    "0WrittingInbox/Key - scale - mode.md",
-    "TODO.md",
-    "1EvergreenNotes/more then four chords progressions are common in modern Japanese pop.md",
-    "1EvergreenNotes/most common Japanese chord progression.md"
+    "1EvergreenNotes/Good repetititors are successful in school - Good encoders are successful at uni.md",
+    "1EvergreenNotes/Putting tasks to the last moment because I am used to live in an emergency and moments of piece are too valuable.md",
+    "1EvergreenNotes/Стенічні та Астенічні емоції.md",
+    "1EvergreenNotes/Having balance in the age of indulgence.md",
+    "1EvergreenNotes/people seem to be more upset with small oppression then with high.md",
+    "1EvergreenNotes/Minor deceptive cadence (V7-VI) sounds very nice.md",
+    "1EvergreenNotes/russia is semi-periphery country specialized on creating conflicts.md",
+    "1EvergreenNotes/organization of music projects.md",
+    "1EvergreenNotes/left vs right.md",
+    "1EvergreenNotes/Intermittent fasting improves neuroplasticity.md"
   ]
 }

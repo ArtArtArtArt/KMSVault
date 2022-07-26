@@ -4,5 +4,5 @@ https://www.reddit.com/r/ableton/comments/vrtd5f/sharing_a_quick_sound_design_tu
 
 ---
 status: #⚙️ 
-tags: 
+tags: #music/sounddesign 
 related: 

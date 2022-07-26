@@ -1,6 +1,5 @@
 # CRISP for vocals  
 
-
 [https://vm.tiktok.com/ZMNaMj59t/?k=1](https://vm.tiktok.com/ZMNaMj59t/?k=1)
 
 Cut (eq , deesser)
@@ -12,5 +11,5 @@ Paint - effects - delay chorus etc
 
 ---
 status: #⚙️ 
-tags: 
+tags: #mixingTips 
 related: 
