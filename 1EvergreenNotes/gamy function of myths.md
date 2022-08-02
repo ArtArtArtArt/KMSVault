@@ -11,4 +11,4 @@ Also they incompas traditions
 ---
 status: #⚙️ 
 tags:  
-related: 
+related: [[PROJECT culture simulator]]

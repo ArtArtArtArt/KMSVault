@@ -30,4 +30,4 @@
 - [ ]  [ ] Add weekly 
 <%* } %>
 
-[[my personal dopamine sources]]
+[[my personal dopamine sources (I love...)]]

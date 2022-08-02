@@ -1,4 +1,4 @@
-# my personal dopamine sources
+# my personal dopamine sources (I love...)
  - programming
  - sport (at home and maybe cycling???)
  - music making
@@ -8,6 +8,7 @@
  - learning
  - A23 movies
  - music making
+ - board games
 
 
 ---

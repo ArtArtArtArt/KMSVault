@@ -17,9 +17,11 @@ Game mode
 ….  
   
   
-  
-  
-Ask small game ideas  
+
+# small game ideas  
+
+^d35d74
+
 - [[flappy bird]]  
 - Simple platformer  
 - Top down shooter

@@ -1,6 +1,7 @@
 ---
 status: ⚙️
 ---
+# Hardcore gaslighting plotline
 
 ## Hardcore gaslighting plotline
 
@@ -14,7 +15,7 @@ Also Ukraine has experiences this with the scale of corruption under Janukivych.
 
 ### Structure
 So the story can be based on this premis :
-Main character is suspecting sonething -> then he is fully gaslighted to mediocre explanation (nobody is a bad guy, everyone is moderately bad) -> slowly comming to understanding that everygthing is as bad as he was told at the beginning -> understanding that everything is even worse, masks fall down, endgame shows who is who.
+Main character is suspecting something -> then he is fully gaslighted to mediocre explanation (nobody is a bad guy, everyone is moderately bad) -> slowly coming to understanding that everything is as bad as he was told at the beginning -> understanding that everything is even worse, masks fall down, endgame shows who is who.
 
 ---
 

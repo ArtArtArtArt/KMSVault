@@ -11,6 +11,8 @@ So any tech has a set of assymetrical responses.
 
 Also some random techs have boosts with each restart - so you do not know which is meta for specific playthrough - so research is important to do.
 
+Maybe we do not have asymetrical set per se. Every tech gives a set of bonuses and also debufs for the enemy. So you "responce" might be taking the same bonuses - or debuffing them from the enemy
+
 
 ---
 status: #⚙️ 

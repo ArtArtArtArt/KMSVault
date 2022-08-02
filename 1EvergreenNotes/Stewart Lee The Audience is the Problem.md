@@ -25,7 +25,7 @@ Also lee said at the beginning that stand up can be anything - which I quite lik
 
 ## [10:57](https://www.youtube.com/watch?v=0w-K0NWtysA&t=657)
 
-Lee relise on people inderstanding how this type of jokes work
+Lee relies on people understanding how this type of jokes work
 
 ## [11:37](https://www.youtube.com/watch?v=0w-K0NWtysA&t=697)
 
@@ -37,12 +37,12 @@ Lee laughs at people laughing at simple jokes
 
 ## [14:48](https://www.youtube.com/watch?v=0w-K0NWtysA&t=888)
 
-Brechtina Alianation
-I want you to laugh inspite of me not because of me
+Brechtian Alianation
+I want you to laugh in spite of me not because of me
 
 ## [16:38](https://www.youtube.com/watch?v=0w-K0NWtysA&t=998)
 
-Hand signs to rob performance of spontenuaty
+Hand signs to rob performance of spontaneity
 
 ## [18:20](https://www.youtube.com/watch?v=0w-K0NWtysA&t=1100)
 

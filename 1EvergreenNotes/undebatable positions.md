@@ -11,7 +11,7 @@ two types of positions that are impossible to counter
 
 https://twitter.com/Lutwiy/status/1511014950449426433?utm_source=pocket_mylist
 
-Propaganda does not create alternatve reality but makes you doubt it
+Propaganda does not create alternative reality but makes you doubt it
 
 https://twitter.com/Lutwiy/status/1511014946825506818?utm_source=pocket_mylist
 

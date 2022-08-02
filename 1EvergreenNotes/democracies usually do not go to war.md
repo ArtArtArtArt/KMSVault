@@ -47,7 +47,7 @@ Rather then democracy leading to peace, peace leads to democracy. Democracies di
 
 *You see how 3/4 arguments are won decisively, but because of the 4th one you still feel like the reality is uncertain. That is why maybe it is important to talk about strictly minimal requirements.*
 
-
+also system is characterized by the reaction to the error - this is plus to democracies [[систему характеризует не ошибка, а реакция на ошибку]] 
 
 ---
 status: #⚙️ 

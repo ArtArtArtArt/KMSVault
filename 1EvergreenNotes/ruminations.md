@@ -3,7 +3,7 @@
   
 90 percent of thoughts you thought today you thought yesterday
 
-How can I get rid of rumicnations?
+How can I get rid of ruminations?
  - [[Intermittent fasting improves neuroplasticity]]
 
 ---

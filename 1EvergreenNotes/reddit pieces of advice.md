@@ -9,7 +9,7 @@ take pictures as often as possible (maybe that is why you need insta)
 
 when someone is upset ask - do you want to talk or do you want to be destructed from it?
 
-[[my personal dopamine sources]]
+[[my personal dopamine sources (I love...)]]
 
 
 --- 

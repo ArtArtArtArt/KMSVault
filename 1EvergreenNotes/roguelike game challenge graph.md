@@ -7,7 +7,7 @@ facebook.com/profile.php?id=100002414784303
 
 7:48
 
-*what if you are allowed to maintain something between the runs but fornidden to repeat the stuff. You will have to invent new startegies.*
+*what if you are allowed to maintain something between the runs but forbidden to repeat the stuff. You will have to invent new startegies.*
 
 
 How to make player use something else instead of what he is using already? (Machine learning?)

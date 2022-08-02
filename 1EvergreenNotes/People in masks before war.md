@@ -5,7 +5,7 @@ tags:
 ---
 # People in masks before war
 
-In chatroulette there are a lot of people in masks making some provocative 
+In chat roulette there are a lot of people in masks making some provocative 
 statements.
 For example
 

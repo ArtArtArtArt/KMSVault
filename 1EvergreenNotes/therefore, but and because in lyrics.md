@@ -8,8 +8,6 @@ For better plot - try filling in the scenes with words "therefore" and "but" and
 
 This might be used for better lyrics 
 
-
-
 [[cinematography in lyrics]]
 [[poetry exercises]]
 [[lyrics toolkit]]

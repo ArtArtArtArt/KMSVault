@@ -5,6 +5,7 @@ type:
 tags:
  - socioeconomy
 ---
+# tax the rich is a bad idea
 
 Tax the rich
 
