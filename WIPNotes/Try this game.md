@@ -1,0 +1,1 @@
+[https://www.google.com/search?q=lsd+dream+emulator&rlz=1CDGOYI_enUA829UA829&oq=lsd+drea&aqs=chrome.0.0i355i512j46i512j69i57j0i512l3.5090j0j4&hl=uk&sourceid=chrome-mobile&ie=UTF-8](https://www.google.com/search?q=lsd%20dream%20emulator&rlz=1CDGOYI_enUA829UA829&oq=lsd%20drea&aqs=chrome.0.0i355i512j46i512j69i57j0i512l3.5090j0j4&hl=uk&sourceid=chrome-mobile&ie=UTF-8&authuser=0)  

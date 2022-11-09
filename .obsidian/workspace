@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3a2e42d6165d9799",
+        "id": "d21266cc214e48bd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1EvergreenNotes/therefore, but and because in lyrics.md",
+            "file": "0WrittingInbox/new way to create music.md",
             "mode": "source",
             "source": false
           }
@@ -27,7 +27,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ac5c23b8c0cdd54",
+            "id": "2b720daa835ad32f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6431660efadd14b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -38,22 +53,7 @@
             }
           },
           {
-            "id": "2b720daa835ad32f",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "path:1EvergreenNotes",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "9fae0bb15ecf6ec8",
+            "id": "afb7d046dadee7d5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,7 +61,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1EvergreenNotes/therefore, but and because in lyrics.md",
+                "file": "0WrittingInbox/new way to create music.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,24 +109,12 @@
             }
           },
           {
-            "id": "995e006f3ae3a226",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyWeekly/2022-07-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c2798e652c537765",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "1EvergreenNotes/therefore, but and because in lyrics.md"
+                "file": "0WrittingInbox/new way to create music.md"
               }
             }
           },
@@ -169,17 +157,17 @@
     "direction": "horizontal",
     "width": 586.5
   },
-  "active": "3a2e42d6165d9799",
+  "active": "afb7d046dadee7d5",
   "lastOpenFiles": [
-    "1EvergreenNotes/forward rendering.md",
-    "1EvergreenNotes/therefore, but and because in lyrics.md",
-    "1EvergreenNotes/чекаю на реліз.md",
-    "1EvergreenNotes/previous generation was VERY wrong about our life.md",
-    "1EvergreenNotes/massaging the phrase to go to a deeper voice.md",
-    "1EvergreenNotes/До марта 2004 года во всех официальных документах использовалось в Украину.md",
-    "1EvergreenNotes/Stewart Lee The Audience is the Problem.md",
-    "1EvergreenNotes/cope with intellectual starvation using social media.md",
-    "1EvergreenNotes/HDRP.md",
-    "1EvergreenNotes/Ukrainians are very capable of fight.md"
+    "0WrittingInbox/Untitled 1.md",
+    "Resources/Pasted image 20220702065555.png",
+    "0WrittingInbox/Untitled.md",
+    "1EvergreenNotes/Spurious wakeup.md",
+    "1EvergreenNotes/conditional variable.md",
+    "4Book/The C++ memory model and operations on atomic types.md",
+    "0WrittingInbox/Порівняння стосунків.md",
+    "0WrittingInbox/Cool style of the.md",
+    "0WrittingInbox/new way to create music.md",
+    "1EvergreenNotes/humanity will stagnate if people live indefinitely.md"
   ]
 }

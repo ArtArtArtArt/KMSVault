@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "b34abd25e8bfac60",
+    "type": "split",
+    "children": [
+      {
+        "id": "9111effdb4974a21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fa5960bebee208c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workspace.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9a73fd538f45985b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIPNotes/Book to read on USSR power structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dde485eb6b974463",
+    "type": "split",
+    "children": [
+      {
+        "id": "25b952fafaaba436",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b720daa835ad32f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:WIPNotes",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6431660efadd14b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "afb7d046dadee7d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 401.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a922d188f5a51fec",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3bdb6896f826b52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9aced3eecef7ce3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa5e79ff6afa72f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WIPNotes/Book to read on USSR power structure.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "111fd7fc7bf1e5b4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2798e652c537765",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WIPNotes/Book to read on USSR power structure.md"
+              }
+            }
+          },
+          {
+            "id": "120bcc38dceafaba",
+            "type": "leaf",
+            "state": {
+              "type": "tlfItemView",
+              "state": {}
+            }
+          },
+          {
+            "id": "ce15b48bee63ec5e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5351e6e1e36fc38a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85fd72ab83cef912",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Pasted image 20220702065555.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 381.5,
+    "collapsed": true
+  },
+  "active": "9a73fd538f45985b",
+  "lastOpenFiles": [
+    "Workspace.md",
+    "WIPNotes/Book to read on USSR power structure.md",
+    "WIPNotes/fence.md",
+    "WIPNotes/what is exploitation in an open market.md",
+    "WIPNotes/систему характеризует не ошибка, а реакция на ошибку.md",
+    "WIPNotes/Retinol for skin.md",
+    "WIPNotes/Having balance in the age of indulgence.md",
+    "WIPNotes/Record your vocal with this.md",
+    "WIPNotes/Thinking fast and slow.md",
+    "WIPNotes/VO2 parameters.md"
+  ]
+}

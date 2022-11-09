@@ -1,7 +1,8 @@
 {
-  "baseFontSize": 22,
+  "baseFontSize": 17,
   "enabledCssSnippets": [],
-  "cssTheme": "Sanctum",
-  "theme": "moonstone",
-  "translucency": false
+  "cssTheme": "Reverie",
+  "theme": "obsidian",
+  "translucency": false,
+  "accentColor": ""
 }
