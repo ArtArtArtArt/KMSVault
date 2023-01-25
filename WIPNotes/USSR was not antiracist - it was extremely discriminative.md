@@ -1,4 +1,4 @@
-# USSR was not antiracist - it was extremely discriminative 
+
 https://twitter.com/mariamposts/status/1531999072969793538?s=12&t=6eDgwq4glehmsJMcRH_ruQ&utm_source=pocket_mylist
 
 USSR was not anti racist:

@@ -1,4 +1,4 @@
-# russian national heroes are imperialists and chauvinist 
+
 https://www.tiktok.com/@ihor.opatskyi/video/7082807845246291206?_t=8SUUVxqY1tV&_r=1
 
 1830 польща піднялась на востання

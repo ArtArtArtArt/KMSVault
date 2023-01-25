@@ -1,7 +1,7 @@
-# deferred rendering
 
 Deferred rendering - [[HDRP]] renders all materials into a [[GBuffer]]...  **NOT FINISHED**
 
+[[2022-11-12]] *not really interested in expanding it yet*
 
 ---
 status: #⚙️ 

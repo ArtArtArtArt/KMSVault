@@ -1,4 +1,4 @@
-# amazonian forest was highly populated / time machine 
+
 https://www.tiktok.com/@mindclipz/video/7084980480059231493?_t=8Sxe3SjO3qI&_rr=1
 
 20 million people live in the amazon
@@ -7,7 +7,8 @@ They used artificial soil - Terra Preta
 
 It is a high chance of much higher development in the amazon
 
-We do not have a full picture of how developed the Americas were
+We do not have a full picture of how developed the Americas were 
+[[2022-11-12]] *I also remember that western americans had stone fortresses before the european comming + the fact that most of the american population presumably died of illnesses*  
 
 **check if scientists agree on that**
 

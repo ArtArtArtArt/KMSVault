@@ -1,4 +1,3 @@
-# low self worth manifestations of Ukrainian people
 https://www.instagram.com/p/CeWhm1-KYL0/?igshid=MDJmNzVkMjY%3D&utm_source=pocket_mylist
 
 Взаємодія між пост колонією та імперією ієрархічна навіть після розриву.

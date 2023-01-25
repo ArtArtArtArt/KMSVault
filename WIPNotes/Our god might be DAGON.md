@@ -1,4 +1,4 @@
-# Our god might be DAGON
+
 Бог конторому мы поклоняемся это Дагон - бог рыба  
 И мы его раскачали до невозможности и он жрет наши души
 
@@ -11,5 +11,5 @@ headdress of the bishop (mitre) of rome wears a fishhead
 
 ---
 status: #🌱 
-tags: 
+tags: #plotline_idea  
 related: [[our god might be water]]

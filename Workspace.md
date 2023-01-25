@@ -15,7 +15,7 @@ Limit 20
 Table file.mtime AS "Modified"
 From "WIPNotes"
 Sort file.mtime Desc
-Limit 20 
+Limit 40 
 ```
 
 

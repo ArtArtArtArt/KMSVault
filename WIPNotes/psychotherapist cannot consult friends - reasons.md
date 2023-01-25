@@ -1,4 +1,4 @@
-# psychotherapist cannot consult friends - reasons
+
 
 https://twitter.com/yaroslavapetrus/status/1530291704099643392?s=12&t=7Z9RZjzo63fMRP_ee5JO5Q&utm_source=pocket_mylist
 Психолог не може консультувати друзів бо це унеможливлює такі явища як

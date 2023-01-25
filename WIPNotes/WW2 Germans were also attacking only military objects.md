@@ -1,4 +1,3 @@
-# WW2 Germans were also attacking only military objects
 https://www.tiktok.com/@hideeeer/video/7099880320006114566?_t=8Spe8GEupnx&_r=1
 
 
@@ -9,6 +8,10 @@ https://www.tiktok.com/@hideeeer/video/7099880320006114566?_t=8Spe8GEupnx&_r=1
 
 **what other similarities are there?**
 **what of these similarities were in other conflicts?**
+
+[[2022-11-16]]
+I also think that germans became very open about their hate only on the last years of war
+at the beginning their statements were very close to russian ones
 
 ---
 status: #🌱

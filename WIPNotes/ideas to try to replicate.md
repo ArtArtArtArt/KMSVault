@@ -1,4 +1,4 @@
-# ideas to try to replicate
+
 [https://open.spotify.com/track/2IuaZEk0blXyP8P68YAzja?si=2p1FAN7jTFKqmPZz-NJF2Q](https://open.spotify.com/track/2IuaZEk0blXyP8P68YAzja?si=2p1FAN7jTFKqmPZz-NJF2Q)  
   
 1:30  
@@ -10,6 +10,8 @@
 and this beat...
 
 (not really in the mood anymore)
+
+[[2022-11-12]] confitmed - not in the mood, maybe delete this note?
 
 ---
 status: #⚙️ 

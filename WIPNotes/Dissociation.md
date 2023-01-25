@@ -1,4 +1,4 @@
-# Dissociation
+
 
 I remember during LCD trip on Natura that I was dissociating.
 Suddenly you do not remember living last 10 seconds. 

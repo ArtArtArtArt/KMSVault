@@ -1,4 +1,4 @@
-# Ground news
+
 [https://youtu.be/YzCoJXxb5xI](https://youtu.be/YzCoJXxb5xI)  
   
 Ground news (3:00)
@@ -40,6 +40,8 @@ Path:
 6. start using it daily, expand and fix problems
 
 **is already in progress - folder NEWSAGGREGATOR**
+
+[[2022-11-16]] currently on pause - but it can aggregate news from different sources
 
 ---
 status: #🌱

@@ -1,4 +1,4 @@
-# russia regressed to an ancestor cult
+
 https://twitter.com/kamilkazani/status/1509976211388305419?s=12&t=C-hVgLWrZ6X7343AEvkgWg&utm_source=pocket_mylist
 
 https://twitter.com/kamilkazani/status/1509977028027727875?s=12&t=C-hVgLWrZ6X7343AEvkgWg&utm_source=pocket_mylist

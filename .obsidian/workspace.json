@@ -22,19 +22,107 @@
             }
           },
           {
-            "id": "9a73fd538f45985b",
+            "id": "ed0d4acbc946a086",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIPNotes/MANGA BLAME.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e6cd8051bedfc2b6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIPNotes/це не пропаганда (книга).md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b5586de481b50cd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIPNotes/Book to read on USSR power structure.md",
+                "file": "WIPNotes/Subconcious is tryiung to send you a message through habbits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "025829779dccbce7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIPNotes/Polish interwar state absorbed national its different movements styles - civil socieaty experince from Prussia, political experiance from Hubsburg Empire and radical experiance from Russia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b79eaf3c08605e03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIPNotes/ANDOR SERIES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc023cc7256818c8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
+          },
+          {
+            "id": "e7bf30a639efe93f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIPNotes/Outer Wilds.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c4e036abccbc85e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIPNotes/three side dynamics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -53,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:WIPNotes",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,12 +171,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 401.5,
-    "collapsed": true
+    "width": 401.5
   },
   "right": {
     "id": "a922d188f5a51fec",
@@ -112,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIPNotes/Book to read on USSR power structure.md",
+                "file": "WIPNotes/ANDOR SERIES.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIPNotes/Book to read on USSR power structure.md"
+                "file": "WIPNotes/ANDOR SERIES.md"
               }
             }
           },
@@ -178,20 +266,37 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5,
+    "width": 357.5,
     "collapsed": true
   },
-  "active": "9a73fd538f45985b",
+  "left-ribbon": {
+    "hiddenItems": {
+      "smart-random-note:Open Random Note from Search": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-file-info-plugin:File Info Panel": false,
+      "vantage-obsidian:Vantage - Advanced search builder": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "b79eaf3c08605e03",
   "lastOpenFiles": [
+    "WIPNotes/Polish interwar state absorbed national its different movements styles - civil socieaty experince from Prussia, political experiance from Hubsburg Empire and radical experiance from Russia.md",
+    "WIPNotes/Subconcious is tryiung to send you a message through habbits.md",
+    "WIPNotes/Lenin thought that communist revolution shouuld happpen not where there are a lot of workers but where the capitalists are the weakest (unlike Marx).md",
+    "WIPNotes/MANGA BLAME.md",
     "Workspace.md",
-    "WIPNotes/Book to read on USSR power structure.md",
-    "WIPNotes/fence.md",
-    "WIPNotes/what is exploitation in an open market.md",
-    "WIPNotes/систему характеризует не ошибка, а реакция на ошибку.md",
-    "WIPNotes/Retinol for skin.md",
-    "WIPNotes/Having balance in the age of indulgence.md",
-    "WIPNotes/Record your vocal with this.md",
-    "WIPNotes/Thinking fast and slow.md",
-    "WIPNotes/VO2 parameters.md"
+    "WIPNotes/Anne if Kyiv said Paris is pathetic compared to Kyiv.md",
+    "WIPNotes/Rus is being created the same time as Norway and Sweeden and is present in Icelandic sagas.md",
+    "WIPNotes/This war might be more about uncertainty of what russia is then it is about the uncertainty of what Ukraine is..md",
+    "WIPNotes/There are scandinavian sagas about Volodimyr succession.md",
+    "WIPNotes/Outer Wilds.md"
   ]
 }

@@ -1,4 +1,4 @@
-# books about propaganda
+
 Книжки:
 
 Peter Pomerantsev
@@ -8,6 +8,8 @@ Peter Pomerantsev
 
 Розбір рос пропаганди
 
+
+[[2022-11-11]] замовив "Це не пропаганда" - якщо сподобається куплю і другу книжку
 
 ---
 status: #⚙️ 

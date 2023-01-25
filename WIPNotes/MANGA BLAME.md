@@ -1,0 +1,6 @@
+- 1st chapter is almost perfect Hero journney
+- 6th chapter - silicon life - interesting way to introduce
+- 7.5 accidental color - really supports "leaving the nest" importance
+- 8 - chapter without a name - supports mystery 
+- 12 - storage king is the name. It is never mentions anywhere but it is an additional way to communicate the reader what he met in the chapter
+- 

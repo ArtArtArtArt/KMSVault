@@ -1,4 +1,4 @@
-# importance of luck in complex systems, influence of believing in luck on behavior
+
 https://www.youtube.com/watch?v=3LopI4YeC4I&list=WL&index=3&ab_channel=Veritasium
 
 Luck is responsible for 90 percent of top tear people if we try to simulate like in the video (luck is 5 percent success)

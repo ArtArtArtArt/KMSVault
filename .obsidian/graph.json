@@ -1,22 +1,30 @@
 {
-  "collapse-filter": false,
-  "search": "-path:Templates -path:QUERES -path:Resources -path:ZZZ -path:2MOCs -path:DailyWeekly",
-  "showTags": false,
-  "showAttachments": false,
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -2.1,
   "nodeSizeMultiplier": 2.46327433628319,
   "lineSizeMultiplier": 2.19401709401709,
   "collapse-forces": false,
-  "centerStrength": 0.489583333333333,
-  "repelStrength": 12.9896907216495,
-  "linkStrength": 0.309278350515464,
-  "linkDistance": 171,
-  "scale": 0.4505081176757868,
+  "centerStrength": 0.421875,
+  "repelStrength": 20,
+  "linkStrength": 0.515625,
+  "linkDistance": 245,
+  "scale": 0.015355906606692834,
   "close": true
 }

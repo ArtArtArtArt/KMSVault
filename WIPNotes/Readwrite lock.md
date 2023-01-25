@@ -1,4 +1,3 @@
-# Read/write lock
 Read/write lock
 
 ---

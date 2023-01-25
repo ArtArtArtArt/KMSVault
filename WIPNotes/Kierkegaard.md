@@ -1,4 +1,4 @@
-# Kierkegaard
+
 
 Kierkegaard Years of life 1813-1855
 

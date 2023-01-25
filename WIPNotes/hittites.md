@@ -1,9 +1,3 @@
----
-status: ⚙️
-tags: 
- - video outline
----
-# hittites
 
 https://youtu.be/KmuhAy_bpjo
 
@@ -18,3 +12,6 @@ But the actual text about that is recorded in seven hundred years after.
 
 ---
 **.... IN PROGRESS**
+
+
+[[2022-11-29]] not really interested in this

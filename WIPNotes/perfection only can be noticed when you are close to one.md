@@ -1,4 +1,3 @@
-# perfection only can be noticed when you are close to one
 https://www.tiktok.com/@essence_appearence/video/7107679513135336746?_t=8T4W345Hxry&_r=1
 
 Zizek

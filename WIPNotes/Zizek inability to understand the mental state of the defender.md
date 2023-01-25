@@ -1,4 +1,3 @@
-# Zizek inability to understand the mental state of the defender
 https://syg.ma/@Zakh/slavoi-zhizhiek-piat-etiko-politichieskikh-fraghmientov?utm_source=pocket_mylist
 
 Щось жижека поплавило
