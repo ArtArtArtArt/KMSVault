@@ -1,4 +1,3 @@
-# Spinlock
 
 Is a primitive which while blocking the thread does not put it to sleep, but makes it poll the lock again and again. Putting thread to sleep and then waking it up may be very costly operation if the actual time that is spend inside the clock is low.
 Moreover spinlock is unnecessary on a single core system (???)

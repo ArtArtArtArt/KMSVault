@@ -47,11 +47,67 @@ First three episodes is a mafia movie in a corrupted gotham
 next episodes seem to be a heist movie
 
 
+They even have some ideology behind resistance (+ manifest) - 6th episode
+
+
+Crazy ideologies about natives (they smell horribly, cannot hold several ideas at the same time and that is why they are easy to manipulate)
+
+Also good guys are essentialy terorrists - they threaten women and children for bigger cause
+there is no way to make things ethically
+
+
+ISB is basically a KGB
+
+
+Mon Mothma is doing humanitarian part of the rebelion (like OUN had)
+Also it is a cover for some more serious resisstance
+
+
+Three-piece-judges happen
+
+
+1-3 - corrupted police magia nuar
+4-6 - heist movie
+7-9 - PRISON ESCAPE?
+
+
+Prisoners have no shoes - guards have massive shoes
+
+First thing the guards do - they make you suffer - like in GULAG
+
+Gorlum is a prisoner which is made a guard (like in GULAG)
+
+
+The resistance is multiple ideologies who cannot find peace together
+
+Luthen is trying to comp them all together
+
+Nobody is just infodumping
+Even subbordinates are often showing some featerus of character 
+
+Cool that separatism leads to connections with mafia - when mon mothma needs covering the money which she spent on rebellion
+
+
+Even the medic is a prisoner
+
+Dead man gives a chance for escape (Monte cristo)
+
+
+WTF why so cool speeches in episode 10???
+
+WTF why space battle so cool? it is not action only it is tech + logic fight
+
+
+And the last episode is a Django?
+
+
+Funeral as a leagal way of gathering is very cool
 
 
 
 
+---
 
+https://www.youtube.com/watch?v=LXVj2cDP1Gg&ab_channel=TheCanvas
 
-
-
+Beurocratic, banal evil

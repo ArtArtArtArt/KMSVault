@@ -22,13 +22,13 @@
             }
           },
           {
-            "id": "ed0d4acbc946a086",
+            "id": "b127f0f669fa1033",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIPNotes/MANGA BLAME.md",
+                "file": "WIPNotes/Projects.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,93 +36,31 @@
             }
           },
           {
-            "id": "e6cd8051bedfc2b6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIPNotes/це не пропаганда (книга).md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "b5586de481b50cd6",
+            "id": "56bcb27518ab2470",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIPNotes/Subconcious is tryiung to send you a message through habbits.md",
+                "file": "WIPNotes/Портников Жадан війна і схід.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "025829779dccbce7",
+            "id": "2a53fcf872089937",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIPNotes/Polish interwar state absorbed national its different movements styles - civil socieaty experince from Prussia, political experiance from Hubsburg Empire and radical experiance from Russia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b79eaf3c08605e03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIPNotes/ANDOR SERIES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc023cc7256818c8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
-          },
-          {
-            "id": "e7bf30a639efe93f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIPNotes/Outer Wilds.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c4e036abccbc85e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIPNotes/three side dynamics.md",
+                "file": "WIPNotes/Individualism depends on flooded rivers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:WIPNotes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,8 +109,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIPNotes/ANDOR SERIES.md",
+                "file": "WIPNotes/Портников Жадан війна і схід.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIPNotes/ANDOR SERIES.md"
+                "file": "WIPNotes/Портников Жадан війна і схід.md"
               }
             }
           },
@@ -286,17 +223,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b79eaf3c08605e03",
+  "active": "56bcb27518ab2470",
   "lastOpenFiles": [
-    "WIPNotes/Polish interwar state absorbed national its different movements styles - civil socieaty experince from Prussia, political experiance from Hubsburg Empire and radical experiance from Russia.md",
-    "WIPNotes/Subconcious is tryiung to send you a message through habbits.md",
-    "WIPNotes/Lenin thought that communist revolution shouuld happpen not where there are a lot of workers but where the capitalists are the weakest (unlike Marx).md",
-    "WIPNotes/MANGA BLAME.md",
-    "Workspace.md",
-    "WIPNotes/Anne if Kyiv said Paris is pathetic compared to Kyiv.md",
-    "WIPNotes/Rus is being created the same time as Norway and Sweeden and is present in Icelandic sagas.md",
-    "WIPNotes/This war might be more about uncertainty of what russia is then it is about the uncertainty of what Ukraine is..md",
-    "WIPNotes/There are scandinavian sagas about Volodimyr succession.md",
-    "WIPNotes/Outer Wilds.md"
+    "WIPNotes/Individualism depends on flooded rivers.md",
+    "WIPNotes/Spinlock.md",
+    "WIPNotes/Backrooms and why it is scary.md",
+    "WIPNotes/make lines better by switching them to dialog and or audio visual scenes.md",
+    "WIPNotes/texture filtering.md",
+    "WIPNotes/threads for game engine subsystems.md",
+    "WIPNotes/Bible says life starts with the first breath and has instructions for miscarriage.md",
+    "WIPNotes/tiktok and youtube tutorials.md",
+    "WIPNotes/Russian Manipulations.md",
+    "WIPNotes/Портников Жадан війна і схід.md"
   ]
 }

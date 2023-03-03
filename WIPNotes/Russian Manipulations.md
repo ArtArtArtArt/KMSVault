@@ -1,4 +1,4 @@
-# Russian Manipulations
+
 -	Ukraine is USA puppet
 -	Ukraine is in conspiracy with Russia to prolong the war. Both governments are trying to turn two peoples against each other (Kyva)
 -	We are one faith, we should not be fighting (Marchenko)

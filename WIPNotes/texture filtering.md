@@ -1,8 +1,3 @@
----
-state: ⚙️
-type: interviewquestion
----
-# texture filtering
 #programming/gamedev/gameEngine 
 #interview 
 

@@ -1,4 +1,3 @@
-# Bible says life starts with the first breath and has instructions for miscarriage
 https://www.tiktok.com/@kai8seasons/video/7102021899500162347?_t=8SgAI8M5EKz&_r=1
 
 Genesis 2:7 life does not start at conception - it starts with the first breath

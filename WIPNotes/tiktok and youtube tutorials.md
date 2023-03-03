@@ -1,4 +1,3 @@
-# tiktok and youtube tutorials
 
 - [x] find the recording gear
 - [x] Record screen with explaining what you did in the track
