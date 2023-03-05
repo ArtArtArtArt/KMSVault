@@ -208,11 +208,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "smart-random-note:Open Random Note from Search": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-file-info-plugin:File Info Panel": false,
-      "vantage-obsidian:Vantage - Advanced search builder": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -220,6 +215,11 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-file-info-plugin:File Info Panel": false,
+      "vantage-obsidian:Vantage - Advanced search builder": false,
+      "templater-obsidian:Templater": false,
       "periodic-notes:Open today": false
     }
   },
