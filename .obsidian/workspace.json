@@ -36,15 +36,17 @@
             }
           },
           {
-            "id": "56bcb27518ab2470",
+            "id": "dd795ad5be1c8e35",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIPNotes/Портников Жадан війна і схід.md",
+                "file": "WIPNotes/Lerning projects.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -58,9 +60,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "48ca4c09d39b7cc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIPNotes/Zizek's domains.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a095eb44a29fc944",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIPNotes/Clean Code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -137,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIPNotes/Портников Жадан війна і схід.md",
+                "file": "WIPNotes/Clean Code.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIPNotes/Портников Жадан війна і схід.md"
+                "file": "WIPNotes/Clean Code.md"
               }
             }
           },
@@ -223,9 +249,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "56bcb27518ab2470",
+  "active": "a095eb44a29fc944",
   "lastOpenFiles": [
+    "WIPNotes/Lerning projects.md",
+    "WIPNotes/Clean Code.md",
+    "WIPNotes/Zizek's domains.md",
+    "WIPNotes/Projects.md",
     "WIPNotes/Individualism depends on flooded rivers.md",
+    "WIPNotes/Dopamine can be cinverted into epinephrine (adrenaline).md",
+    "WIPNotes/Портников Жадан війна і схід.md",
+    "Workspace.md",
     "WIPNotes/Spinlock.md",
     "WIPNotes/Backrooms and why it is scary.md",
     "WIPNotes/make lines better by switching them to dialog and or audio visual scenes.md",
@@ -233,7 +266,6 @@
     "WIPNotes/threads for game engine subsystems.md",
     "WIPNotes/Bible says life starts with the first breath and has instructions for miscarriage.md",
     "WIPNotes/tiktok and youtube tutorials.md",
-    "WIPNotes/Russian Manipulations.md",
-    "WIPNotes/Портников Жадан війна і схід.md"
+    "WIPNotes/Russian Manipulations.md"
   ]
 }

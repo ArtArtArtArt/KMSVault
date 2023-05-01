@@ -18,3 +18,6 @@
 	AI which plays this game. It uses hexagons. It does not have a UI.
 
 - Horror game - I want to make sound design for it
+- Logistics based warno - you set up logistics and units are fighting according to what doctrines that you set up for them (maybe start with a blue print for wargame like strategy)
+- Your own engine for strategy games (main focus is learning)
+- Dialog based story (+ science based worldbuilding)
