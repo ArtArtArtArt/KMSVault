@@ -9,7 +9,7 @@ Everyone seem to have an ideology (the main white suit - treat the disease becau
 Very cool depiction of colonialism - people hate authorities and have their own level of organization (hitting metal stuff - maybe inspired by some real behavior)
 
 
-Also parallelism between small and adult andor's stories is awesome
+Also parallelism between small and adult -+-+andor's stories is awesome
 Also droid which stutters - is an awesome detail
 
 
@@ -31,11 +31,11 @@ Vel is the leader - but she is heavily influenced by Skarsgaard
 
 Every new character has a link to what we already know
 Nobody is presented out of the blue for us to hope that at some point the connection will be visible - it is visible outright
-So it makes it easier to follow new characyers
+So it makes it easier to follow new characters
 
 
 
-Empire is shown to poses a lot of artiffacts of captured colonies
+Empire is shown to poses a lot of artefacts of captured colonies
 
 Also Tales of Jedi show that even republic can behave as a colonial power - and that basically transition to empire did not change fundamentally some things (super power of senators for on places for example)
 Also double talk in the store of skar5sgaard and when Ahsoka and senator meet at padme's funeral

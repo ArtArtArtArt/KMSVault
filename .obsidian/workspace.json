@@ -50,43 +50,33 @@
             }
           },
           {
-            "id": "2a53fcf872089937",
+            "id": "51a18fefd505e678",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIPNotes/Individualism depends on flooded rivers.md",
+                "file": "WIPNotes/завтра завтра завтра.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "48ca4c09d39b7cc7",
+            "id": "9822061e8283dd26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIPNotes/Zizek's domains.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a095eb44a29fc944",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIPNotes/Clean Code.md",
+                "file": "WIPNotes/Chord progression theory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -105,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:WIPNotes",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,6 +123,14 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "004baf35aa94403f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -163,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIPNotes/Clean Code.md",
+                "file": "WIPNotes/Chord progression theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIPNotes/Clean Code.md"
+                "file": "WIPNotes/Chord progression theory.md"
               }
             }
           },
@@ -206,6 +204,18 @@
             "state": {
               "type": "todo",
               "state": {}
+            }
+          },
+          {
+            "id": "231b774e38545828",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
         ],
@@ -229,8 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5,
-    "collapsed": true
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,23 +258,33 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a095eb44a29fc944",
+  "active": "9822061e8283dd26",
   "lastOpenFiles": [
+    "WIPNotes/Hollywood music.md",
+    "WIPNotes/Chord progression theory.md",
+    "WIPNotes/завтра завтра завтра.md",
     "WIPNotes/Lerning projects.md",
-    "WIPNotes/Clean Code.md",
-    "WIPNotes/Zizek's domains.md",
     "WIPNotes/Projects.md",
-    "WIPNotes/Individualism depends on flooded rivers.md",
-    "WIPNotes/Dopamine can be cinverted into epinephrine (adrenaline).md",
-    "WIPNotes/Портников Жадан війна і схід.md",
-    "Workspace.md",
-    "WIPNotes/Spinlock.md",
-    "WIPNotes/Backrooms and why it is scary.md",
-    "WIPNotes/make lines better by switching them to dialog and or audio visual scenes.md",
-    "WIPNotes/texture filtering.md",
-    "WIPNotes/threads for game engine subsystems.md",
-    "WIPNotes/Bible says life starts with the first breath and has instructions for miscarriage.md",
-    "WIPNotes/tiktok and youtube tutorials.md",
-    "WIPNotes/Russian Manipulations.md"
+    "WIPNotes/cool vocoder usage.md",
+    "WIPNotes/Chords of tonality and it's modes.md",
+    "WIPNotes/Spaced repetition.md",
+    "WIPNotes/rhythm example.md",
+    "WIPNotes/balancing meta before the main gameplay loop.md",
+    "WIPNotes/Z war seems very logical and inevitable for consumers of the russian culture.md",
+    "WIPNotes/gambling is one of the reasons of burning out.md",
+    "WIPNotes/tech bonus is won so it is not predictable.md",
+    "WIPNotes/Ідея для сюжету.md",
+    "WIPNotes/romantic partner should be a mutual multiplier.md",
+    "WIPNotes/Норвезькі анекдоти окупації.md",
+    "ZZZ/httpshill-coreopsis-4f5.notion.sitePodcasts-d98ffcbfaaf24667a0a009ef1cbc93ed(httpshill-coreopsis-4f5.notion.sitePodcasts-d98ffcbfaaf24667a0a009ef1cbc93ed).md",
+    "WIPNotes/Untitled Star Wars score was inspired by Horst’s planets (1918).md",
+    "WIPNotes/national regalia is a performance in a fashion of certain time.md",
+    "WIPNotes/you can do it - is wrong motivation.md",
+    "ZZZ/Record your vocal with this.md",
+    "WIPNotes/classical realism.md",
+    "WIPNotes/fast reading.md",
+    "WIPNotes/previous generation was VERY wrong about our life.md",
+    "WIPNotes/quaternion.md",
+    "WIPNotes/sqlmap.md"
   ]
 }
