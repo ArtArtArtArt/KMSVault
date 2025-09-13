@@ -4,79 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9111effdb4974a21",
+        "id": "23a798c6a72e17bc",
         "type": "tabs",
         "children": [
           {
-            "id": "8fa5960bebee208c",
+            "id": "0fd6e178fa528421",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Workspace.md",
-                "mode": "source",
-                "source": false
+                "file": "LifeCycle/NewFinishedNotes.base",
+                "viewName": "Table"
               },
-              "pinned": true
-            }
-          },
-          {
-            "id": "b127f0f669fa1033",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIPNotes/Projects.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "dd795ad5be1c8e35",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIPNotes/Lerning projects.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "51a18fefd505e678",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIPNotes/завтра завтра завтра.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "9822061e8283dd26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIPNotes/Chord progression theory.md",
-                "mode": "source",
-                "source": false
-              }
+              "icon": "lucide-table",
+              "title": "NewFinishedNotes"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,13 +39,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "WIP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -111,8 +57,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -121,8 +71,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -130,10 +83,13 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -152,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -161,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIPNotes/Chord progression theory.md",
+                "file": "LifeCycle/NewFinishedNotes.base",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +127,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for NewFinishedNotes"
             }
           },
           {
@@ -177,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -186,16 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIPNotes/Chord progression theory.md"
-              }
-            }
-          },
-          {
-            "id": "120bcc38dceafaba",
-            "type": "leaf",
-            "state": {
-              "type": "tlfItemView",
-              "state": {}
+                "file": "LifeCycle/NewFinishedNotes.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of NewFinishedNotes"
             }
           },
           {
@@ -203,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -215,11 +176,23 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d595b0a90fefbbba",
+            "type": "leaf",
+            "state": {
+              "type": "tlfItemView",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "File Info View"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       },
       {
         "id": "5351e6e1e36fc38a",
@@ -232,17 +205,21 @@
               "type": "image",
               "state": {
                 "file": "Resources/Pasted image 20220702065555.png"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20220702065555"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 357.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -258,33 +235,42 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9822061e8283dd26",
+  "active": "0fd6e178fa528421",
   "lastOpenFiles": [
-    "WIPNotes/Hollywood music.md",
-    "WIPNotes/Chord progression theory.md",
-    "WIPNotes/завтра завтра завтра.md",
-    "WIPNotes/Lerning projects.md",
-    "WIPNotes/Projects.md",
-    "WIPNotes/cool vocoder usage.md",
-    "WIPNotes/Chords of tonality and it's modes.md",
-    "WIPNotes/Spaced repetition.md",
-    "WIPNotes/rhythm example.md",
-    "WIPNotes/balancing meta before the main gameplay loop.md",
-    "WIPNotes/Z war seems very logical and inevitable for consumers of the russian culture.md",
-    "WIPNotes/gambling is one of the reasons of burning out.md",
-    "WIPNotes/tech bonus is won so it is not predictable.md",
-    "WIPNotes/Ідея для сюжету.md",
-    "WIPNotes/romantic partner should be a mutual multiplier.md",
-    "WIPNotes/Норвезькі анекдоти окупації.md",
-    "ZZZ/httpshill-coreopsis-4f5.notion.sitePodcasts-d98ffcbfaaf24667a0a009ef1cbc93ed(httpshill-coreopsis-4f5.notion.sitePodcasts-d98ffcbfaaf24667a0a009ef1cbc93ed).md",
-    "WIPNotes/Untitled Star Wars score was inspired by Horst’s planets (1918).md",
-    "WIPNotes/national regalia is a performance in a fashion of certain time.md",
-    "WIPNotes/you can do it - is wrong motivation.md",
-    "ZZZ/Record your vocal with this.md",
-    "WIPNotes/classical realism.md",
-    "WIPNotes/fast reading.md",
-    "WIPNotes/previous generation was VERY wrong about our life.md",
-    "WIPNotes/quaternion.md",
-    "WIPNotes/sqlmap.md"
+    "LifeCycle/2_FinishedNotes/1 like for 115 females is a result of an average man on tinder.md",
+    "LifeCycle/NewFinishedNotes.base",
+    "LifeCycle/AllWIPNotes.base",
+    "LifeCycle/2_FinishedNotes/Untitled.md",
+    "DailyWeekly/2025-09-13.md",
+    "Resources/Pasted image 20220702065555.png",
+    "LifeCycle/1_WIPNotes/phrases from the cartoons.md",
+    "LifeCycle/1_WIPNotes/cpu usage of a single application.md",
+    "LifeCycle/1_WIPNotes/Stack Unwinding.md",
+    "LifeCycle/1_WIPNotes/my personal dopamine sources (I love...).md",
+    "Untitled.md",
+    "LifeCycle/3_Archive",
+    "LifeCycle/1_WIPNotes/Untitled.base",
+    "LifeCycle/1_WIPNotes/Untitled 5.md",
+    "LifeCycle/1_WIPNotes/Untitled 7.md",
+    "LifeCycle/1_WIPNotes/Hypothesis testing.md",
+    "LifeCycle/1_WIPNotes/Untitled 6.md",
+    "LifeCycle/1_WIPNotes/Map of productivity.md",
+    "LifeCycle",
+    "LifeCycle/2_FinishedNotes",
+    "Resources/Pasted image 20250913175836.png",
+    "Resources/Pasted image 20250913175715.png",
+    "LifeCycle/1_WIPNotes/Ideas vault.md",
+    "4Book/BOOK c++ concurrency in action.md",
+    "LifeCycle/1_WIPNotes/Brodskji, Andersonian communities, books to understand russian culture.md",
+    "4Book/BOOK Imagined communities.md",
+    "LifeCycle/1_WIPNotes/Book to read on USSR power structure.md",
+    "LifeCycle/1_WIPNotes/line content in lyrics.md",
+    "LifeCycle/1_WIPNotes/Організація часу.md",
+    "LifeCycle/1_WIPNotes/russian costumes before nineteenth century looked Islamic.md",
+    "LifeCycle/1_WIPNotes/how to signal thread about something.md",
+    "LifeCycle/1_WIPNotes/Unreal engine questions.md",
+    "LifeCycle/1_WIPNotes/Malloc vs new.md",
+    "LifeCycle/1_WIPNotes/Павличко Модернізм.canvas",
+    "LifeCycle/1_WIPNotes/Інструментальність заклику.md"
   ]
 }

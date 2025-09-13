@@ -9,7 +9,7 @@ tags:
 
 [[multithread for game development]]
 
-*job stystem in unreal??*
+*job system in unreal??*
 
 
 

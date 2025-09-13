@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "LifeCycle/2_FinishedNotes"
+        - file.mtime > "2025-09-13"
+    order:
+      - file.name
+      - file.mtime

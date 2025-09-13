@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "LifeCycle/1_WIPNotes"
+    order:
+      - file.name
+    sort: []
